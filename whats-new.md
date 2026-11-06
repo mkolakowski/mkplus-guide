@@ -11,6 +11,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Have a book read to you
+
+_Version 1.308.0 · 6 November 2026_
+
+- Tap the speaker in an EPUB's controls and it's read aloud from the page you're on, with the page turning along and the sentence highlighted.
+- Pause, stop, or set the sleep timer to stop after a while or at the end of the chapter.
+- Settings → Reading → Read Aloud sets the speed.
+
+<details markdown="1">
+<summary>Everything in 1.308.0</summary>
+
+**New**
+
+- Read Aloud in EPUB books: the speaker button reads from the page shown, in your device's voice for the book's language.
+- A bar while it reads with Pause, Stop and the sleep timer (a time, or End of Chapter).
+- Settings → Reading → Read Aloud: Speed, Turn Pages to Follow and Highlight the Sentence.
+
+</details>
+
 ### Cloudflare Access help, step by step
 
 _Version 1.307.3 · 6 November 2026_
