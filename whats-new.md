@@ -11,6 +11,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Cloudflare Access help, step by step
+
+_Version 1.307.3 · 6 November 2026_
+
+- Signing in to a server behind Cloudflare Access? Tap Step-by-step guide under the sign-in help for the three ways in and how to make a service token.
+
+<details markdown="1">
+<summary>Everything in 1.307.3</summary>
+
+**New**
+
+- A Step-by-step guide link under the Cloudflare Access help in the server forms and on the Cloudflare sign-in screen.
+
+</details>
+
 ### Step-by-step setup guides
 
 _Version 1.307.1 · 6 November 2026_
