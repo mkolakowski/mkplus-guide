@@ -24,6 +24,11 @@ through it step by step, and say what to do when signing in goes wrong.
 
 You only do this once per service: MK Plus remembers the key for the next
 account you add.
+{% if site.data.guide_use_pages %}
+## Using MK Plus
+
+{% for p in site.data.guide_use_pages %}- [{{ p.title }}]({{ p.file | relative_url }}){% if p.about != "" %}: {{ p.about }}{% endif %}
+{% endfor %}{% endif %}
 
 ## What's new
 
