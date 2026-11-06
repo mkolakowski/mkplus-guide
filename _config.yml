@@ -13,7 +13,6 @@ heading_anchors: true
 color_scheme: dark
 aux_links:
   "Get MK Plus on TestFlight": "https://testflight.apple.com/join/P2bjt14B"
-  "Privacy policy": "https://gist.github.com/mkolakowski/066c5e8ca1cfa248b83969fd1c37b93f"
 footer_content: "These pages are generated from the MK Plus project's docs. Found a mistake? Use <strong>Settings → Provide Feedback</strong> in the app."
 exclude:
   - README.md
