@@ -33,13 +33,13 @@ Only what you choose to send as feedback (see Feedback and TestFlight below). MK
 - **Box**, if you add one, under your Box account, through a Box app you make yourself. The same applies: your files go directly between your device and Box, and you can remove the app's access in your Box account.
 - **Hugging Face**, only if you download a Whisper model for generated subtitles (Settings → Video Playback → Subtitles). Only the model file is fetched.
 - **Cloudflare Access**, only for a server of yours that sits behind it, to sign you in.
-- **Cloudflare and GitHub**, only when you send feedback, as described below.
+- **Cloudflare**, only when you send feedback, as described below. It passes reports on to GitHub and attachments to Backblaze B2.
 
 ## Feedback and TestFlight
 
 If you use **Provide Feedback**, the app sends what you write, the app's version, and your device model and iOS version. An image and the Activity Log are sent only if you attach them, and you can read the log before sending it. Images are re-encoded first, which removes their location and other details. Reports don't include your name or contact details unless you type them.
 
-Reports pass through a small service the developer runs on Cloudflare and are stored on GitHub, in private repositories that aren't open to the public. Cloudflare sees your IP address, as any web service does. It isn't added to your report; to limit how many reports can be sent, a hash of it is kept for about two hours.
+Reports pass through a small service the developer runs on Cloudflare. What you write is stored on GitHub, in a private repository that isn't open to the public. An attached image or Activity Log is stored privately on Backblaze B2 and deleted automatically after 90 days (versions before 1.307.2 stored them on GitHub instead). Cloudflare sees your IP address, as any web service does. It isn't added to your report; to limit how many reports can be sent, a hash of it is kept for about two hours.
 
 If a report can't be sent, you can choose to email it instead: your email goes to the developer at appledev@iptater.net with the same details and anything you attached.
 
