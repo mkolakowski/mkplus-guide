@@ -28,6 +28,8 @@ You don't have to do anything here, but it helps to check that the folder is the
 
 ## In MK Plus
 
+<img src="images/iphone-18-pro-max/add-files-folder.png" width="260" alt="The Add Folder form on an iPhone 18 Pro Max">
+
 1. On the Server List, tap the **+** button and choose **Add Server**.
 2. Tap **iCloud Drive & Files**.
 3. Files' folder picker opens straight away. Open the folder you want and tap **Open**. (Tapping **Cancel** the first time closes the form without adding anything.)

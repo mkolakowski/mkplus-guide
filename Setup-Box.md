@@ -38,6 +38,8 @@ Box gives your app two codes: a **client ID**, which names the app, and a **clie
 
 ## In MK Plus
 
+<img src="images/iphone-18-pro-max/add-box.png" width="260" alt="The Add Box form on an iPhone 18 Pro Max">
+
 1. On the Server List, tap the **+** button and choose **Add Server**.
 2. Tap **Box**.
 3. Under **Box App**, paste the **Client ID** and the **Client Secret**.

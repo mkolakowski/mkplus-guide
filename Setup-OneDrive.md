@@ -37,6 +37,8 @@ If you're signing in with a **work or school** account, your organization's admi
 
 ## In MK Plus
 
+<img src="images/iphone-18-pro-max/add-onedrive.png" width="260" alt="The Add OneDrive form on an iPhone 18 Pro Max">
+
 1. On the Server List, tap the **+** button and choose **Add Server**.
 2. Tap **OneDrive**.
 3. Under **Microsoft App**, paste the ID into **Client ID**.

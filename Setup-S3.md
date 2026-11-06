@@ -139,6 +139,8 @@ For any server that speaks the S3 API: MinIO, Ceph, Garage, or the S3 service bu
 
 ## In MK Plus
 
+<img src="images/iphone-18-pro-max/add-s3.png" width="260" alt="The Add S3 Storage form, scrolled to its keys on an iPhone 18 Pro Max">
+
 1. On the Server List, tap the **+** button and choose **Add Server**.
 2. Tap **S3-Compatible Storage**.
 3. Under **Storage**, set **Service** to your provider. **Region** and **Endpoint** fill themselves in. Change **Region** to your bucket's, and paste the **Endpoint** if the template left it blank.

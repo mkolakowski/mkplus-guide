@@ -44,6 +44,8 @@ A **client ID** is a long code that names the app you register with Google. It i
 
 ## In MK Plus
 
+<img src="images/iphone-18-pro-max/add-google-drive.png" width="260" alt="The Add Google Drive form on an iPhone 18 Pro Max">
+
 1. On the Server List, tap the **+** button and choose **Add Server**.
 2. Tap **Google Drive**.
 3. Under **Google Client**, paste the ID into **Client ID**.
