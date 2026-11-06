@@ -24,3 +24,7 @@ through it step by step, and say what to do when signing in goes wrong.
 
 You only do this once per service: MK Plus remembers the key for the next
 account you add.
+
+## What's new
+
+See [What's New](whats-new.html) for the highlights of each update.

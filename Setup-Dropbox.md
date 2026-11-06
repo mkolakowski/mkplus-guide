@@ -37,6 +37,8 @@ You don't need to register a redirect address. The one MK Plus uses is built fro
 
 ## In MK Plus
 
+<img src="images/iphone-18-pro-max/add-dropbox.png" width="260" alt="The Add Dropbox form on an iPhone 18 Pro Max">
+
 1. On the Server List, tap the **+** button and choose **Add Server**.
 2. Tap **Dropbox**.
 3. Under **Dropbox App**, paste your key into **App Key**.
