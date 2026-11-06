@@ -1,0 +1,19 @@
+# Jekyll config for the public setup guide (mkolakowski/mkplus-guide).
+# Lives in the app's repo under docs/guide-site/; Scripts/publish-guide.py
+# copies it to the public repo. Edit it here, not there.
+title: MK Plus Setup Guide
+description: How to connect MK Plus to Dropbox, Google Drive, OneDrive, Box, S3-compatible storage and more.
+baseurl: /mkplus-guide
+url: https://mkolakowski.github.io
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
+heading_anchors: true
+color_scheme: dark
+aux_links:
+  "Get MK Plus on TestFlight": "https://testflight.apple.com/join/P2bjt14B"
+  "Privacy policy": "https://gist.github.com/mkolakowski/066c5e8ca1cfa248b83969fd1c37b93f"
+footer_content: "These pages are generated from the MK Plus project's docs. Found a mistake? Use <strong>Settings → Provide Feedback</strong> in the app."
+exclude:
+  - README.md

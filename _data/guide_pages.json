@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Cloudflare Access",
+    "file": "Cloudflare-Access.html",
+    "need": "A server behind Cloudflare Zero Trust; optionally a service token",
+    "time": "2 minutes"
+  }
+]
