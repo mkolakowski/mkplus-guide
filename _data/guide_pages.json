@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dropbox",
+    "file": "Setup-Dropbox.html",
+    "need": "A Dropbox account; an app key you make (free)",
+    "time": "5 minutes"
+  },
+  {
+    "title": "Google Drive",
+    "file": "Setup-Google-Drive.html",
+    "need": "A Google account; a client ID you make (free)",
+    "time": "10 minutes"
+  },
+  {
+    "title": "OneDrive",
+    "file": "Setup-OneDrive.html",
+    "need": "A Microsoft account; a client ID you make (free; a personal account needs a free Azure account first)",
+    "time": "10 minutes"
+  },
+  {
+    "title": "Box",
+    "file": "Setup-Box.html",
+    "need": "A Box account; a client ID and secret you make (free)",
+    "time": "5 minutes"
+  },
+  {
+    "title": "S3-compatible storage",
+    "file": "Setup-S3.html",
+    "need": "A bucket on Amazon S3, Cloudflare R2, Backblaze B2, Wasabi, DigitalOcean Spaces or your own server, and an access key",
+    "time": "5 to 10 minutes"
+  },
+  {
+    "title": "Folders in the Files app",
+    "file": "Setup-Files-Folders.html",
+    "need": "A folder in iCloud Drive, On My iPhone, a USB drive or another app",
+    "time": "1 minute"
+  },
+  {
     "title": "Cloudflare Access",
     "file": "Cloudflare-Access.html",
     "need": "A server behind Cloudflare Zero Trust; optionally a service token",
