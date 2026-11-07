@@ -11,6 +11,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Try the new video player
+
+_Version 1.310.0 · 6 November 2026_
+
+- New Video Player (Beta) in Settings → Video Playback plays the videos that would open in VLC.
+- It jumps around a video on your server in about a second, even a big film.
+
+<img src="images/iphone-18-pro-max/new-video-player-setting.png" width="300" alt="Settings → Video Playback with the New Video Player (Beta) switch">
+
+<details markdown="1">
+<summary>Everything in 1.310.0</summary>
+
+**New**
+
+- Settings → Video Playback → New Video Player (Beta), off to start with. Turn it on and videos that would play in VLC play in the new player instead, with the same buttons and gestures.
+- For now it plays the picture and sound, with seeking, scrubbing, speed, zoom, rotation and Up Next. Choosing audio and subtitles, scrub previews and Picture in Picture come in the next updates.
+- It plays videos on your shares and downloaded videos. Web links still play in VLC, and if it can't play a video, VLC takes over.
+
+</details>
+
 ### Have a book read to you
 
 _Version 1.308.0 · 6 November 2026_
