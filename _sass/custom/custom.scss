@@ -31,14 +31,3 @@ body {
 }
 .main-content h2 { border-bottom: 2px solid $link-color; padding-bottom: 0.35rem; }
 .main-content strong { color: $body-heading-color; }
-
-// Glow backdrop: a soft glow in the scheme's colors and a frosted sidebar.
-html, body {
-  background:
-    radial-gradient(1100px 600px at 75% 0%, rgba($btn-primary-color, 0.45), transparent 75%),
-    radial-gradient(900px 520px at 0% 105%, rgba($link-color, 0.18), transparent 70%),
-    $body-background-color fixed;
-}
-.side-bar { background: rgba($sidebar-color, 0.55); backdrop-filter: blur(14px); }
-.main-header, .site-header { background: transparent; }
-.table-wrapper, .search-input { background: rgba($table-background-color, 0.6) !important; }
