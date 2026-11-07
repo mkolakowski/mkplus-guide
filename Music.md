@@ -71,4 +71,4 @@ Music carries on when you switch to another app or lock your iPhone. Its title, 
 
 ---
 
-Home · Previous: [← Jellyfin](Jellyfin.html) · Back to: [Getting Started](Getting-Started.html)
+Home · Previous: [← Jellyfin](Jellyfin.html) · Next: [Reading →](Reader.html)

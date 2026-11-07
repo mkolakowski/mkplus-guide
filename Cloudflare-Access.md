@@ -40,7 +40,7 @@ Google doesn't offer one there. What that means for each sign-in:
 | Sign-in | Passkeys? | How |
 |---|---|---|
 | Cloudflare Access | Yes | **Sign In with Safari** |
-| Kavita's own OpenID login | Yes | **Sign In with … in Safari**, then paste the OPDS URL (OPDS Catalogs) |
+| Kavita's own OpenID login | Yes | **Sign In with … in Safari**, then paste the OPDS URL ([OPDS Catalogs](OPDS-Catalogs.html)) |
 | An OpenID Connect proxy (Authelia, Authentik, Keycloak, oauth2-proxy, Pomerium) | No | Its session is a cookie the app can only read from its own page, so use a password or code there. If that isn't possible, ask the server's admin about a token or a bypass rule for the app. |
 
 ## Setting up a service token

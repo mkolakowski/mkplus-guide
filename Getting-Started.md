@@ -65,7 +65,7 @@ Pick the kind that matches where your files are:
 
 - **SMB Server**: a shared folder on a NAS (Synology, unRAID, TrueNAS and so on), a Mac with File Sharing on, or a Windows PC. Enter its address, and a username and password if it needs them. **Browse Shares** lists the shares so you can pick one.
 - **Jellyfin Server**: movies and shows from a Jellyfin server. Enter its address, then sign in with a username and password or with **Quick Connect**.
-- **OPDS Catalog (Kavita, Komga…)**: books and comics from a book server. See Book servers.
+- **OPDS Catalog (Kavita, Komga…)**: books and comics from a book server. See [Book servers](OPDS-Catalogs.html).
 - **iCloud Drive & Files**: a folder in iCloud Drive, On My iPhone, a USB drive, or another app's storage. See [Folders in the Files app](Setup-Files-Folders.html).
 - **Dropbox**: see [Setting up Dropbox](Setup-Dropbox.html).
 - **Google Drive**: see [Setting up Google Drive](Setup-Google-Drive.html).
@@ -87,7 +87,7 @@ With Settings → Home Screen → **Add Widgets for New Servers** on, a new serv
 
 ## Open something
 
-Tap a server on Home or in the **Servers** tab and its folders open. Videos play in the [video player](Video-Player.html), and comics, books and PDFs open in the reader. [Browsing your files](Browsing.html) covers folders, sorting and the press-and-hold menu.
+Tap a server on Home or in the **Servers** tab and its folders open. Videos play in the [video player](Video-Player.html), and comics, books and PDFs open in the [reader](Reader.html). [Browsing your files](Browsing.html) covers folders, sorting and the press-and-hold menu.
 
 ## Use it offline
 

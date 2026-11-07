@@ -71,6 +71,7 @@ A show's page works the same way, with seasons and episodes added.
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/jellyfin-series.png" alt="A show's page with its seasons and episodes, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 <div class="shot-variant shot-duo-front"><img src="images/duo-front/jellyfin-series.png" alt="A show's page with its seasons and episodes, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/jellyfin-series.png" alt="A show's page with its seasons and episodes, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 - The big button plays the next episode for you, and it says which one, such as **Play S2:E5** or **Resume 10:00**. It's the same episode that appears under **Next Up**.
@@ -82,6 +83,7 @@ A show's page works the same way, with seasons and episodes added.
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/jellyfin-episodes.png" alt="A show's episodes listed under Season 1, with the Season menu, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 <div class="shot-variant shot-duo-front"><img src="images/duo-front/jellyfin-episodes.png" alt="A show's episodes listed under Season 1, with the Season menu, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/jellyfin-episodes.png" alt="A show's episodes listed under Season 1, with the Season menu, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 Three settings change how a show looks. In Settings → File Browsing, **Episodes on Show Pages** lists episodes right on the page (off, the page has just its seasons), **Specials Last** puts specials after the last season and **Seasons as a Carousel** turns the season covers into big covers to page through. In Settings → **Jellyfin**, **Artwork Backgrounds** puts a show's artwork behind its list.

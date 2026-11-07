@@ -28,5 +28,20 @@
     "title": "Listening to music",
     "file": "Music.html",
     "about": "Playing songs from Jellyfin or a folder, the mini player, Now Playing and the queue"
+  },
+  {
+    "title": "Reading",
+    "file": "Reader.html",
+    "about": "Comics, PDFs and EPUBs: turning pages, tap zones, two-page spreads, Reading Options and Profiles, page turners and laying the buttons out your way"
+  },
+  {
+    "title": "Book servers",
+    "file": "OPDS-Catalogs.html",
+    "about": "Adding Kavita, Komga and other book servers, browsing series, read marks, progress kept in sync and downloading for offline"
+  },
+  {
+    "title": "Pictures",
+    "file": "Image-Viewer.html",
+    "about": "Opening a picture, swiping and zooming, the viewer's controls, slideshow, rotate and share"
   }
 ]
