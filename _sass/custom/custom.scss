@@ -31,3 +31,33 @@ body {
 }
 .main-content h2 { border-bottom: 2px solid $link-color; padding-bottom: 0.35rem; }
 .main-content strong { color: $body-heading-color; }
+
+// Device switcher (Using MK Plus pages). Each picture is published in every
+// device's version; html[data-device], set by assets/js/device-switcher.js
+// and remembered, picks the one that shows. The iPhone 18 Pro Max shows when
+// nothing's picked, or when a picture has no version for the device picked.
+.device-switcher { display: none; }
+.has-device-switcher .device-switcher {
+  display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; margin: 0.25rem 0 1.5rem;
+}
+.device-switcher-label { color: $nav-child-link-color; font-size: 0.85rem; margin-right: 0.25rem; }
+.device-switcher button {
+  font: inherit; font-size: 0.85rem; padding: 0.3rem 0.8rem; border-radius: 999px; cursor: pointer;
+  border: 1px solid $border-color; background: $base-button-color; color: $body-text-color;
+}
+.device-switcher button[aria-pressed="true"] { background: $btn-primary-color; border-color: $btn-primary-color; color: #fff; }
+.device-switcher button:focus-visible { outline: 2px solid $link-color; outline-offset: 2px; }
+
+.shot { margin: 1rem 0 1.5rem; }
+.shot-variant { display: none; }
+.shot-variant img { display: block; height: auto; max-width: 100%; }
+.shot-label { color: $nav-child-link-color; font-size: 0.8rem; margin-top: 0.5rem; }
+.shot-iphone-18-pro-max img, .shot-duo-front img, .shot-iphone-17e img { width: 260px; }
+.shot-duo-open-side img { width: 560px; }
+.shot-ipad-air-11 img { width: 420px; }
+.shot-variant.shot-iphone-18-pro-max { display: block; }
+$shot-devices: duo-front, duo-open-side, iphone-17e, ipad-air-11;
+@each $device in $shot-devices {
+  html[data-device="#{$device}"] .shot:has(.shot-#{$device}) .shot-iphone-18-pro-max { display: none; }
+  html[data-device="#{$device}"] .shot-variant.shot-#{$device} { display: block; }
+}

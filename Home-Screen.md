@@ -6,11 +6,22 @@ nav_order: 2
 
 # Your Home
 
+<div class="device-switcher" role="group" aria-label="Pictures for" markdown="0">
+<span class="device-switcher-label">Pictures for</span>
+<button type="button" data-device="iphone-18-pro-max" aria-pressed="true">iPhone 18 Pro Max</button>
+<button type="button" data-device="duo-front" aria-pressed="false">iPhone Duo — closed</button>
+<button type="button" data-device="iphone-17e" aria-pressed="false">iPhone 17e</button>
+<button type="button" data-device="ipad-air-11" aria-pressed="false">iPad Air 11-inch</button>
+</div>
+
 Home is the first tab, and the screen the app opens on. It holds **widgets**: shelves and tiles that put the things you watch and read one tap away. Make it yours, and make as many Homes as you like.
 
-| iPhone Duo — front screen | iPhone Duo — unfolded | iPhone 17e | iPhone 18 Pro Max | iPad Air 11-inch (M4) |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="images/duo-front/home.png" width="180" alt="The Home tab with a widget of each kind, on the iPhone Duo front screen"> | <img src="images/duo-unfolded/home.png" width="220" alt="The Home tab with a widget of each kind, on the unfolded iPhone Duo"> | <img src="images/iphone-17e/home.png" width="170" alt="The Home tab with a widget of each kind, on the iPhone 17e"> | <img src="images/iphone-18-pro-max/home.png" width="180" alt="The Home tab with a widget of each kind, on the iPhone 18 Pro Max"> | <img src="images/ipad-air-11/home.png" width="240" alt="The Home tab with a widget of each kind, on the iPad Air 11-inch"> |
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home.png" alt="The Home tab with a widget of each kind, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/home.png" alt="The Home tab with a widget of each kind, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/home.png" alt="The Home tab with a widget of each kind, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
+<div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/home.png" alt="The Home tab with a widget of each kind, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
+</div>
 
 ## What a widget is
 
@@ -49,8 +60,9 @@ To take it off again, press and hold it and choose **Remove from Home**.
 3. Tap a library or folder to add it. A tick means it's on this Home; tap it again to take it off.
 4. Tap **Done**.
 
-<img src="images/iphone-18-pro-max/add-widget.png" width="260" alt="The Add Widgets sheet on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/add-widget.png" alt="The Add Widgets sheet, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 Private servers are left out unless the Home shows them. See Privacy and Face ID.
 
@@ -89,8 +101,9 @@ A stack puts several widgets in one spot, with a row of their names to switch be
 4. Tap **+** to add a widget.
 5. Tap **Done**.
 
-<img src="images/iphone-18-pro-max/home-edit.png" width="260" alt="Home while editing, on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home-edit.png" alt="Home while editing, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 You can also manage a Home's widgets from its settings: press and hold the Home's name, choose **Home Screen Settings**, and use **Reorder** or swipe a widget to remove it.
 
@@ -103,8 +116,9 @@ Keep different things apart with separate Homes, such as one for video and one f
 - **Change or remove one**: press and hold its name for **Home Screen Settings**, **Theme**, **Lock with…** and **Delete**. Deleting a Home removes only its widgets. Your servers and folders stay as they are.
 - **Order**: in Settings → Home Screen, drag Homes into the order you like. The top one opens first, unless **Open on Last Viewed Home** is on.
 
-<img src="images/iphone-18-pro-max/home-reading.png" width="260" alt="The Reading Home in the Paper theme on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home-reading.png" alt="The Reading Home in the Paper theme, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 ## Themes and backdrops
 

@@ -6,6 +6,14 @@ nav_order: 1
 
 # Getting Started
 
+<div class="device-switcher" role="group" aria-label="Pictures for" markdown="0">
+<span class="device-switcher-label">Pictures for</span>
+<button type="button" data-device="iphone-18-pro-max" aria-pressed="true">iPhone 18 Pro Max</button>
+<button type="button" data-device="duo-front" aria-pressed="false">iPhone Duo — closed</button>
+<button type="button" data-device="iphone-17e" aria-pressed="false">iPhone 17e</button>
+<button type="button" data-device="ipad-air-11" aria-pressed="false">iPad Air 11-inch</button>
+</div>
+
 MK Plus plays video and opens comics, books and PDFs from the places you keep them: a NAS or computer on your network, a Jellyfin server, a book server like Kavita or Komga, or cloud storage such as Dropbox. This page takes you from installing the app to browsing your first server.
 
 ## Install MK Plus
@@ -27,9 +35,12 @@ A floating bar across the bottom of the screen switches between the tabs. On the
 - **Downloads** holds what you've saved to use offline.
 - **Settings** is where everything can be changed.
 
-| iPhone Duo — front screen | iPhone Duo — unfolded | iPhone 17e | iPhone 18 Pro Max | iPad Air 11-inch (M4) |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="images/duo-front/home.png" width="180" alt="The Home tab with a widget of each kind, on the iPhone Duo front screen"> | <img src="images/duo-unfolded/home.png" width="220" alt="The Home tab with a widget of each kind, on the unfolded iPhone Duo"> | <img src="images/iphone-17e/home.png" width="170" alt="The Home tab with a widget of each kind, on the iPhone 17e"> | <img src="images/iphone-18-pro-max/home.png" width="180" alt="The Home tab with a widget of each kind, on the iPhone 18 Pro Max"> | <img src="images/ipad-air-11/home.png" width="240" alt="The Home tab with a widget of each kind, on the iPad Air 11-inch"> |
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home.png" alt="The Home tab with a widget of each kind, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/home.png" alt="The Home tab with a widget of each kind, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/home.png" alt="The Home tab with a widget of each kind, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
+<div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/home.png" alt="The Home tab with a widget of each kind, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
+</div>
 
 The **Servers** tab is off to begin with, because your servers are also on Home and in Settings → Server List. To add it to the bar, turn on Settings → Home Screen → **Servers Tab**.
 
@@ -42,8 +53,9 @@ A "server" here is any place MK Plus can read files from.
 3. Fill in the form. Most forms ask for an address, a name, and a username and password or a sign-in.
 4. Tap **Save**.
 
-<img src="images/iphone-18-pro-max/add-server.png" width="260" alt="The Add Server list of server kinds on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/add-server.png" alt="The Add Server list of server kinds, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 Pick the kind that matches where your files are:
 
@@ -77,8 +89,9 @@ Tap a server on Home or in the **Servers** tab and its folders open. Videos play
 
 **Downloads** keeps Jellyfin movies and episodes, and books from a book server, on your iPhone so they work without a connection. Press and hold one and choose **Download**, or **Download to Read Offline** for a book.
 
-<img src="images/iphone-18-pro-max/downloads.png" width="260" alt="The Downloads tab on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/downloads.png" alt="The Downloads tab, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 ## Where to get help
 

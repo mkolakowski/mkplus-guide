@@ -6,15 +6,26 @@ nav_order: 3
 
 # Browsing your files
 
+<div class="device-switcher" role="group" aria-label="Pictures for" markdown="0">
+<span class="device-switcher-label">Pictures for</span>
+<button type="button" data-device="iphone-18-pro-max" aria-pressed="true">iPhone 18 Pro Max</button>
+<button type="button" data-device="duo-front" aria-pressed="false">iPhone Duo — closed</button>
+<button type="button" data-device="iphone-17e" aria-pressed="false">iPhone 17e</button>
+<button type="button" data-device="ipad-air-11" aria-pressed="false">iPad Air 11-inch</button>
+</div>
+
 Every server you've saved opens as folders you can look through. This page covers finding your way around a server, changing how a folder looks, and working with the files in it.
 
 ## Open a server
 
 You can open a server from Home, or from the **Servers** tab if you've turned it on (Settings → Home Screen → **Servers Tab**). The **Servers** tab lists every saved server in three groups: **Shares** (SMB shares, cloud storage and folders from Files), **Jellyfin** and **Catalogs** (book servers).
 
-| iPhone Duo — front screen | iPhone Duo — unfolded | iPhone 17e | iPhone 18 Pro Max | iPad Air 11-inch (M4) |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="images/duo-front/servers-tab.png" width="180" alt="The Servers tab listing saved servers, on the iPhone Duo front screen"> | <img src="images/duo-unfolded/servers-tab.png" width="220" alt="The Servers tab listing saved servers, on the unfolded iPhone Duo"> | <img src="images/iphone-17e/servers-tab.png" width="170" alt="The Servers tab listing saved servers, on the iPhone 17e"> | <img src="images/iphone-18-pro-max/servers-tab.png" width="180" alt="The Servers tab listing saved servers, on the iPhone 18 Pro Max"> | <img src="images/ipad-air-11/servers-tab.png" width="240" alt="The Servers tab listing saved servers, on the iPad Air 11-inch"> |
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/servers-tab.png" alt="The Servers tab listing saved servers, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/servers-tab.png" alt="The Servers tab listing saved servers, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/servers-tab.png" alt="The Servers tab listing saved servers, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
+<div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/servers-tab.png" alt="The Servers tab listing saved servers, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
+</div>
 
 - Tap a server to open it.
 - Swipe a server to **Edit** or **Delete** it. Settings → Server List → **Swap Swipe Directions** flips which way does which.
@@ -24,9 +35,12 @@ Folders open one inside the other, with a back button at the top left. Pull down
 
 ## A folder
 
-| iPhone Duo — front screen | iPhone Duo — unfolded | iPhone 17e | iPhone 18 Pro Max | iPad Air 11-inch (M4) |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="images/duo-front/folder.png" width="180" alt="The Shared Media folder with thumbnails, on the iPhone Duo front screen"> | <img src="images/duo-unfolded/folder.png" width="220" alt="The Shared Media folder with thumbnails, on the unfolded iPhone Duo"> | <img src="images/iphone-17e/folder.png" width="170" alt="The Shared Media folder with thumbnails, on the iPhone 17e"> | <img src="images/iphone-18-pro-max/folder.png" width="180" alt="The Shared Media folder with thumbnails, on the iPhone 18 Pro Max"> | <img src="images/ipad-air-11/folder.png" width="240" alt="The Shared Media folder with thumbnails, on the iPad Air 11-inch"> |
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/folder.png" alt="The Shared Media folder with thumbnails, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/folder.png" alt="The Shared Media folder with thumbnails, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/folder.png" alt="The Shared Media folder with thumbnails, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
+<div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/folder.png" alt="The Shared Media folder with thumbnails, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
+</div>
 
 ### Layout
 
@@ -36,8 +50,9 @@ The layout button changes how a folder looks. The choices are **List**, **Small 
 
 The sort button orders a folder by **Name**, **Date** or **Size**. Choose the one that's already picked again to reverse it. Jellyfin adds **Episode**, and book catalogs add **Catalog**. In Settings → File Browsing, **Sort Button Reverses** makes a tap reverse the order and a hold open the menu.
 
-<img src="images/iphone-18-pro-max/folder-options.png" width="260" alt="A folder's Sort menu, with Name, Date and Size, on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/folder-options.png" alt="A folder's Sort menu, with Name, Date and Size, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 ### Filter
 
@@ -64,8 +79,9 @@ Press and hold a file or folder to see what you can do with it. What's in the me
 - **Download** (Jellyfin movies and episodes) and **Download to Read Offline** (books on a book server). See Downloads below.
 - **Select**, **Copy**, **Cut**, **Move**, **Rename**, **Show Info** and **Delete**, for files and folders on a share or in your cloud storage.
 
-<img src="images/iphone-18-pro-max/file-menu.png" width="260" alt="The press-and-hold menu on a video, on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/file-menu.png" alt="The press-and-hold menu on a video, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 If you'd rather press and hold start selecting right away, turn off Settings → File Browsing → **Hold Shows File Menu**.
 
@@ -73,8 +89,9 @@ If you'd rather press and hold start selecting right away, turn off Settings →
 
 **Show Info** opens a sheet about the file: its **Name**, **Kind**, **Size**, **Where** it is, and when it was **Created** and **Modified**. For a video, picture or song it adds a **Media** section with things like **Duration**, **Resolution**, **Frame Rate**, **Video Codec**, **Video Bitrate** and **Audio**. Tap **Done** to close it.
 
-<img src="images/iphone-18-pro-max/show-info.png" width="260" alt="Show Info for a video, on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/show-info.png" alt="Show Info for a video, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 ## Move, copy, rename and delete
 
@@ -111,8 +128,9 @@ Tap **Select**, then tap files to tick them. **Select All** ticks everything in 
 
 The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to Watch** and **Ready to Read**. A series set to download automatically appears under **Auto-Downloading**. Where you got to is sent back to the server the next time it can be reached. To get rid of one, press and hold it and choose **Remove Download**.
 
-<img src="images/iphone-18-pro-max/downloads.png" width="260" alt="The Downloads tab on an iPhone 18 Pro Max">
-<br><sub>iPhone 18 Pro Max</sub>
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/downloads.png" alt="The Downloads tab, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 ## Good to know
 
