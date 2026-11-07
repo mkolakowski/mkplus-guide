@@ -11,6 +11,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### The new video player plays on when locked
+
+_Version 1.313.0 · 7 November 2026_
+
+- With Keep Playing When Locked on, the new video player (Beta) keeps the sound going when you lock the phone or leave the app.
+- Calls pause it, and unplugging headphones pauses it.
+
+<details markdown="1">
+<summary>Everything in 1.313.0</summary>
+
+**New**
+
+- New Video Player (Beta): the sound plays on in the background with Keep Playing When Locked on, and when you come back the picture picks up where the sound is, without the sound stopping.
+- A call, an alarm or another app's sound pauses it, and it carries on afterwards. Unplugging headphones or taking out AirPods pauses it.
+
+**Changed**
+
+- If the new player can't go on decoding a video partway through, the standard player takes over from where it got to instead of stopping.
+
+</details>
+
 ### Scrub previews in the new video player
 
 _Version 1.312.0 · 7 November 2026_
