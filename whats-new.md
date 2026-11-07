@@ -11,6 +11,28 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### The new video player streams from Jellyfin
+
+_Version 1.318.0 · 7 November 2026_
+
+- With New Video Player (Beta) on, Jellyfin videos that used to go to the standard player now play in the new one, straight from the server.
+- Your place and watched state go back to Jellyfin as you watch, for downloaded Jellyfin videos too.
+
+<details markdown="1">
+<summary>Everything in 1.318.0</summary>
+
+**New**
+
+- New Video Player (Beta): Jellyfin videos the standard player would have streamed now play in the new player, with its scrub previews, Picture in Picture and subtitles.
+- The new player tells Jellyfin where you got to and when you finish, so Continue Watching and watched marks stay right.
+
+**Fixed**
+
+- A downloaded Jellyfin video played in the new player now saves your place to the server, as the standard player does.
+- The server's subtitle files load in the background instead of holding up the player.
+
+</details>
+
 ### Subtitles in the new player's Picture in Picture
 
 _Version 1.317.0 · 7 November 2026_
