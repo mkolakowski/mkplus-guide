@@ -11,6 +11,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Audio and subtitles in the new video player
+
+_Version 1.311.0 · 6 November 2026_
+
+- The new video player (Beta) lets you pick the audio and subtitles, like VLC.
+- Blu-ray and DVD picture subtitles show too, and chapters appear under the title.
+
+<img src="images/iphone-18-pro-max/new-player-subtitles.png" width="300" alt="The new video player's Playback Options, listing the video's own subtitles">
+
+<details markdown="1">
+<summary>Everything in 1.311.0</summary>
+
+**New**
+
+- New Video Player (Beta): choose the audio track and subtitles in Playback Options. A video's own subtitles show at your Subtitle Size, above the controls when they're showing.
+- Picture subtitles from Blu-rays and DVDs show where they were made to sit, and the video's default subtitles come on by themselves, as in VLC.
+- Subtitle files beside a video, Auto Subtitles and generated subtitles work in the new player too, and chapter names show under the title.
+
+</details>
+
 ### Try the new video player
 
 _Version 1.310.0 · 6 November 2026_
