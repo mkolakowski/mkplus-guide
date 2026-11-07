@@ -1,0 +1,44 @@
+// Extra styling for the guide, on top of whichever color_scheme is set in
+// _config.yml. Colors come from that scheme's variables, so every part here
+// follows a scheme change. Chosen 2026-11-06.
+
+// App-like cards: the system font, slightly larger text, rounded corners.
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif;
+}
+.main-content { font-size: 1.05rem; line-height: 1.6; }
+.main-content img { border-radius: 24px; box-shadow: 0 10px 34px rgba(0, 0, 0, 0.45); }
+.table-wrapper { border-radius: 14px; border: 1px solid $border-color; box-shadow: none; overflow: hidden; }
+.search-input, .btn { border-radius: 10px; }
+
+// Numbered steps: each step's number in a filled circle. list-item keeps a
+// list that starts later (step 4, say) numbered right.
+.main-content ol { list-style: none; padding-left: 0; }
+.main-content ol > li { position: relative; padding-left: 2.6rem; margin-bottom: 0.85rem; }
+.main-content ol > li::before {
+  content: counter(list-item);
+  position: absolute; left: 0; top: -0.05rem;
+  width: 1.75rem; height: 1.75rem; border-radius: 50%;
+  background: $btn-primary-color; color: #fff;
+  font-weight: 600; font-size: 0.8rem; line-height: 1.75rem; text-align: center;
+}
+
+// Accent headings: a bigger title fading from the accent, a line under sections.
+.main-content h1 {
+  font-size: 2.6rem !important; font-weight: 700;
+  background: linear-gradient(90deg, $link-color, $body-heading-color);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.main-content h2 { border-bottom: 2px solid $link-color; padding-bottom: 0.35rem; }
+.main-content strong { color: $body-heading-color; }
+
+// Glow backdrop: a soft glow in the scheme's colors and a frosted sidebar.
+html, body {
+  background:
+    radial-gradient(1100px 600px at 75% 0%, rgba($btn-primary-color, 0.45), transparent 75%),
+    radial-gradient(900px 520px at 0% 105%, rgba($link-color, 0.18), transparent 70%),
+    $body-background-color fixed;
+}
+.side-bar { background: rgba($sidebar-color, 0.55); backdrop-filter: blur(14px); }
+.main-header, .site-header { background: transparent; }
+.table-wrapper, .search-input { background: rgba($table-background-color, 0.6) !important; }

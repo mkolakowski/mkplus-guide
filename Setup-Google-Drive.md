@@ -27,6 +27,7 @@ A **client ID** is a long code that names the app you register with Google. It i
 
 **Step 2: make an iOS client**
 
+{: start="4"}
 4. Open **https://console.cloud.google.com/auth/clients**. If the console first asks you to set up Google Auth Platform (also called the OAuth consent screen), follow its prompts: any app name, your own email for support and contact, and **External** as the audience.
 5. Choose **Create client** (older consoles say **Create credentials → OAuth client ID**).
 6. For **Application type**, pick **iOS**.
@@ -35,6 +36,7 @@ A **client ID** is a long code that names the app you register with Google. It i
 
 **Step 3: say who can sign in**
 
+{: start="9"}
 9. Open **https://console.cloud.google.com/auth/audience**.
 10. Pick one:
     - **Stay in Testing and add yourself as a test user.** Under **Test users**, choose **Add users** and enter the Google account you'll sign in with. This is the quickest way, but Google signs you out every 7 days, and you'll have to sign in again.

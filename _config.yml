@@ -11,7 +11,7 @@ search_enabled: true
 heading_anchors: true
 # The site's colors. just-the-docs' own: dark, light. Ours, after the app's
 # Home themes (_sass/color_schemes/): midnight, nebula, cinema, paper.
-color_scheme: dark
+color_scheme: midnight
 aux_links:
   "Get MK Plus on TestFlight": "https://testflight.apple.com/join/P2bjt14B"
 footer_content: "These pages are generated from the MK Plus project's docs. Found a mistake? Use <strong>Settings → Provide Feedback</strong> in the app."
