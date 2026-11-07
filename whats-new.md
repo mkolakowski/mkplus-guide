@@ -11,6 +11,29 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Scrub previews in the new video player
+
+_Version 1.312.0 · 7 November 2026_
+
+- With Scrub Preview Popup on, the new video player (Beta) shows a picture as you scrub, for any video.
+- Scrubbing the same video again shows its pictures straight away, even next time you open it.
+
+<img src="images/iphone-18-pro-max/new-player-scrub-preview.png" width="300" alt="The new video player mid-scrub, with a preview picture above the timeline">
+
+<details markdown="1">
+<summary>Everything in 1.312.0</summary>
+
+**New**
+
+- New Video Player (Beta): Scrub Preview Popup now works for every video it plays, not only ones from a Jellyfin server — the picture nearest your finger comes first.
+- Previews are made only while you scrub or pause, so they never slow down playback, and they're kept for the next time you open the video.
+
+**Fixed**
+
+- Scrub previews in the standard player could show the wrong part of the picture the next time you opened a video.
+
+</details>
+
 ### Audio and subtitles in the new video player
 
 _Version 1.311.0 · 6 November 2026_
