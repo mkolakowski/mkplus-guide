@@ -10,6 +10,7 @@ nav_order: 3
 <span class="device-switcher-label">Pictures for</span>
 <button type="button" data-device="iphone-18-pro-max" aria-pressed="true">iPhone 18 Pro Max</button>
 <button type="button" data-device="duo-front" aria-pressed="false">iPhone Duo — closed</button>
+<button type="button" data-device="duo-open-side" aria-pressed="false">iPhone Duo — open, on its side</button>
 <button type="button" data-device="iphone-17e" aria-pressed="false">iPhone 17e</button>
 <button type="button" data-device="ipad-air-11" aria-pressed="false">iPad Air 11-inch</button>
 </div>
@@ -23,6 +24,7 @@ You can open a server from Home, or from the **Servers** tab if you've turned it
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/servers-tab.png" alt="The Servers tab listing saved servers, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 <div class="shot-variant shot-duo-front"><img src="images/duo-front/servers-tab.png" alt="The Servers tab listing saved servers, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/servers-tab.png" alt="The Servers tab listing saved servers, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 <div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/servers-tab.png" alt="The Servers tab listing saved servers, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
 <div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/servers-tab.png" alt="The Servers tab listing saved servers, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
 </div>
@@ -38,6 +40,7 @@ Folders open one inside the other, with a back button at the top left. Pull down
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/folder.png" alt="The Shared Media folder with thumbnails, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 <div class="shot-variant shot-duo-front"><img src="images/duo-front/folder.png" alt="The Shared Media folder with thumbnails, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/folder.png" alt="The Shared Media folder with thumbnails, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 <div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/folder.png" alt="The Shared Media folder with thumbnails, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
 <div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/folder.png" alt="The Shared Media folder with thumbnails, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
 </div>
@@ -52,6 +55,8 @@ The sort button orders a folder by **Name**, **Date** or **Size**. Choose the on
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/folder-options.png" alt="A folder's Sort menu, with Name, Date and Size, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/folder-options.png" alt="A folder's Sort menu, with Name, Date and Size, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/folder-options.png" alt="A folder's Sort menu, with Name, Date and Size, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 ### Filter
@@ -81,6 +86,8 @@ Press and hold a file or folder to see what you can do with it. What's in the me
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/file-menu.png" alt="The press-and-hold menu on a video, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/file-menu.png" alt="The press-and-hold menu on a video, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/file-menu.png" alt="The press-and-hold menu on a video, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 If you'd rather press and hold start selecting right away, turn off Settings → File Browsing → **Hold Shows File Menu**.
@@ -91,6 +98,8 @@ If you'd rather press and hold start selecting right away, turn off Settings →
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/show-info.png" alt="Show Info for a video, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/show-info.png" alt="Show Info for a video, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/show-info.png" alt="Show Info for a video, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 ## Move, copy, rename and delete
@@ -130,6 +139,8 @@ The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/downloads.png" alt="The Downloads tab, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/downloads.png" alt="The Downloads tab, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/downloads.png" alt="The Downloads tab, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 ## Good to know

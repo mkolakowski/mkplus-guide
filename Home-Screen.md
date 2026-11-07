@@ -10,6 +10,7 @@ nav_order: 2
 <span class="device-switcher-label">Pictures for</span>
 <button type="button" data-device="iphone-18-pro-max" aria-pressed="true">iPhone 18 Pro Max</button>
 <button type="button" data-device="duo-front" aria-pressed="false">iPhone Duo — closed</button>
+<button type="button" data-device="duo-open-side" aria-pressed="false">iPhone Duo — open, on its side</button>
 <button type="button" data-device="iphone-17e" aria-pressed="false">iPhone 17e</button>
 <button type="button" data-device="ipad-air-11" aria-pressed="false">iPad Air 11-inch</button>
 </div>
@@ -19,6 +20,7 @@ Home is the first tab, and the screen the app opens on. It holds **widgets**: sh
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home.png" alt="The Home tab with a widget of each kind, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 <div class="shot-variant shot-duo-front"><img src="images/duo-front/home.png" alt="The Home tab with a widget of each kind, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/home.png" alt="The Home tab with a widget of each kind, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 <div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/home.png" alt="The Home tab with a widget of each kind, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
 <div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/home.png" alt="The Home tab with a widget of each kind, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
 </div>
@@ -62,6 +64,8 @@ To take it off again, press and hold it and choose **Remove from Home**.
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/add-widget.png" alt="The Add Widgets sheet, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/add-widget.png" alt="The Add Widgets sheet, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/add-widget.png" alt="The Add Widgets sheet, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 Private servers are left out unless the Home shows them. See Privacy and Face ID.
@@ -103,6 +107,8 @@ A stack puts several widgets in one spot, with a row of their names to switch be
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home-edit.png" alt="Home while editing, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/home-edit.png" alt="Home while editing, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/home-edit.png" alt="Home while editing, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 You can also manage a Home's widgets from its settings: press and hold the Home's name, choose **Home Screen Settings**, and use **Reorder** or swipe a widget to remove it.
@@ -118,6 +124,8 @@ Keep different things apart with separate Homes, such as one for video and one f
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home-reading.png" alt="The Reading Home in the Paper theme, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/home-reading.png" alt="The Reading Home in the Paper theme, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/home-reading.png" alt="The Reading Home in the Paper theme, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 ## Themes and backdrops

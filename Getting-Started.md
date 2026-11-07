@@ -10,6 +10,7 @@ nav_order: 1
 <span class="device-switcher-label">Pictures for</span>
 <button type="button" data-device="iphone-18-pro-max" aria-pressed="true">iPhone 18 Pro Max</button>
 <button type="button" data-device="duo-front" aria-pressed="false">iPhone Duo — closed</button>
+<button type="button" data-device="duo-open-side" aria-pressed="false">iPhone Duo — open, on its side</button>
 <button type="button" data-device="iphone-17e" aria-pressed="false">iPhone 17e</button>
 <button type="button" data-device="ipad-air-11" aria-pressed="false">iPad Air 11-inch</button>
 </div>
@@ -38,6 +39,7 @@ A floating bar across the bottom of the screen switches between the tabs. On the
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home.png" alt="The Home tab with a widget of each kind, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 <div class="shot-variant shot-duo-front"><img src="images/duo-front/home.png" alt="The Home tab with a widget of each kind, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/home.png" alt="The Home tab with a widget of each kind, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 <div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/home.png" alt="The Home tab with a widget of each kind, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
 <div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/home.png" alt="The Home tab with a widget of each kind, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
 </div>
@@ -55,6 +57,8 @@ A "server" here is any place MK Plus can read files from.
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/add-server.png" alt="The Add Server list of server kinds, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/add-server.png" alt="The Add Server list of server kinds, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/add-server.png" alt="The Add Server list of server kinds, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 Pick the kind that matches where your files are:
@@ -91,6 +95,8 @@ Tap a server on Home or in the **Servers** tab and its folders open. Videos play
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/downloads.png" alt="The Downloads tab, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/downloads.png" alt="The Downloads tab, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/downloads.png" alt="The Downloads tab, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 ## Where to get help
