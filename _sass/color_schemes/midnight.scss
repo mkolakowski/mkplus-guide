@@ -1,0 +1,18 @@
+// Midnight: black and blue, after the app's Midnight Home theme.
+// Pick it with `color_scheme: midnight` in _config.yml.
+@import "./color_schemes/dark";
+
+$body-background-color: #0b0c0e;
+$sidebar-color: #0b0c0e;
+$body-heading-color: #f2f3f5;
+$body-text-color: #d3d6db;
+$link-color: #6ea2ff;
+$nav-child-link-color: #9a9ea6;
+$base-button-color: #1c1d21;
+$btn-primary-color: #3a74e0;
+$table-background-color: #141518;
+$search-background-color: #141518;
+$search-result-preview-color: #9a9ea6;
+$border-color: #26282d;
+$code-background-color: #141518;
+$feedback-color: darken($sidebar-color, 3%);

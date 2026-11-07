@@ -11,9 +11,6 @@ the server itself answers. MK Plus spots that on its own: adding the
 server, connecting to it or opening it brings up the Cloudflare sign-in, and
 then carries on.
 
-_Since 1.166.0 (catalogs), 1.167.0 (Jellyfin) and 1.169.0 (Sign In with
-Safari). No screenshots yet: the simulator has no Access team to sign in to._
-
 ## Three ways in
 
 | Way | What it's like | Lasts |
@@ -23,7 +20,7 @@ Safari). No screenshots yet: the simulator has no Access team to sign in to._
 | **Service token** | A Client ID and Secret made for apps. The phone is let in without signing in at all. | As long as you made it last (a year, or for good) |
 
 Sign In with Safari gets its token back the way Cloudflare's own
-`cloudflared access login` does: the sign-in page hands it to Cloudflare,
+command-line sign-in does: the sign-in page hands it to Cloudflare,
 sealed so only this sign-in can open it, and the app collects it. That's
 not something Cloudflare documents for apps, so if it ever stops working,
 use Sign In in the App.

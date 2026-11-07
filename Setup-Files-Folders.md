@@ -19,8 +19,6 @@ For another app's storage (Google Drive, OneDrive, Dropbox, Box and others), ins
 
 ## In the Files app
 
-<!-- screenshots: add-form, console steps (phase 2/3) -->
-
 You don't have to do anything here, but it helps to check that the folder is there:
 
 1. Open the **Files** app and tap **Browse**.

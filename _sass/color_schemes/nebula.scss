@@ -1,0 +1,18 @@
+// Nebula: deep violet with a lavender accent, after the app's Nebula Home theme.
+// Pick it with `color_scheme: nebula` in _config.yml.
+@import "./color_schemes/dark";
+
+$body-background-color: #0e0620;
+$sidebar-color: #130a2a;
+$body-heading-color: #f5f3ff;
+$body-text-color: #ddd8f0;
+$link-color: #c4b5fd;
+$nav-child-link-color: #bdb4d6;
+$base-button-color: #23163f;
+$btn-primary-color: #6d28d9;
+$table-background-color: #1a1030;
+$search-background-color: #1a1030;
+$search-result-preview-color: #bdb4d6;
+$border-color: #2f2152;
+$code-background-color: #1a1030;
+$feedback-color: darken($sidebar-color, 3%);

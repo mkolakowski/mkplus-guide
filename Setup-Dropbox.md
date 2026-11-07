@@ -19,8 +19,6 @@ An **app key** is a short code that names your Dropbox app. It isn't a password,
 
 ## In the Dropbox console
 
-<!-- screenshots: add-form, console steps (phase 2/3) -->
-
 1. On a computer or your iPhone, open **https://www.dropbox.com/developers/apps** and sign in to Dropbox.
 2. Choose **Create app**.
 3. Under **Choose an API**, pick **Scoped access**.

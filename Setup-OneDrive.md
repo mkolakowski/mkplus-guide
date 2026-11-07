@@ -20,8 +20,6 @@ A **client ID** (Microsoft calls it the "Application (client) ID") is a long cod
 
 ## In the Microsoft Entra admin center
 
-<!-- screenshots: add-form, console steps (phase 2/3) -->
-
 1. Open **https://entra.microsoft.com** and sign in. (For a personal account, sign up for Azure first at **https://azure.microsoft.com/free** and use the same account here.)
 2. In the left menu, open **Entra ID → App registrations** (in some views it's under **Identity → Applications → App registrations**).
 3. Choose **New registration**.

@@ -1,0 +1,18 @@
+// Cinema: warm dark brown with an amber accent, after the app's Cinema Home theme.
+// Pick it with `color_scheme: cinema` in _config.yml.
+@import "./color_schemes/dark";
+
+$body-background-color: #14100d;
+$sidebar-color: #1a1511;
+$body-heading-color: #f5eee6;
+$body-text-color: #e2d8cc;
+$link-color: #f2a93b;
+$nav-child-link-color: #b3a699;
+$base-button-color: #2a221c;
+$btn-primary-color: #9a5f0c;
+$table-background-color: #211a15;
+$search-background-color: #2a221c;
+$search-result-preview-color: #b3a699;
+$border-color: #3a2f26;
+$code-background-color: #2a221c;
+$feedback-color: darken($sidebar-color, 3%);

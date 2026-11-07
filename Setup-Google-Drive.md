@@ -19,8 +19,6 @@ A **client ID** is a long code that names the app you register with Google. It i
 
 ## In the Google Cloud console
 
-<!-- screenshots: add-form, console steps (phase 2/3) -->
-
 **Step 1: make a project and turn on the Drive API**
 
 1. Open **https://console.cloud.google.com/apis/library/drive.googleapis.com** and sign in.

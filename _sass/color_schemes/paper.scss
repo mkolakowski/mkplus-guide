@@ -1,0 +1,18 @@
+// Paper: warm off-white with a navy accent, after the app's Paper Home theme.
+// Pick it with `color_scheme: paper` in _config.yml. A light scheme, so it
+// builds on just-the-docs' light defaults rather than importing dark.
+$color-scheme: light;
+$body-background-color: #f7f3ea;
+$sidebar-color: #efe9dc;
+$body-heading-color: #2a2622;
+$body-text-color: #3d3832;
+$link-color: #2b4c7e;
+$nav-child-link-color: #6e665c;
+$base-button-color: #efe9dc;
+$btn-primary-color: #2b4c7e;
+$table-background-color: #fffdf8;
+$search-background-color: #fffdf8;
+$search-result-preview-color: #6e665c;
+$border-color: #ddd4c3;
+$code-background-color: #efe9dc;
+$feedback-color: darken($sidebar-color, 3%);

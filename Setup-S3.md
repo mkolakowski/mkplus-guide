@@ -151,8 +151,6 @@ For any server that speaks the S3 API: MinIO, Ceph, Garage, or the S3 service bu
 
 **Save** stays greyed out until **Name**, **Endpoint**, **Access Key ID** and **Secret Access Key** are filled in. **Browse Buckets** needs a valid **Endpoint** and an **Access Key ID**.
 
-<!-- screenshots: add-form, console steps (phase 2/3) -->
-
 ## What went wrong
 
 Problems listing buckets show an alert titled **Couldn't List Buckets**. Messages that come later, while you browse, appear on the server itself.
