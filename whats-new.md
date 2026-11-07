@@ -11,6 +11,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Picture in Picture in the new video player
+
+_Version 1.315.0 · 7 November 2026_
+
+- The new video player (Beta) can play in a floating Picture in Picture window: tap its button, or just leave the app with Picture in Picture on Leaving on.
+- The window's play, pause and skip buttons work, and its bar shows how far in you are.
+
+<details markdown="1">
+<summary>Everything in 1.315.0</summary>
+
+**New**
+
+- New Video Player (Beta): Picture in Picture. Tap the Picture in Picture button, or leave the app mid-video with Settings → Playback → Picture in Picture on Leaving on, and the video carries on in a floating window while you use other apps or browse this one.
+- The window's play/pause and skip buttons control the video, and tapping its full-screen button brings the player back where it got to.
+
+**Changed**
+
+- Subtitles don't show in the Picture in Picture window yet; they're back as soon as you return to the full-screen player.
+
+</details>
+
 ### The new video player plays on when locked
 
 _Version 1.313.0 · 7 November 2026_
