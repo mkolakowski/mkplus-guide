@@ -13,5 +13,20 @@
     "title": "Browsing your files",
     "file": "Browsing.html",
     "about": "Folders, layout and sort, the press-and-hold menu, moving files and downloading for offline"
+  },
+  {
+    "title": "Watching video",
+    "file": "Video-Player.html",
+    "about": "The player's controls and gestures, audio and subtitles, skipping intros, Up Next, the sleep timer and laying the buttons out your way"
+  },
+  {
+    "title": "Jellyfin",
+    "file": "Jellyfin.html",
+    "about": "Libraries, movie and show pages, Continue Watching and Next Up, search, streaming quality and Quick Connect"
+  },
+  {
+    "title": "Listening to music",
+    "file": "Music.html",
+    "about": "Playing songs from Jellyfin or a folder, the mini player, Now Playing and the queue"
   }
 ]

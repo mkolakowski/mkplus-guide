@@ -87,7 +87,7 @@ With Settings → Home Screen → **Add Widgets for New Servers** on, a new serv
 
 ## Open something
 
-Tap a server on Home or in the **Servers** tab and its folders open. Videos play in the video player, and comics, books and PDFs open in the reader. [Browsing your files](Browsing.html) covers folders, sorting and the press-and-hold menu.
+Tap a server on Home or in the **Servers** tab and its folders open. Videos play in the [video player](Video-Player.html), and comics, books and PDFs open in the reader. [Browsing your files](Browsing.html) covers folders, sorting and the press-and-hold menu.
 
 ## Use it offline
 

@@ -33,7 +33,7 @@ You can open a server from Home, or from the **Servers** tab if you've turned it
 - Swipe a server to **Edit** or **Delete** it. Settings → Server List → **Swap Swipe Directions** flips which way does which.
 - Press and hold a server to put it on Home with **Add to Home**.
 
-Folders open one inside the other, with a back button at the top left. Pull down in a folder to refresh it. Tap a video to play it in the video player. Comics, books and PDFs open in the reader, and pictures in the image viewer.
+Folders open one inside the other, with a back button at the top left. Pull down in a folder to refresh it. Tap a video to play it in the [video player](Video-Player.html). Comics, books and PDFs open in the reader, and pictures in the image viewer.
 
 ## A folder
 
@@ -151,4 +151,4 @@ The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to
 
 ---
 
-Home · Previous: [← Your Home](Home-Screen.html) · Next: Watching video →
+Home · Previous: [← Your Home](Home-Screen.html) · Next: [Watching video →](Video-Player.html)
