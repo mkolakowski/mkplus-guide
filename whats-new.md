@@ -11,6 +11,22 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Hold the Servers tab to add a server
+
+_Version 1.319.0 · 7 November 2026_
+
+- Press and hold the Servers tab in the tab bar to add a server straight away.
+
+<details markdown="1">
+<summary>Everything in 1.319.0</summary>
+
+**New**
+
+- Hold the Servers tab for half a second and Add Server opens, from whichever tab you're on. A tap still just opens the tab.
+- Turn it off in Settings → Home Screen → Hold Servers to Add a Server.
+
+</details>
+
 ### The new video player streams from Jellyfin
 
 _Version 1.318.0 · 7 November 2026_
