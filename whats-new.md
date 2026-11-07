@@ -11,6 +11,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### The new video player, for everyone
+
+_Version 1.320.0 · 7 November 2026_
+
+- Videos Apple's player doesn't play — most .mkv files, DTS and TrueHD sound, Blu-ray subtitles — now play in MK Plus's own player, which jumps around a video on a share in about a second.
+- Scrub previews, Picture in Picture and audio and subtitle choices work for those videos too.
+
+<img src="images/iphone-18-pro-max/new-player-scrub-preview.png" width="300" alt="MK Plus's own video player mid-scrub, with a preview picture above the timeline">
+
+<details markdown="1">
+<summary>Everything in 1.320.0</summary>
+
+**Changed**
+
+- The new video player is no longer a beta: it plays every video that used to open in VLC, from shares, downloads, Jellyfin and cloud storage. The New Video Player (Beta) switch is gone.
+- If Apple's player can't play a video, MK Plus's own player tries it; for Jellyfin, the server's conversion comes next. If nothing can, the player says so.
+- Jellyfin's Streaming Quality and its switch to a lower quality when a video keeps stalling work in the new player too.
+- Settings → Video Playback → Subtitles: Generate Subtitles for VLC Videos is now just Generate Subtitles.
+
+</details>
+
 ### Hold the Servers tab to add a server
 
 _Version 1.319.0 · 7 November 2026_

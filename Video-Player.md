@@ -71,7 +71,7 @@ Tap **Playback Options**. By default it opens a short menu with **Subtitles**, *
 
 Tap **Done** to close it. If you'd rather a tap on the button opened the sheet or the full menu, change Settings → Video Playback → Gestures & Buttons → **Playback Options Button Opens** to **Full Menu** or **Sheet**.
 
-The rest of the subtitle settings live in Settings → Video Playback → **Subtitles**, including **Subtitle Files Beside Videos** (it offers subtitle files that sit next to a video on a share) and **Generate Subtitles for VLC Videos** (the app makes subtitles from the sound, on your iPhone, for videos Apple's player can't).
+The rest of the subtitle settings live in Settings → Video Playback → **Subtitles**, including **Subtitle Files Beside Videos** (it offers subtitle files that sit next to a video on a share) and **Generate Subtitles** (the app makes subtitles from the sound, on your iPhone, for videos Apple's player doesn't play).
 
 ## The player's settings
 
@@ -128,10 +128,10 @@ The Media Controls page is also the way to add buttons that aren't there to star
 
 ## Files that open in a different player
 
-MK Plus has two players behind the same controls. Apple's player handles what iOS plays itself. VLC takes the rest, such as DTS or TrueHD sound. You don't have to choose.
+MK Plus has two players behind the same controls. Apple's player handles what iOS plays itself. The app's own player takes the rest, such as DTS or TrueHD sound, and jumps around a video on a share quickly. You don't have to choose.
 
-- **MKV files** from a share play in Apple's player when they can, which gives them iOS's generated subtitles, AirPlay and Picture in Picture. Others, and any MKV from Jellyfin, play in VLC. Turn off Settings → Video Playback → **Play MKV in Apple's Player** to send every MKV to VLC.
-- **New Video Player (Beta)** (Settings → Video Playback) swaps VLC for a new player of the app's own, which jumps around a video on a share much faster. It is still being built. It already has seeking, scrubbing with previews, speed, zoom, audio and subtitle tracks, chapters and Up Next, and it keeps playing in the background. Picture in Picture comes later. If it can't play a video, VLC takes over.
+- **MKV files** from a share play in Apple's player when they can, which gives them iOS's generated subtitles, AirPlay and Picture in Picture. Others, and any MKV from Jellyfin, play in the app's own player. Turn off Settings → Video Playback → **Play MKV in Apple's Player** to send every MKV there.
+- **If a video won't play** in Apple's player, the app's own player tries it. For a Jellyfin video it can't play either, the server converts it. If nothing can, the player says so.
 
 ## On the iPhone Duo and iPad
 
