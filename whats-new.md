@@ -11,6 +11,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Subtitles in the new player's Picture in Picture
+
+_Version 1.317.0 · 7 November 2026_
+
+- Subtitles now show in the new video player's (Beta) Picture in Picture window, text and picture subtitles alike.
+- They're drawn a size up so they're readable in the small window, in your caption style and Subtitle Size.
+
+<details markdown="1">
+<summary>Everything in 1.317.0</summary>
+
+**New**
+
+- New Video Player (Beta): the subtitles you have on show in the Picture in Picture window too, whether they come from the file, a subtitle file or Generate Subtitles, in your caption style (Settings → Accessibility → Subtitles & Captioning) and Subtitle Size.
+
+**Changed**
+
+- In the window they're drawn bigger than on the full screen, so they can be read at that size.
+
+</details>
+
 ### Picture in Picture in the new video player
 
 _Version 1.315.0 · 7 November 2026_
