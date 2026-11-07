@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Getting Started",
+    "file": "Getting-Started.html",
+    "about": "Install from TestFlight, find your way around the four tabs and add your first server"
+  },
+  {
+    "title": "Your Home",
+    "file": "Home-Screen.html",
+    "about": "Widgets, styles and stacks, more than one Home, themes and searching every server"
+  },
+  {
+    "title": "Browsing your files",
+    "file": "Browsing.html",
+    "about": "Folders, layout and sort, the press-and-hold menu, moving files and downloading for offline"
+  }
+]
