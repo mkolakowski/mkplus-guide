@@ -11,6 +11,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### VLC is gone: one fast player of MK Plus's own
+
+_Version 1.321.0 · 7 November 2026_
+
+- MK Plus no longer carries VLC: its own player plays everything Apple's player doesn't, and the app is about 44 MB smaller.
+
+<details markdown="1">
+<summary>Everything in 1.321.0</summary>
+
+**Changed**
+
+- VLC's player and the VLCKit library are removed. Videos play in Apple's player or in MK Plus's own, as they have since 1.320.0.
+- Settings → Acknowledgements no longer lists VLCKit and the libraries inside it.
+
+**Fixed**
+
+- Jellyfin and other servers behind a sign-in gateway (Cloudflare Access) play straight from the server in MK Plus's own player, as they did in VLC, instead of needing the server to convert them.
+
+</details>
+
 ### The new video player, for everyone
 
 _Version 1.320.0 · 7 November 2026_
