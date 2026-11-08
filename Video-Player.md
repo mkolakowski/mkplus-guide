@@ -131,7 +131,7 @@ The Media Controls page is also the way to add buttons that aren't there to star
 MK Plus has two players behind the same controls. Apple's player handles what iOS plays itself. The app's own player takes the rest, such as MKV files with unusual subtitles, and jumps around a video on a share quickly. You don't have to choose.
 
 - **MKV files** from a share play in Apple's player when they can, which gives them iOS's generated subtitles, AirPlay and Picture in Picture. Others, and any MKV from Jellyfin, play in the app's own player. Turn off Settings → Video Playback → **Play MKV in Apple's Player** to send every MKV there.
-- **DTS and Dolby TrueHD sound** doesn't play in MK Plus. If the video has another soundtrack (Blu-ray copies often carry Dolby Digital too), the player uses that one and says so for a moment; if not, the picture plays without sound and the player says why. The audio menu lists those tracks as "not supported".
+- **DTS and Dolby TrueHD sound** doesn't play in MK Plus. If the video has another soundtrack (Blu-ray copies often carry Dolby Digital too), the player uses that one and says so for a moment; if not, the picture plays without sound and the player says why. The audio menu lists those tracks as "not supported". From Jellyfin, a video whose only sound is DTS or Dolby TrueHD has the server convert just the sound to Dolby Digital Plus, keeping the picture as it is and the surround sound.
 - **If a video won't play** in Apple's player, the app's own player tries it. For a Jellyfin video it can't play either, the server converts it. If nothing can, the player says so.
 
 ## On the iPhone Duo and iPad
