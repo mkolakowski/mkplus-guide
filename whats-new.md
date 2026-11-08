@@ -11,6 +11,28 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Magnify on Hold for the tab bar
+
+_Version 1.324.0 · 8 November 2026_
+
+- Touch the tab bar and slide along it: the bar grows, with each tab's name, and a glass bubble shows the tab under your finger bigger.
+- Let go to open that tab, or slide off the bar to change your mind.
+- Settings → Home Screen → Magnify on Hold turns it off.
+
+<img src="images/iphone-18-pro-max/tab-bar-magnifier.png" width="300" alt="The tab bar grown by Magnify on Hold, with names under each tab and a glass bubble magnifying Downloads, on an iPhone 18 Pro Max">
+
+<img src="images/duo-front/tab-bar-magnifier.png" width="300" alt="The side tab bar grown by Magnify on Hold, with a glass bubble magnifying Downloads, on the iPhone Duo, closed">
+
+<details markdown="1">
+<summary>Everything in 1.324.0</summary>
+
+**Changed**
+
+- On Search, the bubble is now the magnified button itself, without a second ring inside it.
+- With Reduce Motion on, the bubble no longer glides onto the tab you pick; it's there at once.
+
+</details>
+
 ### VLC is gone: one fast player of MK Plus's own
 
 _Version 1.321.0 · 7 November 2026_

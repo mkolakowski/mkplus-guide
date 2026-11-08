@@ -46,6 +46,27 @@ A floating bar across the bottom of the screen switches between the tabs. On the
 
 The **Servers** tab is off to begin with, because your servers are also on Home and in Settings → Server List. To add it to the bar, turn on Settings → Home Screen → **Servers Tab**.
 
+### Magnify on Hold
+
+The bar is small, so it grows when you touch it. Put a finger on it and slide, or hold a tab (or **Search**) still for a moment, and the bar gets bigger and shows each tab's name. A clear glass bubble follows your finger and shows the tab under it, bigger still.
+
+- **Slide** along the bar to look at each tab.
+- **Let go** to open the tab you're on.
+- **Slide off** the bar, onto the screen, to change your mind. Nothing opens.
+
+**Home**, **+**, and a folder's **Layout** and **Sort** keep their own press-and-hold menus. You can still slide from them along the bar.
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/tab-bar-magnifier.png" alt="The tab bar grown by Magnify on Hold, with the glass bubble over Downloads, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/tab-bar-magnifier.png" alt="The tab bar grown by Magnify on Hold, with the glass bubble over Downloads, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+</div>
+
+To turn it off, switch off Settings → Home Screen → **Magnify on Hold**. The bar then only takes taps. With Reduce Motion on, the bar fades in instead of growing. With VoiceOver on, the bar doesn't grow: you already reach each tab by swiping.
+
+### Add a server from the Servers tab
+
+With the **Servers** tab on, press and hold it for half a second and **Add Server** opens right there. A tap still just opens the tab. With VoiceOver, **Add Server** is an action on the tab. To turn the hold off, switch off Settings → Home Screen → **Hold Servers to Add a Server**.
+
 ## Add your first server
 
 A "server" here is any place MK Plus can read files from.
