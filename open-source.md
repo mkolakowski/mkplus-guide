@@ -13,12 +13,12 @@ Some of them are licensed under the GNU Lesser General Public License (LGPL). Ea
 separate dynamic framework, so it can be replaced with another build of the same library, and their
 complete source for the versions in the current app is published here:
 
-**[Source of the LGPL libraries](https://github.com/mkolakowski/mkplus-guide/releases/tag/lgpl-sources-ffmpegbuild-3.5.0-amsmb2-4.0.3)**
+**[Source of the LGPL libraries](https://github.com/mkolakowski/mkplus-guide/releases/tag/lgpl-sources-ffmpegbuild-3.5.0-mk1-amsmb2-4.0.3)**
 
 | Library | Version |
 |---|---|
 | FFmpeg | 8.1.3 |
-| FFmpegBuild | 3.5.0 |
+| FFmpegBuild | 3.5.0-mk1 |
 | libzvbi | 0.2.45 |
 | AMSMB2 | 4.0.3 |
 | libsmb2 | commit aff9fa6 |
