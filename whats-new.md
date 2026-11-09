@@ -11,6 +11,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Older video formats
+
+_Version 1.335.0 · 9 November 2026_
+
+- DivX, Xvid and Windows Media videos no longer play from shares and cloud storage. The player now says which format a video is when it can't play it.
+- From Jellyfin, those videos still play: the server converts them.
+
+<details markdown="1">
+<summary>Everything in 1.335.0</summary>
+
+**Changed**
+
+- DivX and Xvid, Windows Media Video (WMV) and VC-1, and old Flash videos don't play in MK Plus any more. From Jellyfin, the server converts them so they play.
+- A few unusual kinds of H.264 and HEVC video that this device's video decoder can't handle, like some professional 4:2:2 recordings, don't play either, and Jellyfin converts those too.
+- When a video won't play, the player says what format it is and what you can do, instead of a technical error.
+- Windows Media Audio soundtracks are listed as not supported, like DTS. If the video has another soundtrack, that one plays.
+
+</details>
+
 ### Show Me, switches and pictures in the changelog
 
 _Version 1.331.0 · 9 November 2026_
