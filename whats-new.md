@@ -11,6 +11,34 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A new, faster way to reach SMB servers
+
+_Version 1.327.0 · 8 November 2026_
+
+- SMB servers are reached through a new engine: faster reads, and SMB 3 encryption where the server offers it.
+- Copies within a server happen on the server itself, without coming down to your phone.
+- If an SMB server stops working, Settings → Server List → SMB Engine → Previous brings back the old one.
+
+<details markdown="1">
+<summary>Everything in 1.327.0</summary>
+
+**New**
+
+- Settings → Server List → SMB Engine: Standard (the new one) or Previous, for a release or two while the new one settles in.
+
+**Changed**
+
+- Browsing, playing, downloading, copying and backups to SMB servers go through the new engine, which reads faster and speaks SMB 3 with encryption.
+- Copying a file or folder within a server is done by the server, so nothing comes down to your phone.
+
+**Fixed**
+
+- Stopping a copy from one server to another now stops the upload half too, and removes the part-written file.
+- Writing a backup over a file that's already there replaces it instead of failing.
+- A wrong SMB password brings up the sign-in again on servers where it didn't before.
+
+</details>
+
 ### Magnify on Hold for the tab bar
 
 _Version 1.324.0 · 8 November 2026_
