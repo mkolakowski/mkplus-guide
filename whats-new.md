@@ -11,6 +11,61 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Show Me, switches and pictures in the changelog
+
+_Version 1.331.0 · 9 November 2026_
+
+- Changes in What's New and Settings → Changelog can take you to the setting they're about: tap Show Me.
+- A new on/off setting has its switch right there, and some changes link to the guide or show a picture.
+- Turn any of these off at the top of Settings → Changelog.
+
+<img src="images/iphone-18-pro-max/changelog-show-me.png" width="300" alt="Settings → Changelog: under a change, the Keep Sent Feedback switch and a Show Me button, on an iPhone 18 Pro Max">
+
+<details markdown="1">
+<summary>Everything in 1.331.0</summary>
+
+**New**
+
+- Show Me opens the setting a change is about, scrolled to it and flashing it, from Settings → Changelog and the What's New popup.
+- On/off settings a change adds have their switch right under it, so you can try one straight away.
+- Guide links open the guide site's page about a change in Safari.
+- Pictures of a release from the guide site's What's New page show in the changelog and in What's New. They're loaded from the guide site when they're shown.
+- Each of these has its own switch at the top of Settings → Changelog, under With Each Change.
+
+**Changed**
+
+- Searching Settings for Sent Feedback opens the page itself.
+- The privacy policy says the changelog's pictures come from the guide site.
+
+</details>
+
+### More to send with feedback, and a list of what you sent
+
+_Version 1.330.0 · 9 November 2026_
+
+- Provide Feedback takes up to five pictures and three files of any kind.
+- Add your email address if you'd like an answer. It's optional and stays in your report.
+- Settings → Sent Feedback lists the feedback you've sent from this iPhone.
+
+<img src="images/iphone-18-pro-max/feedback-form.png" width="300" alt="Provide Feedback with its Pictures, Files and Reply To sections, on an iPhone 18 Pro Max">
+
+<img src="images/iphone-18-pro-max/sent-feedback.png" width="300" alt="Settings → Sent Feedback, listing a report sent from this iPhone, on an iPhone 18 Pro Max">
+
+<details markdown="1">
+<summary>Everything in 1.330.0</summary>
+
+**New**
+
+- Attach up to five pictures to Provide Feedback, and up to three files of any kind (20 MB each): a video that won't play, a subtitle file, a crash report.
+- An optional email field, for when you'd like an answer. It goes in your report, which only the developer can see, and nowhere else.
+- Settings → Sent Feedback: everything you've sent from this iPhone, with its reference number. It stays on your iPhone. Turn off Keep Sent Feedback to stop keeping copies, or clear them.
+
+**Changed**
+
+- The privacy policy says where an email address you give goes, and that Sent Feedback stays on your iPhone.
+
+</details>
+
 ### A new, faster way to reach SMB servers
 
 _Version 1.327.0 · 8 November 2026_

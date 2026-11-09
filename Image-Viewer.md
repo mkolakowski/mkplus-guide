@@ -87,4 +87,4 @@ Settings → **Image Viewer Controls** opens the viewer itself, on sample pictur
 
 ---
 
-Home · Previous: [← Book servers](OPDS-Catalogs.html) · Back to: [Getting Started](Getting-Started.html)
+Home · Previous: [← Book servers](OPDS-Catalogs.html) · Next: [Settings →](Settings.html)
