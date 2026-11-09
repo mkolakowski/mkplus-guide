@@ -84,6 +84,7 @@ The Duo folds, and the app notices how it's held: closed, open, and partly folde
 - In a folder, **Compact Cards** (File Browsing) makes the Cards layout half as tall, so twice as many fit. **Filter and Play Buttons** (Home Screen) gives a folder's filter and **Play All** their own buttons down the side of the bar. Off, they share one **Options** menu. **More Menu When Short** tucks the least-used buttons into a **More** menu where they don't all fit.
 - A card (a folder or movie that slides up) sits beside the strip. Settings → File Browsing → **Cards on the iPhone Duo**, with Show Advanced Settings on, lets each posture use **Card** or **Full Screen**.
 - A video keeps its controls clear of the strip. A book shows one page.
+- On a book server's series page, **Series Buttons in the Strip** (Settings → Catalogs) moves Mark as Read, Auto-Download and Home into the strip.
 
 ### Unfolded
 
@@ -93,6 +94,7 @@ The Duo folds, and the app notices how it's held: closed, open, and partly folde
 - A book shows two pages side by side on its side. Upright it shows one, unless **Two Pages When Upright** is on in Settings → Reading → **Page Layout**.
 - A video has its own layout, and the **Media Controls** editor adds two buttons at the top, **Loadout 1** and **Loadout 2**. Tap an empty one to save your layout, tap a saved one to use it, and hold one to save over it or clear it. See [Lay the controls out your way](Video-Player.html#lay-the-controls-out-your-way).
 - **Open in the Other Half** puts a second folder in the other half of the screen: beside the first on its side, below it upright. Press and hold a saved server on Home, or select one folder, and choose it. **Close Half** goes back to one. Drag files from one half onto a folder in the other to copy them. With **Hold to Drag When Split** on, a press and hold picks a file up to drag, instead of starting select mode. These are in Settings → File Browsing.
+- On a book server's series page, with the Duo on its side, **Series Details Beside the List** (Settings → Catalogs) puts the series' details in a column beside its books.
 
 ### Partly folded, like a book
 
