@@ -66,7 +66,7 @@ Tap a Home in the list to open its page.
 - **Look** has its **Theme** and its **Backdrop**: blurred artwork or a picture behind the Home. See [Your Home](Home-Screen.html#themes-and-backdrops).
 - **Saved Servers on Home** lists your saved servers under this Home's widgets.
 - **Lock with Face ID** hides this Home's widgets behind Face ID once the app has been put away. On an iPhone without Face ID it says Touch ID, or your passcode.
-- **Show Private Servers** and **Always Hide Private Servers** decide whether private servers show on this Home. See [Privacy and Face ID](Privacy.html).
+- **Show Private Servers** and **Always Hide Private Servers** decide whether private servers show on this Home. See [Privacy and Face ID](Privacy-and-Face-ID.html).
 - **Widgets** lists this Home's widgets. Tap one, or swipe it right, for its options, and swipe it left to remove it. **Reorder** lets you drag them into order, and **Add Widgets** adds more.
 - **Delete** (it carries the Home's name) removes the Home and its widgets. The servers and folders they showed stay as they are. It only shows when you have more than one Home.
 
@@ -81,7 +81,7 @@ Tap a Home in the list to open its page.
 Settings → **Server List** lists every server you've saved, and holds the settings that go with them. It has no advanced settings.
 
 - **Saved Servers**: tap a server for its page. Its address and sign-in show there, and **Edit** (top right) lets you change them. Swipe a server to delete it. The **+** at the top adds one: see [Getting Started](Getting-Started.html#add-your-first-server).
-- **Private**, on a server's page, hides it until you show it with Face ID. **While Hidden, on Home** is **Hide**, or **Titles Only** to keep its Home widgets as bare titles. See [Privacy and Face ID](Privacy.html).
+- **Private**, on a server's page, hides it until you show it with Face ID. **While Hidden, on Home** is **Hide**, or **Titles Only** to keep its Home widgets as bare titles. See [Privacy and Face ID](Privacy-and-Face-ID.html).
 - **Credentials** are usernames and passwords you keep once and pick for several SMB servers, so they all sign in the same way. Tap **+** (**Add Credential**), fill in **Name**, **Username**, an optional **Domain** and **Password**, and tap **Save**. Changing one changes every server that uses it.
 - **Show Private Servers** only appears while some are hidden. Tap it to show them with Face ID.
 - **Swap Swipe Directions** flips which way edits and which way deletes.

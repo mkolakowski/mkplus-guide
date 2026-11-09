@@ -66,7 +66,7 @@ Restoring replaces every server, Home and setting on this iPhone with the backup
 
 ## Privacy
 
-Settings → **Privacy** is where you lock the app and keep private servers private. It holds **Require Face ID**, **Face ID to Edit Servers**, **Hide Private Titles on Lock Screen**, the switches for locked Homes and private servers, and the **Activity Log**, the app's private record of what went wrong, which **Provide Feedback** can attach. On an iPhone without Face ID these say Touch ID or Passcode. [Privacy and Face ID](Privacy.html) goes through all of it.
+Settings → **Privacy** is where you lock the app and keep private servers private. It holds **Require Face ID**, **Face ID to Edit Servers**, **Hide Private Titles on Lock Screen**, the switches for locked Homes and private servers, and the **Activity Log**, the app's private record of what went wrong, which **Provide Feedback** can attach. On an iPhone without Face ID these say Touch ID or Passcode. [Privacy and Face ID](Privacy-and-Face-ID.html) goes through all of it.
 
 ## Storage
 
@@ -99,4 +99,4 @@ Other things use room too, and have their own controls:
 
 ---
 
-Home · Previous: [← Media](Settings-Media.html) · Next: [Privacy and Face ID →](Privacy.html) · Up: [Settings](Settings.html)
+Home · Previous: [← Media](Settings-Media.html) · Next: [Privacy and Face ID →](Privacy-and-Face-ID.html) · Up: [Settings](Settings.html)

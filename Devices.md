@@ -128,4 +128,4 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 
 ---
 
-Home · Previous: [← Privacy and Face ID](Privacy.html) · Back to: [Getting Started](Getting-Started.html)
+Home · Previous: [← Privacy and Face ID](Privacy-and-Face-ID.html) · Back to: [Getting Started](Getting-Started.html)

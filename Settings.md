@@ -94,7 +94,7 @@ The rows below the groups:
 - **Attach Activity Log** starts the form with the log attached. It's greyed out while Settings → Privacy → **Keep an Activity Log** is off.
 - **Shake to Provide Feedback** asks whether you'd like to send feedback when you shake your iPhone.
 - **Setup Guide** opens step-by-step help in Safari, for connecting Dropbox, Google Drive, OneDrive, Box and S3 storage. This guide is on the same site.
-- **Privacy Policy** opens the privacy policy, in Safari. A short summary is in [Privacy and Face ID](Privacy.html).
+- **Privacy Policy** opens the privacy policy, in Safari. A short summary is in [Privacy and Face ID](Privacy-and-Face-ID.html).
 - **Acknowledgements** lists the open-source projects MK Plus is built with. Tap one for what it does here and its licence.
 - The line at the very bottom is the **Version**, with the build number after it in brackets. It's the one to look up in **Changelog**.
 
@@ -116,7 +116,7 @@ In TestFlight you can also take a screenshot and tap **Share Beta Feedback**.
 - [Home & Browsing](Settings-Home-Browsing.html): Home Screen, Server List and File Browsing.
 - [Media](Settings-Media.html): video, Jellyfin, book servers, reading and pictures.
 - [Data & Privacy](Settings-Data.html): iCloud Backup, Backup, Privacy and Storage.
-- [Privacy and Face ID](Privacy.html): locking the app, Homes and servers.
+- [Privacy and Face ID](Privacy-and-Face-ID.html): locking the app, Homes and servers.
 - [On your device](Devices.html): what's different on an iPhone Duo, a small iPhone and an iPad.
 
 ---

@@ -68,7 +68,7 @@ To take it off again, press and hold it and choose **Remove from Home**.
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/add-widget.png" alt="The Add Widgets sheet, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
-Private servers are left out unless the Home shows them. See [Privacy and Face ID](Privacy.html).
+Private servers are left out unless the Home shows them. See [Privacy and Face ID](Privacy-and-Face-ID.html).
 
 ## Widget styles
 
@@ -149,7 +149,7 @@ Home can also list your saved servers (**Shares**, **Jellyfin** and **Catalogs**
 
 ## Good to know
 
-- A Home can be locked with Face ID, Touch ID or your passcode: press and hold its name and choose **Lock with…**. Private servers and locked Homes are covered in [Privacy and Face ID](Privacy.html).
+- A Home can be locked with Face ID, Touch ID or your passcode: press and hold its name and choose **Lock with…**. Private servers and locked Homes are covered in [Privacy and Face ID](Privacy-and-Face-ID.html).
 - A new server adds its own widgets to your first Home, unless you turn off Settings → Home Screen → **Add Widgets for New Servers**.
 - On the unfolded iPhone Duo and on iPad, Settings → Home Screen can show Home as **One Column**, **Two Columns**, **Two Homes Side by Side**, or **In a Card** down the middle.
 
