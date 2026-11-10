@@ -11,6 +11,24 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Video controls get out of the way
+
+_Version 1.338.0 · 10 November 2026_
+
+- While a video plays, its controls now go away on their own a few seconds after you last touch the screen.
+- They stay while it's paused, while you scrub and while a menu is open. Choose how long, or Never, in Settings.
+
+<img src="images/iphone-18-pro-max/hide-controls-setting.png" width="300" alt="Settings → Video Playback → Gestures & Buttons: Hide Controls set to After 5 Seconds, on an iPhone 18 Pro Max">
+
+<details markdown="1">
+<summary>Everything in 1.338.0</summary>
+
+**New**
+
+- Hide Controls in Settings → Video Playback → Gestures & Buttons: the controls of a playing video go away on their own after 3, 5 or 10 seconds without a touch (5 to start with), or Never, as before. They stay while it's paused, while you scrub, while a menu or sheet is open, and with VoiceOver on.
+
+</details>
+
 ### Sturdier playback for awkward videos
 
 _Version 1.337.0 · 10 November 2026_

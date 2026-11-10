@@ -33,7 +33,7 @@ Settings → **Video Playback** opens four pages: **Gestures & Buttons**, **Subt
 Swipes and taps on the video, the title, and what the player's buttons open. [Watching video](Video-Player.html#gestures) shows them at work.
 
 - **Gestures**: **Vertical Swipes** is **Off**, **Swipe Down to Close** or **Swipe Between Videos**. **Tap to Pause** makes a tap in the middle pause and play. **Lock Buttons While Scrubbing** fades the buttons while you scrub, so a finger passing over one doesn't set it off.
-- **Title & Buttons**: **Show Title**, **Settings Button Opens** (**Menu**, **Player Settings Sheet** or **All Settings**), **Playback Options Button Opens** (**Short Menu**, **Full Menu** or **Sheet**), **Rotate Keeps Menu Open**, **Timeline Only While Scrubbing** and **Time Left on the Timeline**.
+- **Title & Buttons**: **Hide Controls** (**After 3 Seconds**, **After 5 Seconds**, **After 10 Seconds** or **Never**: how long a playing video's controls stay up before they go on their own), **Show Title**, **Settings Button Opens** (**Menu**, **Player Settings Sheet** or **All Settings**), **Playback Options Button Opens** (**Short Menu**, **Full Menu** or **Sheet**), **Rotate Keeps Menu Open**, **Timeline Only While Scrubbing** and **Time Left on the Timeline**.
 
 With Show Advanced Settings on, this page also has **Video Change** (how one video gives way to the next), **Show Play/Pause on Tap**, **Title Above Controls** and **Scrub Preview Popup**. The iPhone Duo has an **iPhone Duo** section here too: see [On your device](Devices.html).
 

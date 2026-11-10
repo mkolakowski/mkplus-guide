@@ -27,7 +27,7 @@ Tap a video in a folder, on a Jellyfin page or on Home and it plays full screen.
 <div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/watch-player.png" alt="A video playing with its controls showing, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
 </div>
 
-Tap the video to show or hide the controls. They are:
+Tap the video to show or hide the controls. While it plays they go away on their own a few seconds after they come up or after your last touch; they stay while it's paused, while you scrub, and while a menu is open. Settings → Video Playback → Gestures & Buttons → **Hide Controls** sets how long (3, 5 or 10 seconds), or **Never**. The controls are:
 
 - **Back** closes the player.
 - The **timeline** shows how far in you are. Drag along it to scrub. With Settings → Video Playback → Gestures & Buttons → **Scrub Preview Popup** on, a small picture shows where you'll land.
