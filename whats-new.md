@@ -11,6 +11,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### AV1 videos are lighter on the battery
+
+_Version 1.338.2 · 10 November 2026_
+
+- AV1 videos now play through your iPhone's own video hardware (iPhone 15 Pro and later), with half the processor work they took before.
+
+<details markdown="1">
+<summary>Everything in 1.338.2</summary>
+
+**Changed**
+
+- AV1 videos play through the iPhone's video hardware on iPhones that have it (iPhone 15 Pro and later): on an iPhone 16 Pro Max a 1080p AV1 video went from a third of one processor core to a sixth, the same as H.264. Until now they were decoded by the app even where the hardware could do it. Older iPhones decode AV1 as before.
+
+</details>
+
 ### VP9 videos are lighter on the battery
 
 _Version 1.338.1 · 10 November 2026_
