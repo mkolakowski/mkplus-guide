@@ -11,6 +11,29 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Sturdier playback for awkward videos
+
+_Version 1.337.0 · 10 November 2026_
+
+- Widescreen DVDs and recordings no longer look squeezed, and phone videos stand the right way up.
+- TV recordings that don't start at zero now show the right time, and jumping around them lands where you aim.
+- A damaged video skips past the bad part instead of stopping.
+
+<details markdown="1">
+<summary>Everything in 1.337.0</summary>
+
+**Fixed**
+
+- Videos with non-square pixels (DVDs, 1440×1080 HD) now show at their proper shape, in Picture in Picture too.
+- Phone videos that are marked as turned now show upright. Rotate still turns them by hand.
+- TV recordings (.ts) and videos whose clock doesn't start at zero: the time and the timeline now start at 0, and the end is the end.
+- Jumping around a .ts or .mpg file now lands on the moment you picked instead of up to a second later.
+- A damaged stretch of video no longer stops playback. The picture comes back after it while the sound plays on.
+- Formats MK Plus can't play, like Motion JPEG and DNxHD, now say so by name.
+- If an SMB server stops answering in the middle of a video, the player now says so instead of showing an I/O error.
+
+</details>
+
 ### Older video formats
 
 _Version 1.335.0 · 9 November 2026_
