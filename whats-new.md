@@ -11,6 +11,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### VP9 videos are lighter on the battery
+
+_Version 1.338.1 · 10 November 2026_
+
+- VP9 videos (common in WebM files) now play through your iPhone's own video hardware, with about a third of the processor work they took before.
+
+<details markdown="1">
+<summary>Everything in 1.338.1</summary>
+
+**Changed**
+
+- VP9 videos play through the iPhone's video hardware instead of being decoded by the app itself: on an iPhone 16 Pro Max a 1080p VP9 video went from about half of one processor core to under a fifth, the same as H.264, and uses less memory. Earlier iOS versions than 26.2 decode it as before.
+
+</details>
+
 ### Video controls get out of the way
 
 _Version 1.338.0 · 10 November 2026_
