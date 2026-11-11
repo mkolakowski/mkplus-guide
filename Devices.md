@@ -1,7 +1,7 @@
 ---
 title: "On your device"
-parent: "Using MK Plus"
-nav_order: 12
+parent: "Use the app"
+nav_order: 10
 ---
 
 # On your device
@@ -130,4 +130,4 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 
 ---
 
-Home · Previous: [← Privacy and Face ID](Privacy-and-Face-ID.html) · Back to: [Getting Started](Getting-Started.html)
+Previous: [← Privacy and Face ID](Privacy-and-Face-ID.html) · Next: [Settings →](Settings.html)

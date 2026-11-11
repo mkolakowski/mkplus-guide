@@ -1,4 +1,4 @@
-# MK Plus Setup Guide
+# MK Plus Guide
 
 The published site: **https://mkolakowski.github.io/mkplus-guide/**
 

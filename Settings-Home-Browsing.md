@@ -1,7 +1,6 @@
 ---
 title: "Home & Browsing"
 parent: "Settings"
-grand_parent: "Using MK Plus"
 nav_order: 2
 ---
 
@@ -139,4 +138,4 @@ The iPhone Duo has more switches in the first section, and a **Cards on the iPho
 
 ---
 
-Home · Previous: [← General](Settings-General.html) · Next: [Media →](Settings-Media.html) · Up: [Settings](Settings.html)
+Previous: [← General](Settings-General.html) · Next: [Media →](Settings-Media.html)

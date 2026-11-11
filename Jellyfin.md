@@ -1,7 +1,7 @@
 ---
 title: "Jellyfin"
-parent: "Using MK Plus"
-nav_order: 5
+parent: "Use the app"
+nav_order: 4
 ---
 
 # Jellyfin
@@ -137,4 +137,4 @@ The code is also copied, in case signing in lands you somewhere else in Jellyfin
 
 ---
 
-Home · Previous: [← Watching video](Video-Player.html) · Next: [Listening to music →](Music.html)
+Previous: [← Watching video](Video-Player.html) · Next: [Listening to music →](Music.html)

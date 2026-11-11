@@ -1,7 +1,6 @@
 ---
 title: "Media"
 parent: "Settings"
-grand_parent: "Using MK Plus"
 nav_order: 3
 ---
 
@@ -156,4 +155,4 @@ Settings → **Image Viewer** is one short page with no advanced settings: **Tap
 
 ---
 
-Home · Previous: [← Home & Browsing](Settings-Home-Browsing.html) · Next: [Data & Privacy →](Settings-Data.html) · Up: [Settings](Settings.html)
+Previous: [← Home & Browsing](Settings-Home-Browsing.html) · Next: [Data & Privacy →](Settings-Data.html)

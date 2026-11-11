@@ -1,7 +1,6 @@
 ---
 title: "General"
 parent: "Settings"
-grand_parent: "Using MK Plus"
 nav_order: 1
 ---
 
@@ -77,4 +76,4 @@ The first time you open MK Plus after it updates, a **What's New** popup shows t
 
 ---
 
-Home · Previous: [← Settings](Settings.html) · Next: [Home & Browsing →](Settings-Home-Browsing.html) · Up: [Settings](Settings.html)
+Previous: [← Settings](Settings.html) · Next: [Home & Browsing →](Settings-Home-Browsing.html)

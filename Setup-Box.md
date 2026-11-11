@@ -1,6 +1,7 @@
 ---
 title: "Box"
-nav_order: 5
+parent: "Connect a server"
+nav_order: 4
 ---
 
 # Setting up Box
@@ -76,4 +77,6 @@ Sign-in problems show an alert titled **Couldn't Sign In**. Messages that come l
 - **A sign-in token that's already been used won't work again.** Box makes a new one each time MK Plus refreshes. If you also have the same server on another device sharing your Keychain, use whichever signs in last, or sign in again.
 - **Changed a permission?** Box only applies it to sign-ins made after you save, so tap **Sign In Again**.
 
-Next: [S3-compatible storage](Setup-S3.html).
+---
+
+Previous: [← OneDrive](Setup-OneDrive.html) · Next: [S3-compatible storage →](Setup-S3.html)

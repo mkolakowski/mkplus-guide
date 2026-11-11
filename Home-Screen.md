@@ -1,7 +1,7 @@
 ---
 title: "Your Home"
-parent: "Using MK Plus"
-nav_order: 2
+parent: "Use the app"
+nav_order: 1
 ---
 
 # Your Home
@@ -155,4 +155,4 @@ Home can also list your saved servers (**Shares**, **Jellyfin** and **Catalogs**
 
 ---
 
-Home · Previous: [← Getting Started](Getting-Started.html) · Next: [Browsing your files →](Browsing.html)
+Previous: [← Use the app](Using-MK-Plus.html) · Next: [Browsing your files →](Browsing.html)

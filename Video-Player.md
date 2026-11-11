@@ -1,7 +1,7 @@
 ---
 title: "Watching video"
-parent: "Using MK Plus"
-nav_order: 4
+parent: "Use the app"
+nav_order: 3
 ---
 
 # Watching video
@@ -155,4 +155,4 @@ MK Plus has two players behind the same controls. Apple's player handles what iO
 
 ---
 
-Home · Previous: [← Browsing your files](Browsing.html) · Next: [Jellyfin →](Jellyfin.html)
+Previous: [← Browsing your files](Browsing.html) · Next: [Jellyfin →](Jellyfin.html)

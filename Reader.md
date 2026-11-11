@@ -1,7 +1,7 @@
 ---
 title: "Reading"
-parent: "Using MK Plus"
-nav_order: 7
+parent: "Use the app"
+nav_order: 6
 ---
 
 # Reading
@@ -174,4 +174,4 @@ Every book opens at the page you were last on. For books on a book server, your 
 
 ---
 
-Home · Previous: [← Listening to music](Music.html) · Next: [Book servers →](OPDS-Catalogs.html)
+Previous: [← Listening to music](Music.html) · Next: [Book servers →](OPDS-Catalogs.html)

@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
-nav_order: 99
+parent: Help
+nav_order: 3
 permalink: /privacy/
 ---
 

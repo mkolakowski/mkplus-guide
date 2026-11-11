@@ -1,6 +1,7 @@
 ---
 title: "OneDrive"
-nav_order: 4
+parent: "Connect a server"
+nav_order: 3
 ---
 
 # Setting up OneDrive
@@ -76,4 +77,6 @@ Sign-in problems show an alert titled **Couldn't Sign In**. Messages that come l
 - **Passkeys and saved sign-ins work.** The sheet shares Safari's sign-ins.
 - **The ID is remembered.** Adding a second Microsoft account fills **Client ID** in for you.
 
-Next: [Box](Setup-Box.html).
+---
+
+Previous: [← Google Drive](Setup-Google-Drive.html) · Next: [Box →](Setup-Box.html)

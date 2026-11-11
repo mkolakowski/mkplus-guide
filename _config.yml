@@ -1,7 +1,7 @@
-# Jekyll config for the MK Plus setup guide. Generated: changes made in the
+# Jekyll config for the MK Plus Guide. Generated: changes made in the
 # public repo are overwritten on the next publish.
-title: MK Plus Setup Guide
-description: How to connect MK Plus to Dropbox, Google Drive, OneDrive, Box, S3-compatible storage and more.
+title: MK Plus Guide
+description: How to use MK Plus, and how to connect it to Jellyfin, SMB shares, book servers, Dropbox, Google Drive, OneDrive, Box, S3-compatible storage and more.
 baseurl: /mkplus-guide
 url: https://mkolakowski.github.io
 remote_theme: just-the-docs/just-the-docs@v0.10.1

@@ -1,7 +1,6 @@
 ---
 title: "Data & Privacy"
 parent: "Settings"
-grand_parent: "Using MK Plus"
 nav_order: 4
 ---
 
@@ -99,4 +98,4 @@ Other things use room too, and have their own controls:
 
 ---
 
-Home · Previous: [← Media](Settings-Media.html) · Next: [Privacy and Face ID →](Privacy-and-Face-ID.html) · Up: [Settings](Settings.html)
+Previous: [← Media](Settings-Media.html)

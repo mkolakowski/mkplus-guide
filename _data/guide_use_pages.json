@@ -1,6 +1,6 @@
 [
   {
-    "title": "Getting Started",
+    "title": "Get started",
     "file": "Getting-Started.html",
     "about": "Install from TestFlight, find your way around the four tabs and add your first server"
   },
@@ -45,11 +45,6 @@
     "about": "Opening a picture, swiping and zooming, the viewer's controls, slideshow, rotate and share"
   },
   {
-    "title": "Settings",
-    "file": "Settings.html",
-    "about": "A tour of Settings: its groups, searching it, advanced settings and the help rows"
-  },
-  {
     "title": "Privacy and Face ID",
     "file": "Privacy-and-Face-ID.html",
     "about": "Locking the app with Face ID, private servers, locked Homes and the Activity Log"
@@ -58,5 +53,10 @@
     "title": "On your device",
     "file": "Devices.html",
     "about": "What's different on the iPhone Duo, folded and unfolded, on a small iPhone and on iPad"
+  },
+  {
+    "title": "Settings",
+    "file": "Settings.html",
+    "about": "A tour of Settings: its groups, searching it, advanced settings and the help rows"
   }
 ]

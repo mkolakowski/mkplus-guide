@@ -1,7 +1,7 @@
 ---
 title: "Book servers"
-parent: "Using MK Plus"
-nav_order: 8
+parent: "Use the app"
+nav_order: 7
 ---
 
 # Book servers
@@ -98,4 +98,4 @@ On a series page, **Auto-Download New Chapters** downloads new volumes and chapt
 
 ---
 
-Home · Previous: [← Reading](Reader.html) · Next: [Pictures →](Image-Viewer.html)
+Previous: [← Reading](Reader.html) · Next: [Pictures →](Image-Viewer.html)

@@ -1,6 +1,7 @@
 ---
 title: "Google Drive"
-nav_order: 3
+parent: "Connect a server"
+nav_order: 2
 ---
 
 # Setting up Google Drive
@@ -86,4 +87,6 @@ Sign-in problems show an alert titled **Couldn't Sign In**. Messages that come l
 - **The ID is remembered.** Adding a second Google account fills **Client ID** in for you.
 - **Shared drives show up too.** My Drive, shared drives and Shared with me all appear at the top level.
 
-Next: [OneDrive](Setup-OneDrive.html).
+---
+
+Previous: [← Dropbox](Setup-Dropbox.html) · Next: [OneDrive →](Setup-OneDrive.html)

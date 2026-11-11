@@ -1,8 +1,7 @@
 ---
 title: "Settings"
-parent: "Using MK Plus"
 has_children: true
-nav_order: 10
+nav_order: 5
 ---
 
 # Settings
@@ -121,4 +120,4 @@ In TestFlight you can also take a screenshot and tap **Share Beta Feedback**.
 
 ---
 
-Home · Previous: [← Pictures](Image-Viewer.html) · Next: [General →](Settings-General.html)
+Previous: [← On your device](Devices.html) · Next: [General →](Settings-General.html)

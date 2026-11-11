@@ -1,7 +1,7 @@
 ---
 title: "Pictures"
-parent: "Using MK Plus"
-nav_order: 9
+parent: "Use the app"
+nav_order: 8
 ---
 
 # Pictures
@@ -87,4 +87,4 @@ Settings → **Image Viewer Controls** opens the viewer itself, on sample pictur
 
 ---
 
-Home · Previous: [← Book servers](OPDS-Catalogs.html) · Next: [Settings →](Settings.html)
+Previous: [← Book servers](OPDS-Catalogs.html) · Next: [Privacy and Face ID →](Privacy-and-Face-ID.html)

@@ -1,7 +1,7 @@
 ---
 title: "Browsing your files"
-parent: "Using MK Plus"
-nav_order: 3
+parent: "Use the app"
+nav_order: 2
 ---
 
 # Browsing your files
@@ -151,4 +151,4 @@ The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to
 
 ---
 
-Home · Previous: [← Your Home](Home-Screen.html) · Next: [Watching video →](Video-Player.html)
+Previous: [← Your Home](Home-Screen.html) · Next: [Watching video →](Video-Player.html)

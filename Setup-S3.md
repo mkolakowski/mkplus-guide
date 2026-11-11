@@ -1,6 +1,7 @@
 ---
 title: "S3-compatible storage"
-nav_order: 6
+parent: "Connect a server"
+nav_order: 5
 ---
 
 # Setting up S3-compatible storage
@@ -178,4 +179,6 @@ Problems listing buckets show an alert titled **Couldn't List Buckets**. Message
 - **Buckets with dots in their names** always use path-style addressing, whatever the switch says.
 - **Another bucket, same key.** In **Add Server**, use **Copy a Saved Server** and change **Bucket**.
 
-Next: [Folders in the Files app](Setup-Files-Folders.html).
+---
+
+Previous: [← Box](Setup-Box.html) · Next: [Folders in the Files app →](Setup-Files-Folders.html)

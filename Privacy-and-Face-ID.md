@@ -1,7 +1,7 @@
 ---
 title: "Privacy and Face ID"
-parent: "Using MK Plus"
-nav_order: 11
+parent: "Use the app"
+nav_order: 9
 ---
 
 # Privacy and Face ID
@@ -114,4 +114,4 @@ MK Plus has no accounts, no analytics and no ads. Your servers, Homes, settings 
 
 ---
 
-Home · Previous: [← Data & Privacy](Settings-Data.html) · Next: [On your device →](Devices.html)
+Previous: [← Pictures](Image-Viewer.html) · Next: [On your device →](Devices.html)

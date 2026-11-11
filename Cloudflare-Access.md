@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Access"
-nav_order: 8
+parent: "Connect a server"
+nav_order: 7
 ---
 
 # Cloudflare Access
@@ -88,3 +89,7 @@ request, including converted (HLS) streams. VLC can only send a cookie: a
 web sign-in's token works as one; with a service token, the app uses the
 cookie Cloudflare hands back when it checks the token. Subtitle files VLC
 loads beside a video may not get it.
+
+---
+
+Previous: [← Folders in the Files app](Setup-Files-Folders.html) · Next: [Use the app →](Using-MK-Plus.html)

@@ -1,6 +1,7 @@
 ---
 title: "Dropbox"
-nav_order: 2
+parent: "Connect a server"
+nav_order: 1
 ---
 
 # Setting up Dropbox
@@ -70,4 +71,6 @@ Sign-in problems show an alert titled **Couldn't Sign In**. Messages that come l
 - **The key is remembered.** Adding a second Dropbox account fills **App Key** in for you.
 - **Your app stays in development mode.** That's fine: a Dropbox app you make for yourself works for you without anyone approving it.
 
-Next: [Google Drive](Setup-Google-Drive.html).
+---
+
+Previous: [← Connect a server](Connect-a-server.html) · Next: [Google Drive →](Setup-Google-Drive.html)

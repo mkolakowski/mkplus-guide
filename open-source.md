@@ -1,6 +1,7 @@
 ---
 title: Open-source libraries
-nav_order: 98
+parent: Help
+nav_order: 2
 permalink: /open-source/
 ---
 

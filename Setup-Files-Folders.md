@@ -1,6 +1,7 @@
 ---
 title: "Folders in the Files app"
-nav_order: 7
+parent: "Connect a server"
+nav_order: 6
 ---
 
 # Setting up a folder from the Files app
@@ -64,4 +65,6 @@ MK Plus never downloads files you didn't ask for. Thumbnails, comic covers and f
 - **The name in the list.** A row reads "iCloud Drive · Movies" or "Files · Films". Other apps' storage shows as "Files".
 - **Nothing to sign in to.** The folder access is kept on this iPhone, and MK Plus has no password for it.
 
-Back to the setup guides.
+---
+
+Previous: [← S3-compatible storage](Setup-S3.html) · Next: [Cloudflare Access →](Cloudflare-Access.html)

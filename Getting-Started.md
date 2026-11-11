@@ -1,7 +1,6 @@
 ---
-title: "Getting Started"
-parent: "Using MK Plus"
-nav_order: 1
+title: "Get started"
+nav_order: 2
 ---
 
 # Getting Started
@@ -134,4 +133,4 @@ Tap a server on Home or in the **Servers** tab and its folders open. Videos play
 
 ---
 
-Home · Next: [Your Home →](Home-Screen.html)
+Next: [Connect a server →](Connect-a-server.html)

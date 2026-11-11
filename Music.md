@@ -1,7 +1,7 @@
 ---
 title: "Listening to music"
-parent: "Using MK Plus"
-nav_order: 6
+parent: "Use the app"
+nav_order: 5
 ---
 
 # Listening to music
@@ -71,4 +71,4 @@ Music carries on when you switch to another app or lock your iPhone. Its title, 
 
 ---
 
-Home · Previous: [← Jellyfin](Jellyfin.html) · Next: [Reading →](Reader.html)
+Previous: [← Jellyfin](Jellyfin.html) · Next: [Reading →](Reader.html)

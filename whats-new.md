@@ -1,6 +1,7 @@
 ---
 title: "What's New"
-nav_order: 90
+parent: "Help"
+nav_order: 1
 ---
 
 {% raw %}
