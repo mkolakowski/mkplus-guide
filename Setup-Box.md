@@ -20,7 +20,7 @@ Box gives your app two codes: a **client ID**, which names the app, and a **clie
 
 ## In the Box developer console
 
-1. Open **https://app.box.com/developers/console** and sign in.
+1. Open **<https://app.box.com/developers/console>** and sign in.
 2. Choose **Create Platform App** (older consoles: **Create New App**).
 3. Pick **Custom App** and choose **Next**.
 4. Give it any name, such as `My MK Plus`, and a short description if it asks. Choose **Next**.

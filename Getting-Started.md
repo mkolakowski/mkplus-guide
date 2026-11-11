@@ -20,7 +20,7 @@ MK Plus plays video and opens comics, books and PDFs from the places you keep th
 
 MK Plus is in testing, and you install it with Apple's **TestFlight** app.
 
-1. On your iPhone or iPad, open **https://testflight.apple.com/join/P2bjt14B**.
+1. On your iPhone or iPad, open **<https://testflight.apple.com/join/P2bjt14B>**.
 2. If you don't have **TestFlight**, the page sends you to the App Store to get it. It's free.
 3. Follow the prompts in **TestFlight** to accept the invitation, then tap **Install**.
 

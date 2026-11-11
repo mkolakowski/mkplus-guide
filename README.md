@@ -1,6 +1,6 @@
 # MK Plus Guide
 
-The published site: **https://mkolakowski.github.io/mkplus-guide/**
+The published site: **<https://mkolakowski.github.io/mkplus-guide/>**
 
 These pages are generated. They're written in the MK Plus app's own
 (private) repository and copied here by a publishing script there, so

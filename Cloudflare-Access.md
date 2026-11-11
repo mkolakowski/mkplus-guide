@@ -23,7 +23,7 @@ then carries on.
 | Way | What it's like | Lasts |
 |---|---|---|
 | **Sign In with Safari** | The system's sign-in sheet. It shares Safari's sign-ins, so if Safari's signed in to Google you just pick the account; passkeys and password managers fill in as in Safari. | As long as the Access application's session (24 hours by default) |
-| **Sign In in the App** | Cloudflare's page in the app. It keeps its own cookies, so you sign in to Google (or whatever) once in it; after that, signing in again is usually a tap. To fill a password, long-press the field → **AutoFill → Passwords**. Passkeys can't work on this page. | The same |
+| **Sign In in the App** | Cloudflare's page in the app. It keeps its own cookies, so you sign in to Google (or whatever) once in it; after that, signing in again is usually a tap. To fill a password, press and hold the field → **AutoFill → Passwords**. Passkeys can't work on this page. | The same |
 | **Service token** | A Client ID and Secret made for apps. The phone is let in without signing in at all. | As long as you made it last (a year, or for good) |
 
 Sign In with Safari gets its token back the way Cloudflare's own

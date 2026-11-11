@@ -45,7 +45,7 @@ Reports pass through a small service the developer runs on Cloudflare. What you 
 
 While **Keep Sent Feedback** is on (Settings, under Provide Feedback), the app keeps a copy of each report it sends on your device, in Settings → Sent Feedback: what you wrote, the email you gave and the names of what you attached, not the attachments themselves. It isn't sent anywhere. You can delete reports there one at a time or all at once, and turn the switch off to stop keeping copies.
 
-If a report can't be sent, you can choose to email it instead: your email goes to the developer at appledev@iptater.net with the same details and anything you attached.
+If a report can't be sent, you can choose to email it instead: your email goes to the developer at <appledev@iptater.net> with the same details and anything you attached.
 
 While testing through **TestFlight**, Apple shares the feedback, screenshots and crash reports you choose to send with the developer, under [Apple's TestFlight terms](https://www.apple.com/legal/internet-services/itunes/testflight/sren/terms.html). These are used only to fix and improve the app.
 
@@ -59,4 +59,4 @@ If this policy changes, the date above changes with it.
 
 ## Contact
 
-Questions about privacy: **appledev@iptater.net**
+Questions about privacy: **<appledev@iptater.net>**

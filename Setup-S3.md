@@ -34,12 +34,12 @@ Read-only is safest if you only watch and read. Giving the key just one bucket i
 
 ### In the AWS console
 
-1. Open **https://console.aws.amazon.com/iam/** and sign in.
+1. Open **<https://console.aws.amazon.com/iam/>** and sign in.
 2. Open **Users** and choose **Create user**. Name it (`mkplus`, say). Don't tick console access. Choose **Next**.
 3. Choose **Attach policies directly** and either pick **AmazonS3ReadOnlyAccess** (read-only for every bucket) or **AmazonS3FullAccess** (read and write), or choose **Create policy** to limit it to one bucket. Then choose **Next → Create user**.
 4. Open the new user, then the **Security credentials** tab, and choose **Create access key**. Pick **Application running outside AWS**, choose **Next → Create access key**.
 5. Copy the **Access key ID** and the **Secret access key**.
-6. Find your bucket's region: open **https://console.aws.amazon.com/s3/** and look in the **AWS Region** column (for example **US East (N. Virginia) us-east-1**).
+6. Find your bucket's region: open **<https://console.aws.amazon.com/s3/>** and look in the **AWS Region** column (for example **US East (N. Virginia) us-east-1**).
 
 ### What the template fills in
 
@@ -53,7 +53,7 @@ If the bucket turns out to be in another region, MK Plus notices and tries again
 
 ### In the Cloudflare dashboard
 
-1. Open **https://dash.cloudflare.com** and sign in. Open **R2 Object Storage** (in the left menu).
+1. Open **<https://dash.cloudflare.com>** and sign in. Open **R2 Object Storage** (in the left menu).
 2. On the R2 overview page, choose **Manage** next to **API Tokens** (it may say **Manage API Tokens**).
 3. Choose **Create API token**.
 4. Name it. Under **Permissions**, pick **Object Read only** (browse and play) or **Object Read & Write** (also delete, move and copy).
@@ -73,13 +73,13 @@ A token for one bucket may not be allowed to list your buckets, so type that buc
 
 ### In the Backblaze account
 
-1. Open **https://secure.backblaze.com/app_keys.htm** and sign in. (It's **Application Keys** in the left menu, under **Account**.)
+1. Open **<https://secure.backblaze.com/app_keys.htm>** and sign in. (It's **Application Keys** in the left menu, under **Account**.)
 2. Choose **Add a New Application Key**.
 3. Name it. Under **Allow access to Bucket(s)**, choose **All** or pick one bucket.
 4. Under **Type of Access**, pick **Read Only** (browse and play) or **Read and Write**. Leave **Allow List All Bucket Names** ticked so **Browse Buckets** works.
 5. Choose **Create New Key**.
 6. Copy the **keyID** and the **applicationKey**. The applicationKey is shown only once.
-7. Find your bucket's endpoint: open **https://secure.backblaze.com/b2_buckets.htm** and look at the bucket's **Endpoint**, for example `s3.us-west-004.backblazeb2.com`. The part in the middle is the region.
+7. Find your bucket's endpoint: open **<https://secure.backblaze.com/b2_buckets.htm>** and look at the bucket's **Endpoint**, for example `s3.us-west-004.backblazeb2.com`. The part in the middle is the region.
 
 ### What the template fills in
 
@@ -92,7 +92,7 @@ A token for one bucket may not be allowed to list your buckets, so type that buc
 
 ### In the Wasabi console
 
-1. Open **https://console.wasabisys.com** and sign in.
+1. Open **<https://console.wasabisys.com>** and sign in.
 2. Open **Access Keys** in the left menu.
 3. Choose **Create Access Key**. Make one for the root account, or for a sub-user whose policy allows what you need (read-only, or read and write).
 4. Copy the **Access Key** and the **Secret Key**, or choose **Download CSV**. The secret is shown only once.
@@ -108,7 +108,7 @@ A token for one bucket may not be allowed to list your buckets, so type that buc
 
 ### In the DigitalOcean control panel
 
-1. Open **https://cloud.digitalocean.com** and sign in. In the left menu, open **API**.
+1. Open **<https://cloud.digitalocean.com>** and sign in. In the left menu, open **API**.
 2. Open the **Spaces Keys** tab and choose **Generate New Key**.
 3. Name it. Choose **Full Access**, or **Limited Access** and pick the Space with **Read** (browse and play) or **Read/Write/Delete** (also delete, move and copy).
 4. Choose **Create Access Key**.

@@ -22,14 +22,14 @@ A **client ID** is a long code that names the app you register with Google. It i
 
 **Step 1: make a project and turn on the Drive API**
 
-1. Open **https://console.cloud.google.com/apis/library/drive.googleapis.com** and sign in.
+1. Open **<https://console.cloud.google.com/apis/library/drive.googleapis.com>** and sign in.
 2. If you're asked to choose a project, choose **Create project**, name it anything (`MK Plus`, say) and choose **Create**. Make sure it's the project selected at the top of the page.
 3. On the **Google Drive API** page, choose **Enable**.
 
 **Step 2: make an iOS client**
 
 {: start="4"}
-4. Open **https://console.cloud.google.com/auth/clients**. If the console first asks you to set up Google Auth Platform (also called the OAuth consent screen), follow its prompts: any app name, your own email for support and contact, and **External** as the audience.
+4. Open **<https://console.cloud.google.com/auth/clients>**. If the console first asks you to set up Google Auth Platform (also called the OAuth consent screen), follow its prompts: any app name, your own email for support and contact, and **External** as the audience.
 5. Choose **Create client** (older consoles say **Create credentials → OAuth client ID**).
 6. For **Application type**, pick **iOS**.
 7. Give it any name, and for **Bundle ID** type exactly: `net.iptater.mkplayer`
@@ -38,7 +38,7 @@ A **client ID** is a long code that names the app you register with Google. It i
 **Step 3: say who can sign in**
 
 {: start="9"}
-9. Open **https://console.cloud.google.com/auth/audience**.
+9. Open **<https://console.cloud.google.com/auth/audience>**.
 10. Pick one:
     - **Stay in Testing and add yourself as a test user.** Under **Test users**, choose **Add users** and enter the Google account you'll sign in with. This is the quickest way, but Google signs you out every 7 days, and you'll have to sign in again.
     - **Choose Publish app.** There's no 7-day limit. Google warns that the app is unverified when you sign in; that's expected, because you're the only person using it.
@@ -65,7 +65,7 @@ Sign-in problems show an alert titled **Couldn't Sign In**. Messages that come l
 |---|---|---|
 | **Sign In with Google** is greyed out | The **Client ID** is empty or isn't a Google client ID. | Paste the whole ID, ending in `.apps.googleusercontent.com`. |
 | "Google hasn't verified this app" or "This app isn't verified", with **Advanced** and **Continue** links | You published the app without Google's review. | Choose **Advanced → Go to … (unsafe)**. It's your own client, so this is expected. |
-| "Access blocked", with `Error 403: access_denied` | The app is in Testing and the account isn't on the **Test users** list. | In **https://console.cloud.google.com/auth/audience**, add the account under **Test users**. |
+| "Access blocked", with `Error 403: access_denied` | The app is in Testing and the account isn't on the **Test users** list. | In **<https://console.cloud.google.com/auth/audience>**, add the account under **Test users**. |
 | "Couldn't sign in to Google Drive: …" with a reason such as `redirect_uri_mismatch` or `invalid_request` | The client isn't an **iOS** client, or its **Bundle ID** isn't exactly `net.iptater.mkplayer`. | Make a new client of type **iOS** with that bundle ID. |
 | "Couldn't sign in to Google Drive: MK Plus needs to see and manage your Google Drive files. Sign in again and leave that box ticked." | You unticked the Google Drive permission on Google's page. | Tap **Sign In Again** and leave every box ticked. |
 | "Couldn't sign in to Google Drive: Google's answer didn't match this sign-in." | The reply wasn't for this sign-in attempt, for example from an older sheet. | Tap **Sign In Again** once and wait for the sheet. |

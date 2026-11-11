@@ -20,7 +20,7 @@ An **app key** is a short code that names your Dropbox app. It isn't a password,
 
 ## In the Dropbox console
 
-1. On a computer or your iPhone, open **https://www.dropbox.com/developers/apps** and sign in to Dropbox.
+1. On a computer or your iPhone, open **<https://www.dropbox.com/developers/apps>** and sign in to Dropbox.
 2. Choose **Create app**.
 3. Under **Choose an API**, pick **Scoped access**.
 4. Under **Choose the type of access you need**, pick **Full Dropbox**. This lets MK Plus see the folders you already have, not just a folder of its own.
