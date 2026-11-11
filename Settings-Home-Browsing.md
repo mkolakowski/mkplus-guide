@@ -138,6 +138,14 @@ The iPhone Duo has more switches in the first section, and a **Cards on the iPho
 | A hold starts select mode, not a menu | Turn on **Hold Shows File Menu**. |
 | A folder slides in from the side, not up | **Open as Cards** is **Off**, or it's **Movies, Shows & Series**, which only lifts movie, show and series pages. |
 
+## Related pages
+
+- [Your Home](Home-Screen.html): widgets, stacks, more than one Home and themes
+- [Browsing your files](Browsing.html): layout, sort and the press-and-hold menu
+- [Connect a server](Connect-a-server.html): adding the servers the Server List shows
+- [Privacy and Face ID](Privacy-and-Face-ID.html): private servers and locked Homes
+- [On your device](Devices.html): what's different on the iPhone Duo and iPad
+
 ---
 
 Previous: [← General](Settings-General.html) · Next: [Media →](Settings-Media.html)

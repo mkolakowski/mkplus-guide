@@ -153,6 +153,14 @@ Home can also list your saved servers (**Shares**, **Jellyfin** and **Catalogs**
 - A new server adds its own widgets to your first Home, unless you turn off Settings → Home Screen → **Add Widgets for New Servers**.
 - On the unfolded iPhone Duo and on iPad, Settings → Home Screen can show Home as **One Column**, **Two Columns**, **Two Homes Side by Side**, or **In a Card** down the middle.
 
+## Related pages
+
+- [Home & Browsing](Settings-Home-Browsing.html): every Home Screen setting, and each Home's own page
+- [Browsing your files](Browsing.html): what opens when you tap a widget's folder or server
+- [Privacy and Face ID](Privacy-and-Face-ID.html): locked Homes and private servers
+- [On your device](Devices.html): Home on the iPhone Duo and iPad
+- [Get started](Getting-Started.html): the four tabs and your first server
+
 ---
 
 Previous: [← Use the app](Using-MK-Plus.html) · Next: [Browsing your files →](Browsing.html)
