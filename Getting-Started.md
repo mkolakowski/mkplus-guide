@@ -131,6 +131,14 @@ Tap a server on Home or in the **Servers** tab and its folders open. Videos play
 - Swipe a saved server to **Edit** or **Delete** it. Settings → Server List → **Swap Swipe Directions** flips which way does which.
 - Settings has a search at the top: type what you're looking for and it takes you there.
 
+## Related pages
+
+- [Your Home](Home-Screen.html): your shelves and tiles, and what a new server gets
+- [Browsing your files](Browsing.html): folders, sorting and the press-and-hold menu
+- [Watching video](Video-Player.html): the player's controls
+- [Reading](Reader.html): comics, books and PDFs
+- [Settings](Settings.html): finding and changing a setting
+
 ---
 
 Next: [Connect a server →](Connect-a-server.html)

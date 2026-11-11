@@ -85,6 +85,14 @@ Settings → **Image Viewer Controls** opens the viewer itself, on sample pictur
 | A button you want isn't there | Add it in Settings → **Image Viewer Controls**. |
 | The slideshow stops at the end | Turn on **Loop Slideshow**. |
 
+## Related pages
+
+- [Browsing your files](Browsing.html): thumbnails and folders
+- [Watching video](Video-Player.html): laying out the controls
+- [Reading](Reader.html): laying out the controls
+- [Media](Settings-Media.html): the Image Viewer settings
+- [On your device](Devices.html): two pictures side by side on the Duo
+
 ---
 
 Previous: [← Book servers](OPDS-Catalogs.html) · Next: [Privacy and Face ID →](Privacy-and-Face-ID.html)

@@ -172,6 +172,13 @@ Every book opens at the page you were last on. For books on a book server, your 
 | A manga reads the wrong way | Set **Reading Direction** to **Right to Left** in Reading Options, with **This Book Only** on to keep it to that book. |
 | A button you want isn't in the controls | Add it in Settings → **Reader Controls**. |
 
+## Related pages
+
+- [Book servers](OPDS-Catalogs.html): reading from Kavita or Komga and keeping your place
+- [Media](Settings-Media.html): every Reading setting
+- [Settings](Settings.html): where Reader Controls lives
+- [On your device](Devices.html): two pages at once on the Duo and iPad
+
 ---
 
 Previous: [← Listening to music](Music.html) · Next: [Book servers →](OPDS-Catalogs.html)

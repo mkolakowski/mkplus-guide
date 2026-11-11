@@ -153,6 +153,13 @@ MK Plus has two players behind the same controls. Apple's player handles what iO
 | A Jellyfin video keeps stopping to load | Lower **Streaming Quality** in Playback Options. See [Jellyfin](Jellyfin.html). |
 | A button you want isn't on the player | Add it in Settings → **Media Controls**. |
 
+## Related pages
+
+- [Jellyfin](Jellyfin.html): Streaming Quality and skipping intros
+- [Media](Settings-Media.html): every Video Playback setting
+- [Settings](Settings.html): where Media Controls lives
+- [On your device](Devices.html): the Duo and iPad layouts
+
 ---
 
 Previous: [← Browsing your files](Browsing.html) · Next: [Jellyfin →](Jellyfin.html)

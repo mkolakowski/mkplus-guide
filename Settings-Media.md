@@ -153,6 +153,14 @@ Settings → **Image Viewer** is one short page with no advanced settings: **Tap
 | A manga reads the wrong way | Set **Reading Direction** to **Right to Left**. |
 | A setting from the guide isn't on your page | It's advanced, or for the iPhone Duo or an iPad only. Turn on **Show Advanced Settings**. |
 
+## Related pages
+
+- [Watching video](Video-Player.html): Video Playback in use
+- [Jellyfin](Jellyfin.html): the Jellyfin settings in use
+- [Book servers](OPDS-Catalogs.html): the Catalogs settings in use
+- [Reading](Reader.html): the Reading settings in use
+- [Pictures](Image-Viewer.html): the Image Viewer settings in use
+
 ---
 
 Previous: [← Home & Browsing](Settings-Home-Browsing.html) · Next: [Data & Privacy →](Settings-Data.html)

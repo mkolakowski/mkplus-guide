@@ -96,6 +96,13 @@ Other things use room too, and have their own controls:
 | Passwords are missing after a restore | The backup was made without a password, so it left them out. Sign in to each server again. |
 | The last automatic backup failed | The line under **Automatic** says why. Check the folder or server is still there, then tap **Back Up Now**. |
 
+## Related pages
+
+- [Privacy and Face ID](Privacy-and-Face-ID.html): everything in Privacy
+- [Browsing your files](Browsing.html): Downloads for offline
+- [Media](Settings-Media.html): generated subtitles
+- [Settings](Settings.html): a tour of the list
+
 ---
 
 Previous: [← Media](Settings-Media.html)

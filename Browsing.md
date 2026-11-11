@@ -149,6 +149,14 @@ The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to
 - Pull down in a folder to refresh it if it looks out of date.
 - Settings → File Browsing also has switches for card titles, which side the selection mark is on, and where the sort and layout buttons sit.
 
+## Related pages
+
+- [Your Home](Home-Screen.html): Add to Home and Search All Servers
+- [Watching video](Video-Player.html): what happens when you tap a video
+- [Reading](Reader.html): opening comics, books and PDFs
+- [Pictures](Image-Viewer.html): opening a picture
+- [Home & Browsing](Settings-Home-Browsing.html): the File Browsing settings
+
 ---
 
 Previous: [← Your Home](Home-Screen.html) · Next: [Watching video →](Video-Player.html)

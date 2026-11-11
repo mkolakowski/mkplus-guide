@@ -112,6 +112,13 @@ MK Plus has no accounts, no analytics and no ads. Your servers, Homes, settings 
 | A private server's download isn't in **Downloads** | Show private servers first. |
 | A server's address can't be changed without Face ID | **Face ID to Edit Servers** is on. |
 
+## Related pages
+
+- [Data & Privacy](Settings-Data.html): the Privacy settings
+- [Your Home](Home-Screen.html): Homes and their widgets
+- [Home & Browsing](Settings-Home-Browsing.html): each Home's own page
+- [Get started](Getting-Started.html): adding a server
+
 ---
 
 Previous: [← Pictures](Image-Viewer.html) · Next: [On your device →](Devices.html)

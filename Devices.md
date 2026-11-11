@@ -128,6 +128,14 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 | Settings is one column on an unfolded Duo | It's partly folded like a book, or **Two Columns on the Unfolded Duo** is off. |
 | Home won't use two columns | Check Settings → Home Screen → **Unfolded, Upright** or **On Its Side**. |
 
+## Related pages
+
+- [Your Home](Home-Screen.html): Home on a wide screen
+- [Watching video](Video-Player.html): the player's controls
+- [Reading](Reader.html): two pages at once
+- [Settings](Settings.html): Show Advanced Settings and the Duo's two-column Settings
+- [Home & Browsing](Settings-Home-Browsing.html): the Home Screen settings
+
 ---
 
 Previous: [← Privacy and Face ID](Privacy-and-Face-ID.html) · Next: [Settings →](Settings.html)

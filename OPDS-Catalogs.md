@@ -96,6 +96,14 @@ On a series page, **Auto-Download New Chapters** downloads new volumes and chapt
 | A book opens at the wrong page | Make sure **Sync Reading Progress** is on in Settings → **Catalogs**. |
 | A comic is slow to open | With **Stream Comic Pages** off the whole comic downloads first. Turn it on. |
 
+## Related pages
+
+- [Reading](Reader.html): opening and turning pages
+- [Get started](Getting-Started.html): adding a server
+- [Cloudflare Access](Cloudflare-Access.html): a book server behind Cloudflare
+- [Browsing your files](Browsing.html): downloads for offline
+- [Media](Settings-Media.html): the Catalogs settings
+
 ---
 
 Previous: [← Reading](Reader.html) · Next: [Pictures →](Image-Viewer.html)

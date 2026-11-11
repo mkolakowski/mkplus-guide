@@ -109,14 +109,13 @@ In TestFlight you can also take a screenshot and tap **Share Beta Feedback**.
 | **Attach Activity Log** is greyed out | Turn on **Keep an Activity Log** in Settings → Privacy. |
 | No **Search** button in the tab bar | The **Floating Tab Bar** is off in Settings → Home Screen. Settings then has its search field at the top of the list. |
 
-## Go on
+## Related pages
 
-- [General](Settings-General.html): Appearance, the Changelog and the What's New popup.
-- [Home & Browsing](Settings-Home-Browsing.html): Home Screen, Server List and File Browsing.
-- [Media](Settings-Media.html): video, Jellyfin, book servers, reading and pictures.
-- [Data & Privacy](Settings-Data.html): iCloud Backup, Backup, Privacy and Storage.
-- [Privacy and Face ID](Privacy-and-Face-ID.html): locking the app, Homes and servers.
-- [On your device](Devices.html): what's different on an iPhone Duo, a small iPhone and an iPad.
+- [General](Settings-General.html): Appearance, the Changelog and the What's New popup
+- [Home & Browsing](Settings-Home-Browsing.html): Home Screen, Server List and File Browsing
+- [Media](Settings-Media.html): video, Jellyfin, book servers, reading and pictures
+- [Data & Privacy](Settings-Data.html): iCloud Backup, Backup, Privacy and Storage
+- [On your device](Devices.html): what's different on an iPhone Duo, a small iPhone and an iPad
 
 ---
 

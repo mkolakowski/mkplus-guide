@@ -74,6 +74,12 @@ The first time you open MK Plus after it updates, a **What's New** popup shows t
 
 **What's New After Updates** is the switch for it, and it's on to start with. The first popup also has **Show After Updates**, under **This Popup**, so you can turn the popups off right there. The changelog stays in Settings either way, and you can turn the popups back on any time.
 
+## Related pages
+
+- [Your Home](Home-Screen.html): themes and backdrops
+- [Home & Browsing](Settings-Home-Browsing.html): a Home's own page
+- [Settings](Settings.html): a tour of the list
+
 ---
 
 Previous: [← Settings](Settings.html) · Next: [Home & Browsing →](Settings-Home-Browsing.html)

@@ -12,6 +12,12 @@ the server itself answers. MK Plus spots that on its own: adding the
 server, connecting to it or opening it brings up the Cloudflare sign-in, and
 then carries on.
 
+## What you need
+
+- A server behind Cloudflare Access: Kavita, any other OPDS catalog, or Jellyfin.
+- For the two sign-in ways, a way to sign in to Cloudflare, such as your Google account.
+- For a service token (optional), the Cloudflare dashboard, where you make one for the server's Access application.
+
 ## Three ways in
 
 | Way | What it's like | Lasts |
@@ -22,9 +28,7 @@ then carries on.
 
 Sign In with Safari gets its token back the way Cloudflare's own
 command-line sign-in does: the sign-in page hands it to Cloudflare,
-sealed so only this sign-in can open it, and the app collects it. That's
-not something Cloudflare documents for apps, so if it ever stops working,
-use Sign In in the App.
+sealed so only this sign-in can open it, and the app collects it.
 
 Sign-ins are kept per address, in the Keychain on this phone only: your
 server's home address isn't sent them, its Cloudflare address is.
@@ -67,8 +71,7 @@ people keep signing in with Google in browsers. The same steps are under
    checks it's let in before keeping it.
 
 One token can let the app into several applications — add the same policy
-to each (Kavita and Jellyfin, say). If the phone's lost, revoke the token on
-the same dashboard page.
+to each (Kavita and Jellyfin, say).
 
 ## Staying signed in
 
@@ -79,8 +82,6 @@ the same dashboard page.
   still let in when you come back to the app, when the network changes (off
   Wi-Fi onto cellular, say) and every 15 minutes. A server whose sign-in has
   run out gets an **orange lock** beside it in the server list.
-- To be asked less often without a service token, lengthen the Access
-  application's **Session Duration** in Cloudflare.
 
 ## Playback
 
@@ -89,6 +90,15 @@ request, including converted (HLS) streams. VLC can only send a cookie: a
 web sign-in's token works as one; with a service token, the app uses the
 cookie Cloudflare hands back when it checks the token. Subtitle files VLC
 loads beside a video may not get it.
+
+## What went wrong
+
+- **Sign In with Safari stops working.** It gets its token back in a way Cloudflare doesn't document for apps, so use **Sign In in the App** instead.
+- **A passkey won't work on a sign-in page inside the app.** Passkeys only work in Safari's sign-in sheet, so use **Sign In with Safari**. iOS allows them in an app's own page only for domains tied to that app, and Google doesn't offer one there.
+- **An OpenID Connect proxy (Authelia, Authentik, Keycloak, oauth2-proxy, Pomerium) won't take a passkey.** Its session is a cookie the app can only read from its own page, so use a password or code there. If that isn't possible, ask the server's admin about a token or a bypass rule for the app.
+- **A server has an orange lock beside it in the server list.** Its sign-in has run out. Open **Settings → Server List → Cloudflare Access**, tap the server and sign in again.
+- **You're asked to sign in too often.** Use a service token, or lengthen the Access application's **Session Duration** in Cloudflare.
+- **The phone is lost.** Revoke the service token on the same dashboard page where you made it.
 
 ---
 

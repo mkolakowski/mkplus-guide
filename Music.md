@@ -69,6 +69,13 @@ Tap **Queue** at the top right to see what's playing and what's next, in the ord
 
 Music carries on when you switch to another app or lock your iPhone. Its title, cover and play, pause, next and previous buttons show on the Lock Screen and in Control Center. Settings → Video Playback → **Up Next & Playback** → **Lock Screen Controls** is the switch for them.
 
+## Related pages
+
+- [Jellyfin](Jellyfin.html): music libraries and Streaming Quality
+- [Browsing your files](Browsing.html): folders of songs
+- [Watching video](Video-Player.html): Lock Screen Controls and playing while locked
+- [Media](Settings-Media.html): the Up Next & Playback settings
+
 ---
 
 Previous: [← Jellyfin](Jellyfin.html) · Next: [Reading →](Reader.html)
