@@ -61,3 +61,27 @@ $shot-devices: duo-front, duo-open-side, iphone-17e, ipad-air-11;
   html[data-device="#{$device}"] .shot:has(.shot-#{$device}) .shot-iphone-18-pro-max { display: none; }
   html[data-device="#{$device}"] .shot-variant.shot-#{$device} { display: block; }
 }
+
+// The home page (design chosen 2026-11-11): a
+// Get started banner, then a card per thing people come to do, each with the
+// guide's own screenshot cropped to its top part.
+.home-lead { font-size: 1.2rem; margin-top: -0.25rem; }
+.main-content a.home-start {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+  padding: 1rem 1.25rem; margin: 1.25rem 0 0.5rem; border-radius: 16px; text-decoration: none;
+  background: linear-gradient(90deg, $btn-primary-color, darken($btn-primary-color, 15%)); color: #fff;
+}
+.home-start span { opacity: 0.88; }
+.home-start b { font-size: 1.1rem; white-space: nowrap; color: #fff; }
+.home-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 14px; margin: 1rem 0 1.5rem; }
+.main-content a.home-card {
+  display: flex; flex-direction: column; overflow: hidden; text-decoration: none;
+  border: 1px solid $border-color; border-radius: 16px; background: $table-background-color; color: $body-text-color;
+}
+.main-content a.home-card:hover, .main-content a.home-card:focus-visible { border-color: $link-color; }
+.main-content .home-card img {
+  display: block; width: 100%; height: 150px; object-fit: cover; object-position: center 22%;
+  border-radius: 0; box-shadow: none; border-bottom: 1px solid $border-color;
+}
+.home-card-title { color: $body-heading-color; font-weight: 650; font-size: 1.05rem; padding: 0.75rem 0.9rem 0.15rem; }
+.home-card-text { color: $nav-child-link-color; font-size: 0.88rem; line-height: 1.45; padding: 0 0.9rem 0.9rem; }
