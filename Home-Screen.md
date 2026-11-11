@@ -160,7 +160,17 @@ Home can also list your saved servers (**Shares**, **Jellyfin** and **Catalogs**
 
 - A Home can be locked with Face ID, Touch ID or your passcode: press and hold its name and choose **Lock with…**. Private servers and locked Homes are covered in [Privacy and Face ID](Privacy-and-Face-ID.html).
 - A new server adds its own widgets to your first Home, unless you turn off Settings → Home Screen → **Add Widgets for New Servers**.
-- On the unfolded iPhone Duo and on iPad, Settings → Home Screen can show Home as **One Column**, **Two Columns**, **Two Homes Side by Side**, or **In a Card** down the middle.
+- On the unfolded iPhone Duo and on iPad, Settings → Home Screen can show Home as **One Column**, **Two Columns**, **Two Homes Side by Side**, **Spotlight**, or **In a Card** down the middle.
+
+## Home on the open iPhone Duo
+
+<img src="images/duo-open-side/home.png" width="520" alt="Home in Spotlight on the iPhone Duo open on its side: Harbor Lights big on the left with Resume and Details, the shelves on the right">
+
+Open on its side, Home starts in **Spotlight**. Left of the fold is the one thing you're most likely to carry on with, big, with **Resume** and **Details** on it and **Continue Watching** under it. Right of the fold are the rest of your shelves. Nothing sits across the fold.
+
+- With no Continue Watching on that Home, the spotlight shows the newest thing on its first shelf.
+- While you edit Home, it's two columns, so you can drag a widget anywhere.
+- To go back to another layout, choose it in Settings → Home Screen → **Unfolded, on Its Side**.
 
 ## Related pages
 

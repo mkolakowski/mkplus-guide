@@ -12,6 +12,28 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Home on the open iPhone Duo: Spotlight
+
+_Version 1.343.0 · 11 November 2026_
+
+- Open on its side, Home puts what you were watching big on the left, with Resume and Details on it.
+- Continue Watching sits under it, and the rest of your shelves are on the right.
+- Nothing sits across the fold.
+
+<details markdown="1">
+<summary>Everything in 1.343.0</summary>
+
+**New**
+
+- Spotlight, a new Home layout for the unfolded iPhone Duo and iPad: left of the fold the one thing you're most likely to carry on with, big, with Resume (Play, or Read for a book) and Details, and Continue Watching under it; right of the fold the rest of Home. With nothing to continue, it shows the newest thing on Home's first shelf. Choose it in Settings → Home Screen.
+
+**Changed**
+
+- The iPhone Duo open on its side starts in Spotlight instead of In a Card. If you picked a layout yourself, it's kept.
+- While you edit Home in Spotlight, it's two columns, so a widget can go anywhere.
+
+</details>
+
 ### Covers grow into their page
 
 _Version 1.342.0 · 11 November 2026_

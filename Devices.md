@@ -88,7 +88,7 @@ The Duo folds, and the app notices how it's held: closed, open, and partly folde
 
 ### Unfolded
 
-- Home can be **One Column**, **Two Columns** or **Two Homes Side by Side**. Upright, it's **Two Columns** to start with. On its side it can also be **In a Card**, a card down the middle, and it is to start with. Pick them in Settings → Home Screen → **Unfolded, Upright** and **Unfolded, on Its Side**. **Header in the Top Area** and **Content Under the Bottom Bar** change how upright Home meets the screen's edges.
+- Home can be **One Column**, **Two Columns**, **Two Homes Side by Side** or **Spotlight**: the one thing to carry on with, big, left of the fold, and your shelves right of it. Upright, it's **Two Columns** to start with; on its side, **Spotlight**. On its side it can also be **In a Card**, a card down the middle. See [Home on the open iPhone Duo](Home-Screen.html#home-on-the-open-iphone-duo). Pick them in Settings → Home Screen → **Unfolded, Upright** and **Unfolded, on Its Side**. **Header in the Top Area** and **Content Under the Bottom Bar** change how upright Home meets the screen's edges.
 - **Home Buttons in the Tab Bar** (Home Screen) moves **+** and **Edit** into the tab bar, so they're within reach.
 - Settings keeps its list of pages on the left and the page you pick on the right, with the Duo on its side. Switch it with **Two Columns on the Unfolded Duo**. See [Settings](Settings.html#settings-display).
 - A book shows two pages side by side on its side. Upright it shows one, unless **Two Pages When Upright** is on in Settings → Reading → **Page Layout**.
@@ -100,7 +100,7 @@ The Duo folds, and the app notices how it's held: closed, open, and partly folde
 
 With the Duo on its side and bent so the fold runs top to bottom, the two halves sit side by side.
 
-- Home: **Clear of the Fold** puts **Two Columns** and **Two Homes Side by Side** either side of the fold, and shows **In a Card** as **Two Columns**.
+- Home: **Clear of the Fold** puts **Two Columns** and **Two Homes Side by Side** either side of the fold, and shows **In a Card** as **Two Columns**. **Spotlight** always keeps to either side of the fold.
 - Settings moves into one half, as one column.
 - A video: **Book Layout** (Video Playback → **Gestures & Buttons**) puts the picture in one half and the controls in the other.
 - A book: **Pages Either Side of the Fold** (Reading → **Page Layout**) leaves a gap as wide as the fold between two pages.
@@ -113,7 +113,7 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 
 ## iPad
 
-- Home has its own **iPad** section in Settings → Home Screen. **Upright** and **On Its Side** can each be **One Column**, **Two Columns**, **Two Homes Side by Side** or, on its side, **In a Card**. **Search Bar** puts **Search All Servers** across the top. In a narrow Split View or Slide Over window, Home is one column.
+- Home has its own **iPad** section in Settings → Home Screen. **Upright** and **On Its Side** can each be **One Column**, **Two Columns**, **Two Homes Side by Side**, **Spotlight** (split down the middle) or, on its side, **In a Card**. **Search Bar** puts **Search All Servers** across the top. In a narrow Split View or Slide Over window, Home is one column.
 - **Home Buttons in the Tab Bar** moves **+** and **Edit** into the tab bar.
 - A book shows two pages side by side upright as well as on its side, because **Two Pages When Upright** is on to start with on an iPad.
 - **Large Settings** (Settings → Appearance) makes Settings fill most of the screen. Off, it's a smaller card.
