@@ -12,6 +12,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Covers grow into their page
+
+_Version 1.342.0 · 11 November 2026_
+
+- Tap a poster or a cover on Home and its page grows out of it.
+- Close the page and it shrinks back into the cover you tapped.
+- Zoom into Covers, in Settings → File Browsing, turns it off. With Reduce Motion on, pages slide up as before.
+
+<details markdown="1">
+<summary>Everything in 1.342.0</summary>
+
+**New**
+
+- Zoom into Covers: a movie's or show's page opened from a cover on Home or a poster in a movie or show library grows from that cover, and closing it with its chevron or Back shrinks it back. Pulling a card down or swiping it across still carries it away under your finger. It's in Settings → File Browsing → Cards, and Reduce Motion turns it off.
+
+**Changed**
+
+- With VoiceOver, the two-finger scrub closes a card, as its chevron does.
+
+</details>
+
 ### Sharper covers on Home, and you choose the words under them
 
 _Version 1.341.0 · 11 November 2026_

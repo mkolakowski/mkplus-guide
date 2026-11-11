@@ -117,6 +117,7 @@ Settings → **File Browsing** is about folders: how they look, what the buttons
 **Open as Cards** chooses what slides up over the screen as a card: **Everything** (folders, servers and the pages of movies, shows and series), **Movies, Shows & Series**, or **Off**, which slides everything in from the side with a back button. Drag a card's top bar down, or tap the chevron, to close it.
 
 - **Pulling Down** sets what pulling a card's list down does, for a short pull and a long one: refresh, close the card, both or neither.
+- **Zoom into Covers** grows a poster or cover you tap into the page it opens, and shrinks the page back into it when you close it. Off, or with Reduce Motion on, a card slides up as before.
 - **Dim Behind Cards** darkens the screen behind a card as it comes up.
 - **Blur Behind Cards** blurs what's behind a card that doesn't fill the screen, so the card is the one thing to read.
 - **Libraries Use the Whole Screen** (iPhone Duo and iPad): on its side, a server, library or folder opens as a card across the whole screen, six posters a row. A movie's or show's page stays a card down the middle.
