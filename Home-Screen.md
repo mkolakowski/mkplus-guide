@@ -111,6 +111,15 @@ A stack puts several widgets in one spot, with a row of their names to switch be
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/home-edit.png" alt="Home while editing, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
+### What's written under the covers
+
+Each shelf chooses the lines under its covers. Tap the shelf while editing, then **Cover Info**: **Name**, **Year**, **Length**, **Genre**, **Rating** and **Time Left**. Drag a line to move it, turn one off to hide it, or turn off **Show Info Under Covers** for the covers alone. The first line is the title and the rest go on one line under it. Each shelf keeps its own, and a carousel shows them under its middle cover only.
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/cover-info.png" alt="A shelf's Cover Info, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/cover-info.png" alt="A shelf's Cover Info, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+</div>
+
 You can also manage a Home's widgets from its settings: press and hold the Home's name, choose **Home Screen Settings**, and use **Reorder** or swipe a widget to remove it.
 
 ## More than one Home
@@ -118,7 +127,7 @@ You can also manage a Home's widgets from its settings: press and hold the Home'
 Keep different things apart with separate Homes, such as one for video and one for books. Each Home has its own widgets, theme and backdrop.
 
 - **Make one**: press and hold a Home's name and choose **New Home**, then give it a name.
-- **Switch**: tap a Home's name along the top. With Settings → Home Screen → **Single Home Name** on, only the Home you're on shows its name: swipe sideways to go to the next one, or press and hold the name for the list.
+- **Switch**: tap a Home in the switch beside the big title. With Settings → Home Screen → **Single Home Name** on, only the Home you're on shows its name: swipe sideways to go to the next one, or press and hold the name for the list.
 - **Change or remove one**: press and hold its name for **Home Screen Settings**, **Theme**, **Lock with…** and **Delete**. Deleting a Home removes only its widgets. Your servers and folders stay as they are.
 - **Order**: in Settings → Home Screen, drag Homes into the order you like. The top one opens first, unless **Open on Last Viewed Home** is on.
 

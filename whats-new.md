@@ -12,6 +12,36 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Sharper covers on Home, and you choose the words under them
+
+_Version 1.341.0 · 11 November 2026_
+
+- The covers beside a carousel's middle one stay sharp, a little dimmed, with the year, length and genre under the middle one.
+- Continue Watching keeps its pictures clean: the bar runs along the bottom edge, with the name and time left underneath.
+- Cover Info, in a shelf's options, picks the lines under its covers: drag them into order, or turn them off.
+- Home's name is bigger, with all your Homes in one switch beside it.
+
+<img src="images/iphone-18-pro-max/home.png" width="300" alt="Home with a big title and the Homes in one switch, sharp side covers, and the year, length and genre under the middle cover, on an iPhone 18 Pro Max">
+
+<img src="images/iphone-18-pro-max/cover-info.png" width="300" alt="A shelf's Cover Info: six lines with switches and drag handles, on an iPhone 18 Pro Max">
+
+<details markdown="1">
+<summary>Everything in 1.341.0</summary>
+
+**New**
+
+- Cover Info: tap a shelf while editing Home, then Cover Info. Name, Year, Length, Genre, Rating and Time Left can be dragged into order and turned off one by one, or all at once with Show Info Under Covers. Each shelf keeps its own, and it comes back with a backup.
+- Blur the Side Covers, in Settings → Home Screen, brings back the blur beside a carousel's middle cover (Carousel Blur sets how much).
+
+**Changed**
+
+- A carousel's side covers are sharp and dimmed instead of blurred, and their names no longer show under them.
+- Under a cover: its name, then a line of details. On Continue Watching that's how long is left, and "S2 E3" for an episode.
+- The progress bar on Home's covers runs along the picture's bottom edge instead of across its title.
+- Home's name is a big title, with every Home in one switch beside it. Tap one to go to it, or touch and hold for Rename, New Home and the rest.
+
+</details>
+
 ### Libraries get the whole open iPhone Duo
 
 _Version 1.340.0 · 11 November 2026_
