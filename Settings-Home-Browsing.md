@@ -118,6 +118,8 @@ Settings → **File Browsing** is about folders: how they look, what the buttons
 
 - **Pulling Down** sets what pulling a card's list down does, for a short pull and a long one: refresh, close the card, both or neither.
 - **Dim Behind Cards** darkens the screen behind a card as it comes up.
+- **Blur Behind Cards** blurs what's behind a card that doesn't fill the screen, so the card is the one thing to read.
+- **Libraries Use the Whole Screen** (iPhone Duo and iPad): on its side, a server, library or folder opens as a card across the whole screen, six posters a row. A movie's or show's page stays a card down the middle.
 
 With Show Advanced Settings on, this page also has **Selection Mark on Right** and **Swipe from the Left Closes Cards**.
 

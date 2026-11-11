@@ -12,6 +12,31 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Libraries get the whole open iPhone Duo
+
+_Version 1.340.0 · 11 November 2026_
+
+- On the iPhone Duo open on its side, a library or folder fills the screen: six posters across instead of four.
+- Behind a card, the screen is blurred as well as dimmed, so the card is the one thing to read.
+- A movie's or show's page still opens as a card down the middle.
+
+<img src="images/duo-open-side/jellyfin-library.png" width="300" alt="A Movies library across the whole screen of the iPhone Duo open on its side, six posters a row">
+
+<details markdown="1">
+<summary>Everything in 1.340.0</summary>
+
+**Changed**
+
+- On the iPhone Duo open on its side (and on iPad on its side), a server, library or folder opened as a card runs from the screen's left edge to the buttons down the side, instead of a card down the middle. A movie's, show's or season's page stays down the middle. Partly folded like a book, cards still sit beside the fold.
+- What's behind a card that doesn't fill the screen is blurred, and dimmed as before. On the Duo's front screen this hides Home's shelf titles above the card's top edge.
+
+**New**
+
+- Libraries Use the Whole Screen, in Settings → File Browsing → Cards on the iPhone Duo and iPad, turns the wide library card off.
+- Blur Behind Cards, in the same place, turns the blur off.
+
+</details>
+
 ### Movie and show libraries open as posters
 
 _Version 1.339.0 · 11 November 2026_
