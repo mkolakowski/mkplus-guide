@@ -12,6 +12,31 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Movie and show libraries open as posters
+
+_Version 1.339.0 · 11 November 2026_
+
+- Jellyfin movie and show libraries open as a wall of posters, with the year under each name.
+- All, Unwatched and Favorites sit above the posters, one tap each.
+- On the iPhone Duo, a library, a show's page and a folder now fill their card instead of leaving an empty band down its right side.
+
+<img src="images/iphone-18-pro-max/jellyfin-library.png" width="300" alt="A Movies library as posters, three across, with All, Unwatched and Favorites above them, on an iPhone 18 Pro Max">
+
+<details markdown="1">
+<summary>Everything in 1.339.0</summary>
+
+**New**
+
+- Posters, a new layout for Jellyfin movie and show libraries, and the one they open in: posters sized to fill the row (three across on an iPhone), the name and year under each, a tick on what you've watched, a heart on favorites, and a bar along a poster's foot for how far in you are.
+- Above the posters: the library's name, how many it holds and their order, and three buttons, All, Unwatched and Favorites. A filter only applies in that library, and it's back to All when you leave Posters or reopen the app.
+- Movie and Show Libraries in Settings → Jellyfin picks the layout these libraries open in. The layout button inside a library changes it too.
+
+**Fixed**
+
+- On the iPhone Duo's front screen, and open on its side, anything opened as a card (a library, a show's or movie's page, a folder, an album) left about a quarter of the card empty down its right side. It fills the card now.
+
+</details>
+
 ### AV1 videos are lighter on the battery
 
 _Version 1.338.2 · 10 November 2026_
