@@ -129,7 +129,7 @@ With Show Advanced Settings on, this page also has **Show Zones After a Change**
 
 ### Controls & Closing
 
-- **Controls**: **Keep Controls When Turning** and **Haptic on Page Turn**.
+- **Controls**: **Keep Controls When Turning**, **Shade Behind Controls** (a soft dark shade behind a comic's or PDF's controls, on to start with) and **Haptic on Page Turn**.
 - **Closing & the End**: **Swipe Down to Close**, and **At the End**: **Offer Next Book**, **Close the Book** or **Nothing**. With **Offer Next Book**, **Open Without Asking** skips the card.
 
 With Show Advanced Settings on, this page also has **Title Above Controls** and **Center Timeline on Display**.

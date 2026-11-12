@@ -12,6 +12,24 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Comic controls you can see on any page
+
+_Version 1.347.0 · 11 November 2026_
+
+- A soft dark shade sits behind a comic's or PDF's buttons and scrubber while they show.
+- They're easy to make out on a white page, and the middle of the page stays clear.
+
+<img src="images/iphone-18-pro-max/read-comic.png" width="300" alt="A comic page in the reader on an iPhone 18 Pro Max, a soft dark shade behind the buttons at the top and the scrubber at the bottom">
+
+<details markdown="1">
+<summary>Everything in 1.347.0</summary>
+
+**New**
+
+- Shade Behind Controls: a soft dark shade fades in behind the reader's top and bottom controls, so they read on a pale page. It's on to start with. Turn it off in Settings → Reading → Controls & Closing.
+
+</details>
+
 ### Comics without the blank paper
 
 _Version 1.346.0 · 11 November 2026_

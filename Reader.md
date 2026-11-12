@@ -45,6 +45,7 @@ With the controls showing:
 - **Close** and the book's title are at the top left.
 - At the top right are your buttons. To start with they are **Reading Options**, **Show Tap Zones** and **Zoom**. You choose them yourself: see [Lay the controls out your way](#lay-the-controls-out-your-way).
 - The scrubber runs along the bottom. In its **Timeline** style it shows the page you're on at one end and the page count at the other, with a pill to drag between them. **Classic** is the page number over a plain slider. After a big jump, **Back to page 12** (or whichever page you came from) takes you back.
+- A soft dark shade sits behind the buttons at the top and the scrubber at the bottom, so they're easy to see on a white page. The middle of the page stays clear. To turn it off, go to Settings → Reading → **Controls & Closing** → **Shade Behind Controls**.
 - **Page Number on Page** keeps a small page number showing while the controls are hidden. It's off to start with.
 
 Turn your iPhone on its side and the book shows two pages side by side, as below.
