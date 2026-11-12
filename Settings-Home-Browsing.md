@@ -120,13 +120,14 @@ Settings → **File Browsing** is about folders: how they look, what the buttons
 - **Zoom into Covers** grows a poster or cover you tap into the page it opens, and shrinks the page back into it when you close it. Off, or with Reduce Motion on, a card slides up as before.
 - **Dim Behind Cards** darkens the screen behind a card as it comes up.
 - **Blur Behind Cards** blurs what's behind a card that doesn't fill the screen, so the card is the one thing to read.
-- **Libraries Use the Whole Screen** (iPhone Duo and iPad): on its side, a server, library or folder opens as a card across the whole screen, six posters a row. A movie's or show's page stays a card down the middle.
+- **Libraries Use the Whole Screen** (iPhone Duo and iPad): on its side, a server, library or folder opens as a card across the whole screen, six posters a row.
+- **Movie Pages Across the Fold** (iPhone Duo): open on its side, a movie's or show's page runs across the whole screen, its picture behind both halves, the title on the left and the buttons on the right. Off, it's a card down the middle.
 
 With Show Advanced Settings on, this page also has **Selection Mark on Right** and **Swipe from the Left Closes Cards**.
 
 ### Carousels
 
-**Episodes on Show Pages** lists a Jellyfin show's episodes right under its details. **Specials Last** puts a show's Specials after its numbered seasons. **Seasons as a Carousel** and **Downloads as a Carousel** show big covers you page through instead of a grid.
+**Episodes on Show Pages** lists a Jellyfin show's episodes right under its details. **More Like This** puts a row of what your server finds is similar under a movie's or show's summary. **Specials Last** puts a show's Specials after its numbered seasons. **Seasons as a Carousel** and **Downloads as a Carousel** show big covers you page through instead of a grid.
 
 The iPhone Duo has more switches in the first section, and a **Cards on the iPhone Duo** section with Show Advanced Settings on. See [On your device](Devices.html).
 

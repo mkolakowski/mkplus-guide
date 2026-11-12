@@ -49,7 +49,7 @@ The layout button changes a library to a list or one of the other layouts, and s
 
 ## A movie's page
 
-Tap a movie to open its page: the poster, a summary (tap **More** for the whole text), the cast and the buttons.
+Tap a movie to open its page: its picture with the title and the year, rating and running time on it, the buttons, a summary (tap **More** for the whole text), **More Like This** and the cast.
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/jellyfin-movie.png" alt="A movie's page with its play button, summary and cast, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
@@ -57,14 +57,19 @@ Tap a movie to open its page: the poster, a summary (tap **More** for the whole 
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/jellyfin-movie.png" alt="A movie's page with its play button, summary and cast, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
-- **Play** starts the movie. If you've watched part of it, the button says **Resume** with the time you got to, such as **Resume 26:33**, and **From Beginning** starts over.
-- **Mark Watched** flags it as seen. It then reads **Watched**, and tapping again clears it.
-- The heart adds it to your favorites (**Add to Favorites**), and a filled heart takes it out (**Remove from Favorites**).
-- The house puts the movie on a Home. See [Your Home](Home-Screen.html).
-- The arrow, **Download**, saves the movie on your iPhone for offline watching. While it downloads the arrow turns into a progress ring, and tapping it gives you a menu to cancel or remove it. Everything you've saved is in the **Downloads** tab: see [Browsing your files](Browsing.html#downloads-for-offline).
+- **Play** starts the movie, with its running time under it. If you've watched part of it, the button says **Resume** with the time left under it, such as **1 hr 22 min left**.
+- Under it, buttons of one size, each with its name:
+  - **Restart** starts over, when you've watched part of it.
+  - **Watched** flags it as seen, and its check mark fills in. Tap it again to clear it.
+  - **Favorite** adds it to your favorites, and its heart fills in. Tap it again to take it out.
+  - **Home** puts the movie on a Home. See [Your Home](Home-Screen.html).
+  - **Download** saves the movie on your iPhone for offline watching. While it downloads it shows a progress ring, and tapping it gives you a menu to cancel or remove it. Everything you've saved is in the **Downloads** tab: see [Browsing your files](Browsing.html#downloads-for-offline).
+- **More Like This**, under the summary, shows what your server finds is like it. Tap one for its page. Settings → File Browsing → **More Like This** turns the row off.
 - **Cast & Crew** runs along the bottom.
 
-When you tap a movie or episode you've started, Settings → **Jellyfin** → **Partly Watched Videos** decides what happens. **Ask** offers **Resume from** the time you got to or **Start Over**, and **Resume** and **Start Over** do that every time. A movie's own page has **Resume** and **From Beginning** buttons either way.
+On the iPhone Duo open on its side, the page runs across the whole screen: the picture fills both halves, the title sits on the left, and the buttons and the rest are on the right, lower down where your thumb is. Nothing sits across the fold. Settings → File Browsing → **Movie Pages Across the Fold** turns it off, and the page is a card down the middle.
+
+When you tap a movie or episode you've started, Settings → **Jellyfin** → **Partly Watched Videos** decides what happens. **Ask** offers **Resume from** the time you got to or **Start Over**, and **Resume** and **Start Over** do that every time. A movie's own page has **Resume** and **Restart** buttons either way.
 
 ## A show's page
 
@@ -76,11 +81,11 @@ A show's page works the same way, with seasons and episodes added.
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/jellyfin-series.png" alt="A show's page with its seasons and episodes, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
-- The big button plays the next episode for you, and it says which one, such as **Play S2:E5** or **Resume 10:00**. It's the same episode that appears under **Next Up**.
+- The big button plays the next episode for you, and it says which one, such as **Play S2:E5** or **Resume S2:E5** with the time left. It's the same episode that appears under **Next Up**.
 - Under the summary, a **Seasons** and **Episodes** switch chooses between the season covers and a full list of episodes. In the episode list, the **Season** menu changes season.
 - Tap an episode to play it. Each shows its length, **Resume** and a time if you've started it, or **Watched** if you've seen it.
 - Press and hold an episode for **Mark Watched** or **Mark Unwatched** and **Download**.
-- **Mark Watched** and the heart apply to the whole show.
+- **Watched** and **Favorite** apply to the whole show.
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/jellyfin-episodes.png" alt="A show's episodes listed under Season 1, with the Season menu, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>

@@ -12,6 +12,34 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A movie's page, redone
+
+_Version 1.344.0 · 11 November 2026_
+
+- The picture runs across the top of a movie's or show's page, with the title on it.
+- One big Resume shows the time left. Under it, Restart, Watched, Favorite and Download are the same size, each with its name.
+- More Like This, under the summary, shows what your server finds is similar.
+- On the iPhone Duo open on its side, the picture fills both halves and the buttons sit on the right, by your thumb.
+
+<img src="images/iphone-18-pro-max/jellyfin-movie.png" width="300" alt="A movie's page with its picture across the top, the title on it, one wide Resume with the time left and four named buttons, on an iPhone 18 Pro Max">
+
+<img src="images/duo-open-side/jellyfin-movie.png" width="300" alt="A movie's page across both halves of the iPhone Duo open on its side: the title on the left, the buttons on the right">
+
+<details markdown="1">
+<summary>Everything in 1.344.0</summary>
+
+**New**
+
+- More Like This on a Jellyfin movie's or show's page: a row of posters your server finds are similar. Tap one for its page. Settings → File Browsing → More Like This turns it off.
+- Movie Pages Across the Fold, for the iPhone Duo open on its side: a movie's or show's page runs across the whole screen, its picture behind both halves, the title on the left and the buttons and details on the right, lower down. Nothing sits across the fold. Turn it off in Settings → File Browsing → Cards for a card down the middle.
+
+**Changed**
+
+- A movie's or show's title, year, rating, running time and genre now sit on its picture, in one line.
+- Resume is one wide button with the time left under it (Play shows the running time). From Beginning is now Restart, and Restart, Watched, Favorite, Home and Download are buttons of one size with their names.
+
+</details>
+
 ### Home on the open iPhone Duo: Spotlight
 
 _Version 1.343.0 · 11 November 2026_
