@@ -12,6 +12,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Comics without the blank paper
+
+_Version 1.346.0 · 11 November 2026_
+
+- Trim Borders cuts the blank paper off a scanned page, so the art fills more of the screen.
+- Both pages of a spread are cut alike, so they still line up.
+- Pages with art to the edge, and title pages, are left as they are.
+
+<img src="images/iphone-18-pro-max/read-options.png" width="300" alt="Reading Options with the new Trim Borders switch under Two-Page Spreads, on an iPhone 18 Pro Max">
+
+<details markdown="1">
+<summary>Everything in 1.346.0</summary>
+
+**New**
+
+- Trim Borders, for comics and PDFs: the blank paper round a scanned page is cut off as it opens, so the art shows bigger. It's on to start with. Turn it off in Settings → Reading → Page Layout, or for one book in Reading Options.
+
+</details>
+
 ### Books read like books
 
 _Version 1.345.0 · 11 November 2026_

@@ -61,6 +61,10 @@ Turn your iPhone on its side and the book shows two pages side by side, as below
 
 Change them in Settings → Reading → **Page Layout**, or for the book in front of you in Reading Options.
 
+## Trim the blank paper
+
+Scanned comics and manga often have blank paper round the art. **Trim Borders** cuts it off as each page opens, so the art fills more of the screen. Both pages of a spread are cut alike, so they still line up. A page with its art right to the edges isn't cut, and neither is a page that's mostly empty, like a title page. **Vertical Scroll** is left as it is. **Trim Borders** is on to start with. Turn it off in Settings → Reading → **Page Layout**, or for one book in Reading Options.
+
 ## Reading Options
 
 <div class="shot" markdown="0">
@@ -71,7 +75,7 @@ Change them in Settings → Reading → **Page Layout**, or for the book in fron
 
 Tap **Reading Options** in the controls to change how this kind of book reads, without leaving it:
 
-- **Turn Style**, **Reading Direction** (**Automatic**, **Left to Right** or **Right to Left**) and **Two-Page Spreads**.
+- **Turn Style**, **Reading Direction** (**Automatic**, **Left to Right** or **Right to Left**), **Two-Page Spreads** and **Trim Borders**.
 - **Page Thumbnails** adds a row of the book's pages, small, by the timeline: scroll along it and tap one to jump there.
 - **Keep Controls When Turning** leaves the controls up as you turn.
 - **Profile** switches your whole reading setup in one tap. See below.

@@ -112,7 +112,7 @@ How each kind of book turns and looks.
 
 ### Page Layout
 
-- **Two-Page Spreads**: the **Two-Page Spreads** choice, **Two Pages When Upright** and **Cover Alone**. See [Two pages at once](Reader.html#two-pages-at-once).
+- **Two-Page Spreads**: the **Two-Page Spreads** choice, **Two Pages When Upright**, **Cover Alone** and **Trim Borders**. See [Two pages at once](Reader.html#two-pages-at-once) and [Trim the blank paper](Reader.html#trim-the-blank-paper).
 - **Page Thumbnails**: a row of pages by the timeline, with **Keep Page Centered** and **In Vertical Scroll**.
 - **Zoom**: **Double-Tap to Zoom** and what a double tap does, **Fill the Screen** or **Closer (2.5×)**.
 
