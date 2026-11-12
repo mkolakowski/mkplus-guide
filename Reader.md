@@ -142,6 +142,13 @@ An EPUB's text reflows to fit your screen. Its controls are a little different:
 
 The scrubber moves through the book by position. Tap zones, keys and page turners work as they do for comics. As with comics, **This Book Only** gives one book its own look.
 
+As in a printed book, the chapter's name and the time left in it sit above the text, and a page number sits under each page, counted from the start of the chapter. They show while the controls are hidden. Turn each off in Settings → Reading → **Book Types** → **Around the Text**.
+
+<img src="images/duo-open-side/read-epub.png" width="420" alt="An EPUB on the iPhone Duo open on its side: a column each side of the fold, the buttons down the edge under the clock and the scrubber under the text">
+<br><sub>iPhone Duo, open on its side</sub>
+
+On the iPhone Duo open on its side, the two columns sit either side of the fold, flat or bent. With **Controls in the Margins** on, the controls stay off the words: **Close** in the top corner, the other buttons down the edge under the clock, and a small scrubber under the text between the page numbers.
+
 ## Lay the controls out your way
 
 Settings → **Reader Controls** opens the real reader, with a sample comic, so every change shows as you make it.

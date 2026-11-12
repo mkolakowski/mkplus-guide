@@ -92,6 +92,7 @@ The Duo folds, and the app notices how it's held: closed, open, and partly folde
 - **Home Buttons in the Tab Bar** (Home Screen) moves **+** and **Edit** into the tab bar, so they're within reach.
 - Settings keeps its list of pages on the left and the page you pick on the right, with the Duo on its side. Switch it with **Two Columns on the Unfolded Duo**. See [Settings](Settings.html#settings-display).
 - A book shows two pages side by side on its side. Upright it shows one, unless **Two Pages When Upright** is on in Settings → Reading → **Page Layout**.
+- An EPUB on its side keeps a column each side of the fold, with its buttons down the edge under the clock and a small scrubber under the text, off the words (**Controls in the Margins**, Settings → Reading → **Book Types**). See [EPUBs](Reader.html#epubs).
 - A video has its own layout, and the **Media Controls** editor adds two buttons at the top, **Loadout 1** and **Loadout 2**. Tap an empty one to save your layout, tap a saved one to use it, and hold one to save over it or clear it. See [Lay the controls out your way](Video-Player.html#lay-the-controls-out-your-way).
 - **Open in the Other Half** puts a second folder in the other half of the screen: beside the first on its side, below it upright. Press and hold a saved server on Home, or select one folder, and choose it. **Close Half** goes back to one. Drag files from one half onto a folder in the other to copy them. With **Hold to Drag When Split** on, a press and hold picks a file up to drag, instead of starting select mode. These are in Settings → File Browsing.
 - On a book server's series page, with the Duo on its side, **Series Details Beside the List** (Settings → Catalogs) puts the series' details in a column beside its books.
@@ -103,7 +104,7 @@ With the Duo on its side and bent so the fold runs top to bottom, the two halves
 - Home: **Clear of the Fold** puts **Two Columns** and **Two Homes Side by Side** either side of the fold, and shows **In a Card** as **Two Columns**. **Spotlight** always keeps to either side of the fold.
 - Settings moves into one half, as one column.
 - A video: **Book Layout** (Video Playback → **Gestures & Buttons**) puts the picture in one half and the controls in the other.
-- A book: **Pages Either Side of the Fold** (Reading → **Page Layout**) leaves a gap as wide as the fold between two pages.
+- A book: **Pages Either Side of the Fold** (Reading → **Page Layout**) leaves a gap as wide as the fold between two pages. An EPUB's two columns keep to either side of the fold when the Duo lies flat too.
 - Pictures: **Two Side by Side When Folded** (Image Viewer) shows two pictures at once, one each side of the fold, and moves on two at a time.
 - Browsing: **Split When Folded** puts a folder in one half and your saved servers in the other when you fold the Duo from flat. **From Home Too** does it from Home as well.
 

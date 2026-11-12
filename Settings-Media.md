@@ -108,6 +108,7 @@ How each kind of book turns and looks.
 - **Comics**: **Turn Style** (**Slide**, **Curl**, **Instant**, **Fade**, **Vertical Paged** or **Vertical Scroll**), **Reading Direction** (**Automatic**, **Left to Right** or **Right to Left**) and **Manga: Yes Reads Right to Left**.
 - **PDFs**: its own **Turn Style**. See [PDFs](Reader.html#pdfs).
 - **EPUBs** and **EPUB Layout**: **Theme**, **Text Size**, **Turn Style**, **Font**, **Margins**, **Columns**, **Book's Layout**, **Line Spacing**, **Paragraph Spacing**, **Justify** and **Hyphenation**. See [EPUBs](Reader.html#epubs).
+- **Around the Text**: an EPUB's **Page Numbers**, **Chapter Name** and **Time Left in Chapter**. The iPhone Duo adds **Controls in the Margins**.
 
 ### Page Layout
 

@@ -12,6 +12,30 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Books read like books
+
+_Version 1.345.0 · 11 November 2026_
+
+- An EPUB shows its page numbers under the text, with the chapter and the time left in it above.
+- On the iPhone Duo open on its side, a column sits each side of the fold, flat or bent.
+- The buttons move down the edge by the clock, and the slider sits under the text, so nothing covers a word.
+
+<img src="images/duo-open-side/read-epub.png" width="300" alt="An EPUB on the iPhone Duo open on its side: a column each side of the fold, the chapter and time left above, page numbers and a small slider below, the buttons down the edge by the clock">
+
+<details markdown="1">
+<summary>Everything in 1.345.0</summary>
+
+**New**
+
+- Page numbers, the chapter's name and the time left in it around an EPUB's text, like a printed book. They show while the controls are hidden. Turn each off in Settings → Reading → Book Types → Around the Text.
+- Controls in the Margins, for the iPhone Duo open on its side: Close in the top corner, the other buttons down the edge under the clock, and a small slider under the text. Turn it off in Settings → Reading → Book Types.
+
+**Changed**
+
+- Open flat on its side, an EPUB's two columns keep to either side of the fold, as they already did when the Duo was bent like a book.
+
+</details>
+
 ### A movie's page, redone
 
 _Version 1.344.0 · 11 November 2026_
