@@ -83,7 +83,7 @@ Settings → **Jellyfin** is for how Jellyfin videos stream and how a server's p
 
 Settings → **Catalogs** is for Kavita, Komga and the other book servers: how they're laid out, what a series' card shows, and reading from them. It has no advanced settings. See [Book servers](OPDS-Catalogs.html).
 
-- **Layout**: **Exploring** is for a catalog's sections, libraries and series, and **Inside a Series** is for its volumes and chapters. Each is a layout, such as **List** or **Cards**.
+- **Layout**: **Exploring** is for a catalog's sections and libraries, **A Library's Series** for a library's series (**Posters**, covers three across, to start with), and **Inside a Series** for its volumes and chapters. Each is a layout, such as **List** or **Cards**.
 - **Series Cards**: **Volumes & Chapters**, **Reading Progress**, **Last Added**, **Start Year**, **Continue Button** and **Summary** switch what a series' card shows.
 - **Section Cards**: **Covers on Section Cards** shows what's in **On Deck**, **Recently Added** or a library on its card. **Cover Cycle** is how they move, **Speed** is how long each stays, and **Blurred Background** washes the main cover behind them.
 - **Series Pages**: **Series Pages** puts a series' cover, summary, progress and a button for what to read next above its volumes. **Cover Behind Series Pages** blurs the cover behind the page.

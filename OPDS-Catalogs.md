@@ -47,18 +47,20 @@ Settings → Server List → **Sign In with Safari First** swaps which of the tw
 
 A catalog opens like a folder, with cover art. Tap a library to see its series, and a series to see its volumes and chapters.
 
+A library's series show as covers, three across or more. The library's name is at the top, with how many series it has and how many you're partway through. Under each cover is how far you've read, such as **25% read** or **Read**, or how many chapters it has if you haven't started. On a Kavita server, **All**, **Reading** and **Unread** under the name narrow the covers to the series you've started or the ones you haven't.
+
 <div class="shot" markdown="0">
-<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/books-library.png" alt="A library on a book server, a grid of covers, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
-<div class="shot-variant shot-duo-front"><img src="images/duo-front/books-library.png" alt="A library on a book server, a grid of covers, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
-<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/books-library.png" alt="A library on a book server, a grid of covers, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
-<div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/books-library.png" alt="A library on a book server, a grid of covers, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
-<div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/books-library.png" alt="A library on a book server, a grid of covers, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/books-library.png" alt="A Kavita library on an iPhone 18 Pro Max: its name, 2 series and 1 in progress, the All, Reading and Unread chips, and the series as covers with how far each is read, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/books-library.png" alt="A Kavita library on an iPhone 18 Pro Max: its name, 2 series and 1 in progress, the All, Reading and Unread chips, and the series as covers with how far each is read, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/books-library.png" alt="A Kavita library on an iPhone 18 Pro Max: its name, 2 series and 1 in progress, the All, Reading and Unread chips, and the series as covers with how far each is read, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
+<div class="shot-variant shot-iphone-17e"><img src="images/iphone-17e/books-library.png" alt="A Kavita library on an iPhone 18 Pro Max: its name, 2 series and 1 in progress, the All, Reading and Unread chips, and the series as covers with how far each is read, on an iPhone 17e" loading="lazy"><div class="shot-label">iPhone 17e</div></div>
+<div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/books-library.png" alt="A Kavita library on an iPhone 18 Pro Max: its name, 2 series and 1 in progress, the All, Reading and Unread chips, and the series as covers with how far each is read, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
 </div>
 
 - Long lists load more as you scroll.
 - Search looks through the whole catalog, not only the list on screen.
 - **Filter** offers whatever the catalog has to filter by, such as genre or status. **Show All** clears it.
-- Settings → **Catalogs** changes the layout of a catalog's libraries (**Exploring**) and of the inside of a series (**Inside a Series**), and what each series card shows.
+- Settings → **Catalogs** changes the layout of a catalog's sections and libraries (**Exploring**), a library's series (**A Library's Series**, covers to start with) and the inside of a series (**Inside a Series**), and what each series card shows.
 
 ### A series
 

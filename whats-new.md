@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Book libraries as covers
+
+_Version 1.349.0 · 12 November 2026_
+
+- A Kavita or Komga library shows its series as covers, three across.
+- Under each cover, how far you've read it.
+- On Kavita, Reading and Unread narrow the covers to what you've started or not.
+
+<img src="images/iphone-18-pro-max/books-library.png" width="300" alt="A Kavita library on an iPhone 18 Pro Max: its name, 2 series and 1 in progress, the All, Reading and Unread chips, and the series as covers with how far each is read">
+
+<details markdown="1">
+<summary>Everything in 1.349.0</summary>
+
+**New**
+
+- A Library's Series: a catalog library's series open as covers, with the library's name, how many series and how many in progress at the top. Change it in Settings → Catalogs.
+- On Kavita, All, Reading and Unread under the library's name filter the covers.
+
+</details>
+
 ### A show's seasons in a row
 
 _Version 1.348.0 · 12 November 2026_
