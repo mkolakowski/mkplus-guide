@@ -12,6 +12,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A show's seasons in a row
+
+_Version 1.348.0 · 12 November 2026_
+
+- A show's seasons are a row of buttons: one tap changes season.
+- Each episode is one line, with a tick when watched or a download button at its end.
+- Play says which episode it starts, with its name and length.
+
+<img src="images/iphone-18-pro-max/jellyfin-episodes.png" width="300" alt="A show's page on an iPhone 18 Pro Max: Season 1, Season 2 and Specials as a row of buttons, each episode on one line with a tick or a download button at its end">
+
+<details markdown="1">
+<summary>Everything in 1.348.0</summary>
+
+**Changed**
+
+- A show with several seasons lists them in a row over its episodes. Tap one to change season; the row scrolls sideways when there are many.
+- Episodes are one row each: the number and name, the length under it, and "up next" or where you stopped. A tick at the end means watched; otherwise a download button is there.
+- Play on a show's page names the episode it starts and how long it is.
+
+</details>
+
 ### Comic controls you can see on any page
 
 _Version 1.347.0 · 11 November 2026_
