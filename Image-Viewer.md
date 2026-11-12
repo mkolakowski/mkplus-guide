@@ -39,7 +39,7 @@ MK Plus opens JPEG, PNG, GIF, HEIC, HEIF, BMP, TIFF and WebP files, from any ser
 <div class="shot-variant shot-ipad-air-11"><img src="images/ipad-air-11/picture-viewer.png" alt="A picture open in the viewer with its controls showing, on an iPad Air 11-inch" loading="lazy"><div class="shot-label">iPad Air 11-inch</div></div>
 </div>
 
-- **Swipe sideways** to go to the next or previous picture.
+- **Swipe sideways** to go to the next or previous picture. Each picture fills the width on its own, with nothing of the next one showing.
 - **Pinch** to zoom in, and drag to look around. **Double tap** zooms in on the spot, and a second double tap zooms back out.
 - **Tap** the middle to show or hide the controls. With **Tap Sides to Move** on (it is to start with), a tap near the left or right edge moves to the previous or next picture instead.
 - **Swipe down** to close the viewer. It doesn't close while you're zoomed in.
@@ -48,7 +48,7 @@ On the iPhone Duo, with Settings → **Image Viewer** → **Two Side by Side Whe
 
 ## The controls
 
-With the controls showing, **Close** is at the top left, and the picture's name with how far through the folder you are (such as 3 of 24) sits at the top. To start with the top right holds three buttons and the bottom holds four:
+With the controls showing, **Close** is at the top left. Beside it, a pill holds the picture's name and how far through the folder you are, such as **3 of 24**. To start with the top right holds three buttons and the bottom holds four:
 
 - **Info** opens a sheet about the picture: its **Name**, **Kind**, **Size**, **Dimensions** and when it was **Modified**. Tap **Done** to close it.
 - **Share** opens your iPhone's share sheet for the picture. From there you can send it, copy it, or save it to your Photos.
@@ -57,13 +57,14 @@ With the controls showing, **Close** is at the top left, and the picture's name 
 - **Slideshow** moves to the next picture on its own and hides the controls. Tap the picture to bring them back, and press **Stop Slideshow** to stop. It also stops at the last picture, unless looping is on.
 - **Rotate** turns the picture a quarter turn clockwise each time you tap it. Each picture keeps its own turn until you close the viewer. The file itself isn't changed.
 
-Along the very bottom is a **Filmstrip** of small pictures, to jump to one, or a **Timeline** you drag to move through the folder, as in the video player.
+Along the very bottom is a **Filmstrip** of small pictures, to jump to one, or a **Timeline** you drag to move through the folder, as in the video player. The filmstrip keeps the picture you're on in the middle, under the buttons.
 
 ## Viewer settings
 
 **Viewer Settings** (or Settings → **Image Viewer**) holds:
 
 - **Tap Sides to Move**, as above.
+- **Show the Next Picture's Edge** (in Settings → **Image Viewer**, with the advanced settings showing) lets a sliver of the next picture show at the side, as before. It's off to start with.
 - **Slideshow Every** (shown as **Every** in the sheet) sets how long each picture stays up. **Loop Slideshow** (**Loop**) starts over after the last picture instead of stopping.
 - **Show Title** hides or shows the name at the top, and **Along the Bottom** chooses **Filmstrip**, **Timeline** or **Off**.
 

@@ -12,6 +12,31 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### One whole picture at a time
+
+_Version 1.350.0 · 12 November 2026_
+
+- The image viewer shows one picture across the whole width, with no sliver of the next.
+- The picture's name and count sit together beside Close.
+- The strip of thumbnails keeps the one you're on in the middle.
+
+<img src="images/duo-front/picture-viewer.png" width="300" alt="A picture in the image viewer on the iPhone Duo's front screen: the whole picture across the width, its name and 2 of 6 beside Close, the strip of thumbnails with the current one in the middle">
+
+<details markdown="1">
+<summary>Everything in 1.350.0</summary>
+
+**Changed**
+
+- The image viewer shows one whole picture at a time, nothing of the next one at the side.
+- The picture's name and how far through the folder you are sit in one pill beside Close.
+- The filmstrip keeps the picture you're on in the middle, under the buttons.
+
+**New**
+
+- Show the Next Picture's Edge: a sliver of the next picture at the side, as before. Off to start with; in Settings → Image Viewer.
+
+</details>
+
 ### Book libraries as covers
 
 _Version 1.349.0 · 12 November 2026_
