@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Player Settings you can read over any video
+
+_Version 1.354.0 · 13 November 2026_
+
+- Player Settings and Playback Options are solid sheets: the video no longer moves behind their rows.
+
+<img src="images/iphone-18-pro-max/watch-player-settings.png" width="300" alt="Player Settings over a playing video on an iPhone 18 Pro Max, a solid sheet with Tap to Pause, Show Title, Media Controls and All Settings">
+
+<details markdown="1">
+<summary>Everything in 1.354.0</summary>
+
+**Changed**
+
+- Player Settings and Playback Options open as the same solid sheet, so their rows read clearly over a playing video.
+
+</details>
+
 ### Reading Options you can read on any page
 
 _Version 1.353.0 · 13 November 2026_
