@@ -12,6 +12,22 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Storyteller keeps your place
+
+_Version 1.359.0 · 13 November 2026_
+
+- A Storyteller book you open here starts where you left off in Storyteller.
+- The page you're on is sent back as you read.
+
+<details markdown="1">
+<summary>Everything in 1.359.0</summary>
+
+**New**
+
+- Sync Reading Progress now covers Storyteller: a book you haven't opened on this device starts where the server says you left off, and your place is sent back as you read.
+
+</details>
+
 ### Storyteller servers
 
 _Version 1.358.0 · 13 November 2026_
