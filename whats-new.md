@@ -12,6 +12,29 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Editing Home, tidied
+
+_Version 1.361.0 · 13 November 2026_
+
+- While editing Home, a shelf's remove button sits beside its name instead of on top of it.
+- Three lines at a shelf's right show you can drag it.
+- Covers that stayed grey since 1.355.0 load again.
+
+<img src="images/iphone-18-pro-max/home-edit.png" width="300" alt="Home while editing on an iPhone 18 Pro Max: each shelf's remove button beside its name, a grip at the right of the name line">
+
+<details markdown="1">
+<summary>Everything in 1.361.0</summary>
+
+**Changed**
+
+- Editing Home: each shelf's − sits beside its name, not over its first letter, and a grip at the right shows the shelf can be dragged.
+
+**Fixed**
+
+- Covers on Home, in libraries and on a movie's page could stay grey since 1.355.0; they load again.
+
+</details>
+
 ### A calmer tap-zone guide
 
 _Version 1.360.0 · 13 November 2026_

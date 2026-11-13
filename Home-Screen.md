@@ -101,7 +101,7 @@ A stack puts several widgets in one spot, with a row of their names to switch be
 
 1. Tap **Edit** (the pencil), or press and hold anything on Home.
 2. Tap a widget to change it: its name, style, how many it shows and, for a smart widget, which servers and libraries it takes from. **Remove from Home** is at the bottom.
-3. Hold a widget and drag it to move it.
+3. Hold a widget and drag it to move it. A shelf shows three lines at its right to say it can be dragged, and the **−** before its name takes it off Home.
 4. Tap **+** to add a widget.
 5. Tap **Done**.
 
