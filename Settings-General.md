@@ -54,7 +54,7 @@ A Home's theme overrides your iPhone's light or dark while it's on the screen.
 
 **Item Transparency** says how see-through rows and cards are, on every screen.
 
-- **Per Screen** leaves each screen as it is: Settings' rows and Home's cards take the theme's look, and the Servers list is solid.
+- **Per Screen** leaves each screen as it is: Settings' rows, Home's cards and the rows of the **Servers** and **Downloads** tabs take the theme's look.
 - **Translucent** gives every row and card the theme's frosted look.
 - **Solid** gives them all the system's plain fill.
 

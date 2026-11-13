@@ -12,6 +12,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Servers and Downloads match Home
+
+_Version 1.352.0 · 12 November 2026_
+
+- The Servers tab has a large title, like Home and Downloads.
+- Servers' and Downloads' rows take your theme's look, as Home's cards do.
+
+<img src="images/iphone-18-pro-max/servers-tab.png" width="300" alt="The Servers tab on an iPhone 18 Pro Max: a large Servers title, and Shares, Jellyfin and Catalogs as rows on the theme's glass cards">
+
+<details markdown="1">
+<summary>Everything in 1.352.0</summary>
+
+**Changed**
+
+- The Servers tab's title is large, as Home's and Downloads' are.
+- The rows of the Servers and Downloads tabs use your theme's cards, the same as Home's. Settings → Appearance → Item Transparency → Solid still makes them plain.
+
+</details>
+
 ### Two pictures on the open Duo
 
 _Version 1.351.0 · 12 November 2026_
