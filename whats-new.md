@@ -12,6 +12,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Pictures go back where they came from
+
+_Version 1.357.0 · 13 November 2026_
+
+- Swipe a picture down and it shrinks back onto its thumbnail in the folder.
+
+<details markdown="1">
+<summary>Everything in 1.357.0</summary>
+
+**Changed**
+
+- Closing a picture by swiping it down shrinks it back onto its thumbnail in the folder, as covers grow into their page. It follows Settings → File Browsing → Zoom into Covers and Reduce Motion.
+
+</details>
+
 ### A touch you can feel
 
 _Version 1.356.0 · 13 November 2026_
