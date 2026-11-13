@@ -12,6 +12,29 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Storyteller servers
+
+_Version 1.358.0 · 13 November 2026_
+
+- Add a Storyteller server as a catalog: type its address and sign in.
+- Books download and open in the reader; readaloud books come as their readaloud.
+- Books that are only an audiobook show, and say they can't be opened yet.
+
+<details markdown="1">
+<summary>Everything in 1.358.0</summary>
+
+**New**
+
+- Storyteller servers can be added like Kavita or Komga. The app finds one on your network (port 8001) or from the address you type, and signs in with your username and password.
+- Books from a Storyteller server download and open in the reader. A book with a readaloud downloads as its readaloud.
+- A book that's only an audiobook shows greyed, and tapping it says the app can't open audiobooks yet.
+
+**Fixed**
+
+- Catalogs that write book titles and authors as language lists no longer show "Untitled" with no author.
+
+</details>
+
 ### Pictures go back where they came from
 
 _Version 1.357.0 · 13 November 2026_
