@@ -12,6 +12,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Loading that looks like what's coming
+
+_Version 1.355.0 · 13 November 2026_
+
+- Libraries and pages show grey shapes where things will be while they load, instead of a spinner.
+- Covers fade in as they arrive.
+- A folder that couldn't load says so, with Try Again.
+
+<details markdown="1">
+<summary>Everything in 1.355.0</summary>
+
+**Changed**
+
+- While a library, folder or a movie's page loads, grey shapes stand where the posters, rows and words will be, so nothing jumps when they arrive.
+- Covers fade in rather than popping up after an icon.
+- A folder that couldn't load says so and offers Try Again; an empty one says Nothing Here.
+
+</details>
+
 ### Player Settings you can read over any video
 
 _Version 1.354.0 · 13 November 2026_
