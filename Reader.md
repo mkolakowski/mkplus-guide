@@ -74,7 +74,7 @@ Scanned comics and manga often have blank paper round the art. **Trim Borders** 
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/read-options.png" alt="The Reading Options sheet, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
-Tap **Reading Options** in the controls to change how this kind of book reads, without leaving it:
+Tap **Reading Options** in the controls to change how this kind of book reads, without leaving it. It opens as a solid sheet, so a bright page doesn't show through it. On the iPhone Duo on its side it opens to the right of the fold, and a tap on the page to its left closes it.
 
 - **Turn Style**, **Reading Direction** (**Automatic**, **Left to Right** or **Right to Left**), **Two-Page Spreads** and **Trim Borders**.
 - **Page Thumbnails** adds a row of the book's pages, small, by the timeline: scroll along it and tap one to jump there.

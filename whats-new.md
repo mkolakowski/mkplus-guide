@@ -12,6 +12,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Reading Options you can read on any page
+
+_Version 1.353.0 · 13 November 2026_
+
+- Reading Options is a solid sheet: a bright page no longer shows through it.
+- On the iPhone Duo on its side, it opens to the right of the fold.
+
+<img src="images/duo-open-side/read-options.png" width="300" alt="Reading Options on the iPhone Duo open on its side: a solid panel to the right of the fold, the comic page on the left">
+
+<details markdown="1">
+<summary>Everything in 1.353.0</summary>
+
+**Changed**
+
+- Reading Options opens as a solid sheet, so its rows read clearly over a bright page.
+- On the iPhone Duo on its side, Reading Options opens to the right of the fold; tap the page on the left to close it.
+
+</details>
+
 ### Servers and Downloads match Home
 
 _Version 1.352.0 · 12 November 2026_
