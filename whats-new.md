@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A calmer tap-zone guide
+
+_Version 1.360.0 · 13 November 2026_
+
+- Show Tap Zones dims the page and outlines each zone, instead of covering it in colour.
+
+<img src="images/duo-front/read-tap-zones.png" width="300" alt="Show Tap Zones on the iPhone Duo's front screen: the page dimmed, three dashed outlines named Back, Menu and Next">
+
+<details markdown="1">
+<summary>Everything in 1.360.0</summary>
+
+**Changed**
+
+- Show Tap Zones keeps the page in view, dimmed, with each zone outlined and named in one quiet style; custom zones draw the same way.
+
+</details>
+
 ### Storyteller keeps your place
 
 _Version 1.359.0 · 13 November 2026_

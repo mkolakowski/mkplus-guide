@@ -109,7 +109,7 @@ Where you tap decides what happens. Pick a layout under **Tap Zones** in Reading
 | **Off** | Taps only show and hide the controls. Swipe to turn. |
 | **Custom** | Your own grid of nine zones. |
 
-**Show Tap Zones** draws the map over the page for a moment, so you can see where each zone is. **Custom Zones** opens a grid where you choose what each of the nine zones does. **Follow Reading Direction** swaps left and right for right-to-left books.
+**Show Tap Zones** dims the page for a moment and outlines each zone, with what it does written in the middle, so you can see where each one is. **Custom Zones** opens a grid where you choose what each of the nine zones does. **Follow Reading Direction** swaps left and right for right-to-left books.
 
 ## Keyboards, page turners and volume buttons
 
