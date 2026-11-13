@@ -12,6 +12,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Readaloud books read themselves
+
+_Version 1.362.0 · 13 November 2026_
+
+- A readaloud book (from Storyteller, say) plays its own narration when you tap Read Aloud.
+- The sentence being read lights up, and the pages turn to follow.
+- Keep listening with the screen locked; the Lock Screen has play, pause and skip.
+
+<details markdown="1">
+<summary>Everything in 1.362.0</summary>
+
+**New**
+
+- Read Aloud plays a readaloud book's own recording, highlighting each sentence and turning the pages, with buttons for the sentence before and after.
+- It carries on in the background and from the Lock Screen, follows the Read Aloud speed and the sleep timer, and keeps your place in Storyteller as the pages turn.
+- Use the Book's Narration in Settings → Reading → Read Aloud: off, those books are read in the system voice instead.
+
+</details>
+
 ### Editing Home, tidied
 
 _Version 1.361.0 · 13 November 2026_
