@@ -12,6 +12,24 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Two pictures on the open Duo
+
+_Version 1.351.0 · 12 November 2026_
+
+- Open flat on its side, the Duo shows two whole pictures, one each side of the fold.
+- The strip sits under the left one and the buttons under the right, clear of the fold.
+
+<img src="images/duo-open-side/picture-viewer.png" width="300" alt="The image viewer on the iPhone Duo open on its side: two whole pictures either side of the fold, 1 and 2 of 6 beside Close, the strip under the left picture with both marked, the buttons under the right">
+
+<details markdown="1">
+<summary>Everything in 1.351.0</summary>
+
+**New**
+
+- Two Pictures When Open: on the iPhone Duo open flat on its side, the image viewer shows two pictures at once and moves two at a time, both marked in the strip. Turn it off in Settings → Image Viewer.
+
+</details>
+
 ### One whole picture at a time
 
 _Version 1.350.0 · 12 November 2026_
