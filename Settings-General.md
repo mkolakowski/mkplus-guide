@@ -60,6 +60,10 @@ A Home's theme overrides your iPhone's light or dark while it's on the screen.
 
 Turning on Reduce Transparency in your iPhone's Accessibility settings makes them solid whichever you choose.
 
+### Touch
+
+**Haptics** gives a light tap you can feel when the Home carousel settles on a cover, when you mark something watched or a favorite, when a download finishes, at each end of a book's page slider and on its last page. It's on to start with. Turn it off and the app gives no taps at all, **Haptic on Page Turn** included.
+
 ### On an iPad
 
 **Large Settings** makes Settings fill most of the screen. Swipe it down to close. Off, it opens as a smaller card in the middle.

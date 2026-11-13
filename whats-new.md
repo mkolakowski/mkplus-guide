@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A touch you can feel
+
+_Version 1.356.0 · 13 November 2026_
+
+- A light tap when the carousel settles, when you mark something watched or a favorite, and when a download finishes.
+- Books tap at each end of the page slider and on their last page.
+- One Haptics switch turns them all off.
+
+<details markdown="1">
+<summary>Everything in 1.356.0</summary>
+
+**New**
+
+- Haptics: a light tap you can feel when the Home carousel settles on a cover, when you mark something watched or a favorite, when a download finishes, at each end of a book's page slider and on its last page. Turn it off in Settings → Appearance; off, the app gives no taps at all.
+
+</details>
+
 ### Loading that looks like what's coming
 
 _Version 1.355.0 · 13 November 2026_
