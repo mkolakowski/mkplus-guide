@@ -48,6 +48,7 @@ Settings → Server List → **Sign In with Safari First** swaps which of the tw
 Storyteller lines up an ebook with its audiobook and makes a **readaloud** book: the text and the recording in one EPUB, with the spoken sentence marked. Enter its address (it usually listens on port 8001) and sign in with your Storyteller username and password. MK Plus recognises it, and it turns up as Storyteller under **Found on Your Network** too.
 
 - A readaloud book downloads with its recording and opens in the [reader](Reader.html#readaloud-books), where **Read Aloud** plays the narration with the sentence highlighted.
+- To have readaloud books start playing as soon as they open, turn on **Play Narration When a Book Opens** on the catalog's page (Settings → **Server List**, then the catalog). It's off to start with, and it's set for each catalog on its own.
 - A book that's only text opens like any other EPUB.
 - A book that's only an audiobook shows greyed out: MK Plus can't play audiobooks on their own yet.
 - With **Sync Reading Progress** on, your place goes back to Storyteller, so its own apps open where you left off, and the other way round.

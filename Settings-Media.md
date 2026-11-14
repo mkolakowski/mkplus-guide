@@ -120,12 +120,13 @@ With Show Advanced Settings on, this page also has **Lone Pages Like a Book**, *
 
 ### Turning Pages
 
-- **Tapping**: **Tap Zones** picks a preset (**Sides**, **Kindle**, **Edges Only**, **One-Handed (Right)**, **One-Handed (Left)**, **Forward Anywhere**, **Off** or **Custom**), and **Custom Zones** sets each of nine zones. **Follow Reading Direction** swaps the sides in a right-to-left book. See [Tap zones](Reader.html#tap-zones).
+Tap zones have their own page, under Controls below **Reader Controls**: see [Settings](Settings.html).
+
 - **Swiping**: **Invert Swipe Direction** swaps which way a swipe turns the page.
 - **Hands-Free**: **Page Turners**, **Volume Buttons** (**Off**, **Down Turns Forward** or **Up Turns Forward**) and **Auto Turn Every**. See [Keyboards, page turners and volume buttons](Reader.html#keyboards-page-turners-and-volume-buttons).
 - **Read Aloud**: **Speed**, **Turn Pages to Follow** and **Highlight the Sentence**, for an EPUB read to you.
 
-With Show Advanced Settings on, this page also has **Show Zones After a Change**, **Hold to Flip**, **Swipe Sensitivity** and **Swipe Beside the Page**.
+With Show Advanced Settings on, this page also has **Swipe Sensitivity** and **Swipe Beside the Page**.
 
 ### Controls & Closing
 

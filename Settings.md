@@ -56,7 +56,7 @@ Tap a row to open its page. A page is a list of sections, and most sections end 
 2. A sheet opens with a **Search Settings** field and the words **Find a setting by name.** Type a word or two.
 3. Each result shows the setting's name and where it is, such as Video Playback › Subtitles. Tap one.
 4. Its page opens, scrolls to the setting and flashes it once.
-5. Tap **Done** to close the search without choosing.
+5. To close the search without choosing, tap the X beside the field.
 
 Every word you type has to match the setting's name, the name of the page it's on, or another word people use for it. Typing `manga` finds **Reading Direction**, for example. If nothing matches, you'll see **No Results**.
 
@@ -77,6 +77,7 @@ Three rows lay out the buttons of the player, the reader and the picture viewer.
 
 - **Media Controls** lays out the video player's buttons, title and timeline. See [Lay the controls out your way](Video-Player.html#lay-the-controls-out-your-way).
 - **Reader Controls** lays out a book's buttons, title, scrubber and page number, on a sample comic. See [Lay the controls out your way](Reader.html#lay-the-controls-out-your-way).
+- **Tap Zones** sets which parts of a page turn it when you tap: a preset (**Sides**, **Kindle**, **Edges Only**, **One-Handed (Right)**, **One-Handed (Left)**, **Forward Anywhere**, **Off** or **Custom**), or nine zones of your own in **Custom Zones**. **Follow Reading Direction** swaps the sides in a right-to-left book. With Show Advanced Settings on, it also has **Show Zones After a Change** and **Hold to Flip**. See [Tap zones](Reader.html#tap-zones).
 - **Image Viewer Controls** lays out the picture viewer's buttons, title and filmstrip or timeline. See [Lay the controls out your way](Image-Viewer.html#lay-the-controls-out-your-way).
 
 ## Help, feedback and about

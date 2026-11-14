@@ -12,6 +12,45 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Tap Zones have their own spot in Settings
+
+_Version 1.365.1 · 13 November 2026_
+
+- Tap Zones now sit in Settings → Controls, right below Reader Controls.
+
+<details markdown="1">
+<summary>Everything in 1.365.1</summary>
+
+**Changed**
+
+- Tap Zones, with Custom Zones and the other tapping settings, moved from Reading → Turning Pages to Settings → Controls, below Reader Controls.
+
+**Fixed**
+
+- On the iPhone Duo with the tab bar down the left, a show's or a library's page fills its card again.
+
+</details>
+
+### Read Aloud like the player, and books that play as they open
+
+_Version 1.365.0 · 13 November 2026_
+
+- The Read Aloud bar is laid out like the video player's, with a large Play/Pause in the middle.
+- Turn on Play Narration When a Book Opens on a catalog's page, and its readaloud books start playing as soon as they open.
+
+<details markdown="1">
+<summary>Everything in 1.365.0</summary>
+
+**New**
+
+- Play Narration When a Book Opens, on each catalog's page: a book from that catalog with its own narration, such as a Storyteller readaloud book, starts reading aloud from your place as it opens. It's off to start with.
+
+**Changed**
+
+- The Read Aloud bar runs like the player's controls: the sleep timer, a sentence back, a larger Play/Pause in the middle, a sentence on, then Stop.
+
+</details>
+
 ### A book's controls you can see on a white page
 
 _Version 1.364.0 · 13 November 2026_
