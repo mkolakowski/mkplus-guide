@@ -12,6 +12,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A book's controls you can see on a white page
+
+_Version 1.364.0 · 13 November 2026_
+
+- In a book, a soft dark shade now sits behind the buttons, the Read Aloud bar and the scrubber, so they're easy to see on a white page.
+
+<details markdown="1">
+<summary>Everything in 1.364.0</summary>
+
+**Changed**
+
+- Shade Behind Controls covers EPUB books too: the buttons at the top and the Read Aloud bar and scrubber at the bottom get a dark shade and turn light, whatever the page's theme. The middle of the page stays clear. Turn it off in Settings → Reading → Controls & Closing.
+
+</details>
+
 ### Home asks you to sign in again
 
 _Version 1.363.0 · 13 November 2026_

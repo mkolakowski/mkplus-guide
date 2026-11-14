@@ -145,7 +145,7 @@ An EPUB's text reflows to fit your screen. Its controls are a little different:
   - **Turn Style**: **Slide**, **Curl**, **Instant** or **Vertical Scroll**.
 - **Read Aloud** (the speaker) reads the book to you from the page you're on. Its speed and whether it turns pages for you are in Settings → Reading → **Turning Pages**.
 
-The scrubber moves through the book by position. Tap zones, keys and page turners work as they do for comics. As with comics, **This Book Only** gives one book its own look.
+The scrubber moves through the book by position. With **Shade Behind Controls** on, the dark shade sits behind the buttons, the Read Aloud bar and the scrubber here too, and they turn light so they stand out on a white page. Tap zones, keys and page turners work as they do for comics. As with comics, **This Book Only** gives one book its own look.
 
 As in a printed book, the chapter's name and the time left in it sit above the text, and a page number sits under each page, counted from the start of the chapter. They show while the controls are hidden. Turn each off in Settings → Reading → **Book Types** → **Around the Text**.
 
