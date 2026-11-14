@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Pick the read-aloud highlight color
+
+_Version 1.368.0 · 14 November 2026_
+
+- Choose the color that marks the sentence being read aloud: teal, yellow, green, blue, pink, orange or purple.
+
+<img src="images/iphone-18-pro-max/read-aloud-highlight-color.png" width="300" alt="Settings → Reading → Turning Pages on an iPhone 18 Pro Max: Read Aloud's Highlight Color menu open, with Teal ticked and Yellow, Green, Blue, Pink, Orange and Purple, each beside a dot of its color">
+
+<details markdown="1">
+<summary>Everything in 1.368.0</summary>
+
+**New**
+
+- Highlight Color in Settings → Reading → Turning Pages, under Read Aloud: the color the sentence being read is marked with, in the system voice and in a book's own narration. A change shows straight away, even while it reads.
+
+</details>
+
 ### Sign in to Storyteller on its own page
 
 _Version 1.367.0 · 14 November 2026_
