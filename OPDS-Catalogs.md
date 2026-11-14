@@ -15,7 +15,7 @@ nav_order: 7
 <button type="button" data-device="ipad-air-11" aria-pressed="false">iPad Air 11-inch</button>
 </div>
 
-A book server keeps your comics and books and shows them as a library. Kavita, Komga, Calibre-Web, Stump and Calibre all do. They share a catalog format called **OPDS**, so MK Plus can browse any of them like a folder, open their books in the [reader](Reader.html), and keep your place in step with the server.
+A book server keeps your comics and books and shows them as a library. Kavita, Komga, Storyteller, Calibre-Web, Stump and Calibre all do. They share a catalog format called **OPDS**, so MK Plus can browse any of them like a folder, open their books in the [reader](Reader.html), and keep your place in step with the server.
 
 ## Add a book server
 
@@ -42,6 +42,17 @@ A Kavita that signs in with Google or another OpenID login has no password to ty
 - **Sign In on a Page in the App Instead** opens Kavita's page inside MK Plus. It fetches the key by itself, but passkeys can't work there, so you need a password or a code.
 
 Settings → Server List → **Sign In with Safari First** swaps which of the two comes first. If your server sits behind Cloudflare, see [Cloudflare Access](Cloudflare-Access.html).
+
+### Storyteller
+
+Storyteller lines up an ebook with its audiobook and makes a **readaloud** book: the text and the recording in one EPUB, with the spoken sentence marked. Enter its address (it usually listens on port 8001) and sign in with your Storyteller username and password. MK Plus recognises it, and it turns up as Storyteller under **Found on Your Network** too.
+
+- A readaloud book downloads with its recording and opens in the [reader](Reader.html#readaloud-books), where **Read Aloud** plays the narration with the sentence highlighted.
+- A book that's only text opens like any other EPUB.
+- A book that's only an audiobook shows greyed out: MK Plus can't play audiobooks on their own yet.
+- With **Sync Reading Progress** on, your place goes back to Storyteller, so its own apps open where you left off, and the other way round.
+
+Signing in to Storyteller with Google or another login, rather than a password, doesn't work yet.
 
 ## Browse a library
 
@@ -80,7 +91,7 @@ If you'd rather not have series pages, turn off Settings → **Catalogs** → **
 
 Tap a book to open it. With Settings → **Catalogs** → **Stream Comic Pages** on, a Kavita or Komga comic opens straight away and its pages load as you read. With it off, the whole comic downloads first, which reads more smoothly on a slow connection.
 
-With **Sync Reading Progress** on (also in Settings → **Catalogs**), your page goes back to Kavita or Komga as you read and reaching the last page marks the book read. A book you haven't opened on this iPhone starts where the server says you left off, even if you last read it on another device. The books you're partway through also appear in the **Continue Reading** widget on Home.
+With **Sync Reading Progress** on (also in Settings → **Catalogs**), your page goes back to Kavita, Komga or Storyteller as you read and reaching the last page marks the book read. A book you haven't opened on this iPhone starts where the server says you left off, even if you last read it on another device. The books you're partway through also appear in the **Continue Reading** widget on Home.
 
 ## Download for offline
 
@@ -96,6 +107,7 @@ On a series page, **Auto-Download New Chapters** downloads new volumes and chapt
 | A Kavita that signs in with Google has no password box | Use **Sign In with … in Safari**, then **Copy** and **Paste** as above. |
 | The Safari sheet stays open after **Copy** | Close it yourself and tap **Paste** in MK Plus. |
 | A book opens at the wrong page | Make sure **Sync Reading Progress** is on in Settings → **Catalogs**. |
+| A Storyteller book's narration won't play | The iPhone can't play every audio format. In Storyteller's settings, choose MP3 or AAC as the audio format and process the book again. |
 | A comic is slow to open | With **Stream Comic Pages** off the whole comic downloads first. Turn it on. |
 
 ## Related pages
