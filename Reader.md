@@ -154,6 +154,17 @@ As in a printed book, the chapter's name and the time left in it sit above the t
 
 On the iPhone Duo open on its side, the two columns sit either side of the fold, flat or bent. With **Controls in the Margins** on, the controls stay off the words: **Close** in the top corner, the other buttons down the edge under the clock, and a small scrubber under the text between the page numbers.
 
+### Readaloud books
+
+Some EPUBs carry their own recording, with each sentence marked as it's spoken. [Storyteller](OPDS-Catalogs.html#storyteller) makes them. In one of these, **Read Aloud** plays the recording instead of the iPhone's voice:
+
+- The sentence being spoken is highlighted, and the page turns to follow it.
+- **Previous Sentence** and **Next Sentence** come after **Pause** on the Read Aloud bar.
+- It keeps playing when you lock your iPhone or switch apps, and the Lock Screen shows the book with play, pause and skip.
+- The speed and the sleep timer (the moon) work as they do for the iPhone's voice.
+
+To have these books read in the iPhone's voice instead, turn off Settings → Reading → **Turning Pages** → **Use the Book's Narration**.
+
 ## Lay the controls out your way
 
 Settings → **Reader Controls** opens the real reader, with a sample comic, so every change shows as you make it.
