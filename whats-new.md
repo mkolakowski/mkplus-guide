@@ -12,6 +12,30 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Home asks you to sign in again
+
+_Version 1.363.0 · 13 November 2026_
+
+- When a server's sign-in has run out, such as Cloudflare Access, Home asks you to sign in instead of leaving its widgets empty.
+- The keyboard comes up again for Provide Feedback over a book, a video or a picture.
+- Show Tap Zones' outlines no longer run under the screen's corners.
+
+<details markdown="1">
+<summary>Everything in 1.363.0</summary>
+
+**New**
+
+- Ask to Sign In: when a Home widget's server needs you to sign in again, Home asks, once for each server, and fills the widgets once you have. Turn it off in Settings → Home Screen.
+
+**Fixed**
+
+- Provide Feedback opened over a book, a video or a picture got no keyboard.
+- A catalog's sort button looked the same as the List button beside it.
+- Show Tap Zones' outlines were cut off at the screen's corners.
+- The full list behind a Home shelf like Favorites or Continue Watching now takes the Home's theme.
+
+</details>
+
 ### Readaloud books read themselves
 
 _Version 1.362.0 · 13 November 2026_

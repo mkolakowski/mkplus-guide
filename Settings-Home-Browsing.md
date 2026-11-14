@@ -54,6 +54,7 @@ Most of the tab bar's switches are greyed out while **Floating Tab Bar** is off.
 - **Single Home Name** shows just the Home you're on at the top, and lets you swipe sideways to the next one. Off, every Home's name shows side by side and swiping is off.
 - **Fit Shelves to the Screen** sizes the covers on Home's shelves to the screen, so none runs past the edge and a swipe along a shelf stops on every cover. Off, covers keep a fixed size and scroll freely.
 - **Blur the Side Covers** blurs the two covers beside a carousel's middle one, by **Carousel Blur** (from **Off** to heavy). Off, as it starts, they stay sharp and are dimmed. **Read Button on Carousels** puts a button on the middle cover, when it's a series, that reads or plays where you left off.
+- **Ask to Sign In**: when a widget can't show what's on a server because its sign-in has run out, such as Cloudflare Access after a few weeks away, Home asks you to sign in to that server, once for each server. When you're signed in, the widgets fill. It's on to start with.
 
 With Show Advanced Settings on, this page also has **Tap + for a Menu**, which makes a tap on **+** offer both **Add Server** and **Add Widgets**, and **Floating Done Button**, which floats **Done** over the widgets while you edit a long Home.
 
