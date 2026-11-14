@@ -158,7 +158,7 @@ On the iPhone Duo open on its side, the two columns sit either side of the fold,
 
 Some EPUBs carry their own recording, with each sentence marked as it's spoken. [Storyteller](OPDS-Catalogs.html#storyteller) makes them. In one of these, **Read Aloud** plays the recording instead of the iPhone's voice:
 
-- The sentence being spoken is highlighted, and the page turns to follow it.
+- The sentence being spoken is highlighted (in teal, or the color you pick in Settings → Reading → Turning Pages → **Highlight Color**), and the page turns to follow it.
 - The Read Aloud bar is laid out like the video player's controls: the sleep timer, **Previous Sentence**, a large **Pause** in the middle, **Next Sentence**, then **Stop**.
 - It keeps playing when you lock your iPhone or switch apps, and the Lock Screen shows the book with play, pause and skip.
 - The speed and the sleep timer (the moon) work as they do for the iPhone's voice.
