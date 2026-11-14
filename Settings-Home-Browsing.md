@@ -90,7 +90,7 @@ Settings → **Server List** lists every server you've saved, and holds the sett
 - **Find Book Servers** looks on your Wi-Fi for Kavita, Komga, Calibre-Web, Stump and Calibre, to list in **Add Server**. It can take up to half a minute.
 - **Ask to Sign In Again** opens a server's sign-in when its password is missing or isn't accepted, then tries again once it's saved. Off, you just see the error.
 
-The last section, **Sign-In Gateways**, lists servers behind Cloudflare Access or an OpenID Connect sign-in, with whether you're signed in to each. Tap one to sign in or out, and swipe it to forget it. **Check Gateway Sign-Ins** asks each one whether you're still let in when you come back to the app, and marks one that has run out with an orange lock. **Guided Sign-In** signs in to Cloudflare in Safari first and then goes straight on to the server's own sign-in. **Sign In with Safari First** opens a Kavita sign-in in Safari, where your passkeys work. See [Cloudflare Access](Cloudflare-Access.html).
+The last section, **Sign-In Gateways**, lists servers behind Cloudflare Access or an OpenID Connect sign-in, with whether you're signed in to each. Tap one to sign in or out, and swipe it to forget it. **Check Gateway Sign-Ins** asks each one whether you're still let in when you come back to the app, and marks one that has run out with an orange lock. **Guided Sign-In** signs in to Cloudflare in Safari first and then goes straight on to the server's own sign-in. **Sign In with Safari First** opens a Kavita sign-in, or a catalog's own sign-in page such as Storyteller's, in Safari, where your passkeys work. See [Cloudflare Access](Cloudflare-Access.html).
 
 ## File Browsing
 

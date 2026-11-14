@@ -12,6 +12,30 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Sign in to Storyteller on its own page
+
+_Version 1.367.0 · 14 November 2026_
+
+- Storyteller catalogs can sign in on Storyteller's own page, so Google, another login or a passkey works, not only a password.
+- Any book server that offers the same kind of sign-in gets the same button.
+
+<img src="images/iphone-18-pro-max/storyteller-web-sign-in.png" width="300" alt="Adding a Storyteller catalog on an iPhone 18 Pro Max: Sign In with Web Page and Use a Page in the App Instead, then the username and password fields under Or with a Username and Password">
+
+<details markdown="1">
+<summary>Everything in 1.367.0</summary>
+
+**New**
+
+- Sign In with Web Page when adding a Storyteller catalog: tap Save with the address filled in, then the button. Storyteller's page opens in Safari's sign-in sheet, and the catalog saves once you're in.
+- Use a Page in the App Instead opens the same page inside MK Plus, for when Safari's sheet won't do. Passkeys can't work there.
+
+**Changed**
+
+- Sign In with Safari First (Settings → Server List) now also decides where a catalog's own sign-in page opens first.
+- When a sign-in made on the page runs out (about a month for Storyteller), the catalog says so: edit it and sign in again.
+
+</details>
+
 ### Tap zones and turn style for a catalog or library
 
 _Version 1.366.0 · 14 November 2026_

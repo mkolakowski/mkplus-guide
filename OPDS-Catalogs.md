@@ -58,7 +58,17 @@ Storyteller lines up an ebook with its audiobook and makes a **readaloud** book:
 - A book that's only an audiobook shows greyed out: MK Plus can't play audiobooks on their own yet.
 - With **Sync Reading Progress** on, your place goes back to Storyteller, so its own apps open where you left off, and the other way round.
 
-Signing in to Storyteller with Google or another login, rather than a password, doesn't work yet.
+#### Sign in on Storyteller's own page
+
+Tap **Save** with only the address filled in, and the form offers **Sign In with Web Page** above the username and password. It opens Storyteller's own sign-in page in Safari's sign-in sheet, so whatever your server offers works there: your password, Google or another login your Storyteller is set up with, or a passkey. Once you're in, the sheet closes and the catalog saves. MK Plus keeps the sign-in it was given safely on your iPhone. If your Storyteller sits behind Cloudflare Access, sign in to that first: see [Cloudflare Access](Cloudflare-Access.html).
+
+**Use a Page in the App Instead** opens the same page inside MK Plus. Passkeys can't work there. Settings → Server List → **Sign In with Safari First** swaps which of the two comes first.
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/storyteller-web-sign-in.png" alt="Adding a Storyteller catalog on an iPhone 18 Pro Max: Sign In with Web Page and Use a Page in the App Instead, then the username and password fields under Or with a Username and Password, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
+
+Storyteller's sign-in lasts about a month. When it runs out, the catalog says so: edit the catalog (swipe its row in the server list) and tap **Sign In with Web Page** again. Any other book server that offers the same kind of sign-in gets the same button.
 
 ## Browse a library
 
