@@ -12,6 +12,24 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Tap zones and turn style for a catalog or library
+
+_Version 1.366.0 · 14 November 2026_
+
+- A catalog, or one library in it, can have its own Tap Zones and Turn Style, so manga can turn one way and novels another.
+- Storyteller's books open with taps that only show the controls, and Slide.
+
+<details markdown="1">
+<summary>Everything in 1.366.0</summary>
+
+**New**
+
+- Tap Zones and Turn Style on a catalog's page, under Reading, for every book from it.
+- A library's own Tap Zones and Turn Style, from the book button at the top of the library. They win over the catalog's, and a book's This Book Only settings win over both.
+- Storyteller's books open with taps that only show and hide the controls (swipe to turn) and Slide, until you choose otherwise.
+
+</details>
+
 ### Tap Zones have their own spot in Settings
 
 _Version 1.365.1 · 13 November 2026_

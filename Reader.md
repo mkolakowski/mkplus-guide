@@ -96,7 +96,7 @@ A profile saves your whole reading setup under a name, such as Manga. In Setting
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/read-tap-zones.png" alt="The tap zones drawn over a comic page, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
-Where you tap decides what happens. Pick a layout under **Tap Zones** in Reading Options, or in Settings → Reading → **Turning Pages**:
+Where you tap decides what happens. Pick a layout under **Tap Zones** in Reading Options, or in Settings → **Tap Zones** (under Controls, below Reader Controls):
 
 | Layout | What it does |
 |---|---|
@@ -162,6 +162,10 @@ Some EPUBs carry their own recording, with each sentence marked as it's spoken. 
 - The Read Aloud bar is laid out like the video player's controls: the sleep timer, **Previous Sentence**, a large **Pause** in the middle, **Next Sentence**, then **Stop**.
 - It keeps playing when you lock your iPhone or switch apps, and the Lock Screen shows the book with play, pause and skip.
 - The speed and the sleep timer (the moon) work as they do for the iPhone's voice.
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/readaloud-narration.png" alt="The Gift of the Magi playing its own narration in the reader on an iPhone 18 Pro Max, with the spoken sentence highlighted and the Read Aloud bar along the bottom: sleep timer, Previous Sentence, Pause, Next Sentence and Stop, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 To have a catalog's readaloud books start playing as they open, turn on **Play Narration When a Book Opens** on its page: see [Storyteller](OPDS-Catalogs.html#storyteller). To have these books read in the iPhone's voice instead, turn off Settings → Reading → **Turning Pages** → **Use the Book's Narration**.
 

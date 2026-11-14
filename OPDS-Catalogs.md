@@ -47,8 +47,13 @@ Settings → Server List → **Sign In with Safari First** swaps which of the tw
 
 Storyteller lines up an ebook with its audiobook and makes a **readaloud** book: the text and the recording in one EPUB, with the spoken sentence marked. Enter its address (it usually listens on port 8001) and sign in with your Storyteller username and password. MK Plus recognises it, and it turns up as Storyteller under **Found on Your Network** too.
 
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/storyteller-catalog.png" alt="A Storyteller catalog's All Books page on an iPhone 18 Pro Max: The Gift of the Magi, Alice's Adventures in Wonderland and The Yellow Wallpaper as covers and in a list, with a Start Reading button, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
+
 - A readaloud book downloads with its recording and opens in the [reader](Reader.html#readaloud-books), where **Read Aloud** plays the narration with the sentence highlighted.
 - To have readaloud books start playing as soon as they open, turn on **Play Narration When a Book Opens** on the catalog's page (Settings → **Server List**, then the catalog). It's off to start with, and it's set for each catalog on its own.
+- A Storyteller book opens with taps that only show and hide the controls (swipe to turn the page) and the **Slide** turn style. To change that, see [How a catalog's books read](#how-a-catalogs-books-read).
 - A book that's only text opens like any other EPUB.
 - A book that's only an audiobook shows greyed out: MK Plus can't play audiobooks on their own yet.
 - With **Sync Reading Progress** on, your place goes back to Storyteller, so its own apps open where you left off, and the other way round.
@@ -93,6 +98,15 @@ If you'd rather not have series pages, turn off Settings → **Catalogs** → **
 Tap a book to open it. With Settings → **Catalogs** → **Stream Comic Pages** on, a Kavita or Komga comic opens straight away and its pages load as you read. With it off, the whole comic downloads first, which reads more smoothly on a slow connection.
 
 With **Sync Reading Progress** on (also in Settings → **Catalogs**), your page goes back to Kavita, Komga or Storyteller as you read and reaching the last page marks the book read. A book you haven't opened on this iPhone starts where the server says you left off, even if you last read it on another device. The books you're partway through also appear in the **Continue Reading** widget on Home.
+
+### How a catalog's books read
+
+A catalog, or one library in it, can have its own **Tap Zones** and **Turn Style**, so manga can turn one way and novels another:
+
+- **The whole catalog:** on its page (Settings → **Server List**, then the catalog), under **Reading**.
+- **One library:** open the library and tap the book button at the top.
+
+Each starts as **Same as Settings** (or **Same as Catalog** for a library), which leaves it to Settings → Reading. A library's choice wins over its catalog's, and a book's own **This Book Only** settings win over both. A book you open from Home follows the library you last opened it from. In the book, **Reading Options** (or **Aa** for an EPUB) shows the library's or catalog's choice and says so; changing it there changes it for the whole library or catalog.
 
 ## Download for offline
 
