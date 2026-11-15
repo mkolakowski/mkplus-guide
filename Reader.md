@@ -86,7 +86,13 @@ Turn on **This Book Only** and what you change here belongs to that one book, so
 
 ### Reading Profiles
 
-A profile saves your whole reading setup under a name, such as Manga. In Settings → **Reading**, tap **Save Current Setup…**, give it a name and tap **Save**. After that, choose it in Reading Options under **Profile**, or from Settings → Reading. Saving under a name you've used already updates that profile.
+A profile saves a reading setup under a name, such as Manga. In Settings → **Reading**, tap **New Profile…**, give it a name and tap **Save**: it starts from your settings as they are now.
+
+Tap a profile to open its own page. **Book Types**, **Page Layout** and **Turning Pages** there change only that profile: turn styles, reading direction, spreads, tap zones, how EPUBs look and Read Aloud. **Used By** lists where it's used. The **…** button has **Make Default**, which copies the profile into Settings → Reading, plus **Rename**, **Duplicate** and **Delete**. To switch to a profile from a book, choose it in Reading Options under **Profile**.
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/reading-profile-page.png" alt="A reading profile's own page on an iPhone 18 Pro Max: Book Types, Page Layout and Turning Pages, then Used By, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 ## Tap zones
 

@@ -12,6 +12,30 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Each reading profile has its own page
+
+_Version 1.370.0 · 14 November 2026_
+
+- Tap a reading profile in Settings → Reading to change what's in it: turn styles, direction, spreads, tap zones, how EPUBs look and Read Aloud.
+- Rename, duplicate or delete a profile, or Make Default to copy it into Settings → Reading.
+
+<img src="images/iphone-18-pro-max/reading-profile-page.png" width="300" alt="A reading profile called Manga on its own page, on an iPhone 18 Pro Max: Book Types, Page Layout and Turning Pages, then Used By, and the … button at the top right">
+
+<details markdown="1">
+<summary>Everything in 1.370.0</summary>
+
+**New**
+
+- Each profile in Settings → Reading → Profiles opens its own page: Book Types, Page Layout and Turning Pages for that profile, and where it's used. The … button has Make Default, Rename, Duplicate and Delete.
+- New Profile starts a profile from Settings → Reading as it is now.
+- Play Narration When a Book Opens in Settings → Reading → Turning Pages, for every book: a book with its own narration starts reading aloud as it opens. A catalog can still turn it on for just its own books.
+
+**Changed**
+
+- Tapping a profile opens it instead of switching to it. To switch, open it and tap Make Default, or pick it in a book's Reading Options as before.
+
+</details>
+
 ### Pick the read-aloud highlight color
 
 _Version 1.368.0 · 14 November 2026_

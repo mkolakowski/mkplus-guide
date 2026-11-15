@@ -99,7 +99,7 @@ The iPhone Duo adds two switches to **Series Pages**: see [On your device](Devic
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/settings-reading.png" alt="Settings → Reading, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
-Settings → **Reading** sets how comics, PDFs and EPUBs read. At the top, **Profiles** lists your saved setups: tap one to switch to it, swipe it to delete it, or tap **Save Current Setup…** to save what's set now. See [Reading Profiles](Reader.html#reading-profiles). Under it are four pages. A book can have its own settings with **This Book Only** in Reading Options.
+Settings → **Reading** sets how comics, PDFs and EPUBs read. At the top, **Profiles** lists your saved setups: tap one to open its own page and change it, or tap **New Profile…** to start one from what's set now. See [Reading Profiles](Reader.html#reading-profiles). Under it are four pages. A book can have its own settings with **This Book Only** in Reading Options.
 
 ### Book Types
 
