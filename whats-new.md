@@ -12,6 +12,31 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Reading Options change just this book
+
+_Version 1.372.0 · 14 November 2026_
+
+- A change in a book's Reading Options or Aa is for that book only, and each setting says where it comes from.
+- Update your profile from the book to use the change everywhere, or Reset This Book.
+- Pick a profile for one book, set its tap zones, and its Read Aloud speed and highlight.
+
+<details markdown="1">
+<summary>Everything in 1.372.0</summary>
+
+**Changed**
+
+- Changing a setting while reading changes it for this book only; it no longer changes Settings → Reading. This Book Only is gone.
+- Under each setting in Reading Options and Aa: where it comes from — this book, a profile, the library, the catalog or Settings.
+- The Profile picker in a book picks a profile for that book.
+
+**New**
+
+- Update (the profile's name) puts this book's changes into its profile, or Update Defaults into Settings → Reading. Reset This Book undoes them.
+- Tap Zones for one book, and Cover Alone in Reading Options.
+- Read Aloud's speed and highlight in an EPUB's Aa, for that book.
+
+</details>
+
 ### Reading profiles for catalogs and libraries
 
 _Version 1.371.0 · 14 November 2026_
