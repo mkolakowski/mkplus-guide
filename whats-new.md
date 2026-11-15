@@ -12,6 +12,24 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A Spotlight that fills its half
+
+_Version 1.372.3 · 15 November 2026_
+
+- Home's Spotlight card is taller, on the item's own backdrop, with how far you are and the time left.
+- Continue Watching under it runs two to a row.
+
+<details markdown="1">
+<summary>Everything in 1.372.3</summary>
+
+**Changed**
+
+- On the open Duo on its side and the iPad, Spotlight's card is taller and drawn on the item's backdrop, so no title is behind the buttons.
+- The card shows a bar and the time left above Resume and Details.
+- Continue Watching under the card runs two to a row, so the left half is filled.
+
+</details>
+
 ### Reading Options change just this book
 
 _Version 1.372.0 · 14 November 2026_

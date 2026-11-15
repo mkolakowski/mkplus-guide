@@ -164,9 +164,9 @@ Home can also list your saved servers (**Shares**, **Jellyfin** and **Catalogs**
 
 ## Home on the open iPhone Duo
 
-<img src="images/duo-open-side/home.png" width="520" alt="Home in Spotlight on the iPhone Duo open on its side: Harbor Lights big on the left with Resume and Details, the shelves on the right">
+<img src="images/duo-open-side/home.png" width="520" alt="Home in Spotlight on the iPhone Duo open on its side: Harbor Lights big on the left with how far you are and Resume and Details, the shelves on the right">
 
-Open on its side, Home starts in **Spotlight**. Left of the fold is the one thing you're most likely to carry on with, big, with **Resume** and **Details** on it and **Continue Watching** under it. Right of the fold are the rest of your shelves. Nothing sits across the fold.
+Open on its side, Home starts in **Spotlight**. Left of the fold is the one thing you're most likely to carry on with, big, drawn on the item's own backdrop, with how far you are (a bar and the time left) and **Resume** and **Details** on it, and **Continue Watching** under it, two to a row. Right of the fold are the rest of your shelves. Nothing sits across the fold.
 
 - With no Continue Watching on that Home, the spotlight shows the newest thing on its first shelf.
 - While you edit Home, it's two columns, so you can drag a widget anywhere.
