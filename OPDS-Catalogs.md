@@ -1,7 +1,7 @@
 ---
 title: "Book servers"
 parent: "Use the app"
-nav_order: 7
+nav_order: 8
 ---
 
 # Book servers
@@ -111,12 +111,12 @@ With **Sync Reading Progress** on (also in Settings → **Catalogs**), your page
 
 ### How a catalog's books read
 
-A catalog, or one library in it, can have its own **Tap Zones** and **Turn Style**, so manga can turn one way and novels another:
+A book server, or one library in it, can have its own [reading profile](Reading-Profiles.html) and single settings of its own, so manga can read one way and novels another:
 
-- **The whole catalog:** on its page (Settings → **Server List**, then the catalog), under **Reading**.
+- **The whole server:** on its page (Settings → **Server List**, then the server), tap **Reading**. **Sync Reading Progress** there can be **On** or **Off** for this server only.
 - **One library:** open the library and tap the book button at the top.
 
-Each starts as **Same as Settings** (or **Same as Catalog** for a library), which leaves it to Settings → Reading. A library's choice wins over its catalog's, and a book's own **This Book Only** settings win over both. A book you open from Home follows the library you last opened it from. In the book, **Reading Options** (or **Aa** for an EPUB) shows the library's or catalog's choice and says so; changing it there changes it for the whole library or catalog.
+Each setting starts as **Same as Settings** (or **Same as Catalog** for a library). A library's choice wins over its server's, and a book's own changes win over both. A book you open from Home follows the library you last opened it from.
 
 ## Download for offline
 
@@ -145,4 +145,4 @@ On a series page, **Auto-Download New Chapters** downloads new volumes and chapt
 
 ---
 
-Previous: [← Reading](Reader.html) · Next: [Pictures →](Image-Viewer.html)
+Previous: [← Reading profiles](Reading-Profiles.html) · Next: [Pictures →](Image-Viewer.html)

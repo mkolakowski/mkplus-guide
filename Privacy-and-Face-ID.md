@@ -1,7 +1,7 @@
 ---
 title: "Privacy and Face ID"
 parent: "Use the app"
-nav_order: 9
+nav_order: 10
 ---
 
 # Privacy and Face ID

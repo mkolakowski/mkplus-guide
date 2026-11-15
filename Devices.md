@@ -1,7 +1,7 @@
 ---
 title: "On your device"
 parent: "Use the app"
-nav_order: 10
+nav_order: 11
 ---
 
 # On your device

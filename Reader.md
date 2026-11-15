@@ -45,7 +45,7 @@ With the controls showing:
 - **Close** and the book's title are at the top left.
 - At the top right are your buttons. To start with they are **Reading Options**, **Show Tap Zones** and **Zoom**. You choose them yourself: see [Lay the controls out your way](#lay-the-controls-out-your-way).
 - The scrubber runs along the bottom. In its **Timeline** style it shows the page you're on at one end and the page count at the other, with a pill to drag between them. **Classic** is the page number over a plain slider. After a big jump, **Back to page 12** (or whichever page you came from) takes you back.
-- A soft dark shade sits behind the buttons at the top and the scrubber at the bottom, so they're easy to see on a white page. The middle of the page stays clear. To turn it off, go to Settings → Reading → **Controls & Closing** → **Shade Behind Controls**.
+- A soft dark shade sits behind the buttons at the top and the scrubber at the bottom, so they stand out on a white page. The middle of the page stays clear. To turn it off, go to Settings → Reading → **Controls & Closing** → **Shade Behind Controls**.
 - **Page Number on Page** keeps a small page number showing while the controls are hidden. It's off to start with.
 
 Turn your iPhone on its side and the book shows two pages side by side, as below.
@@ -76,23 +76,17 @@ Scanned comics and manga often have blank paper round the art. **Trim Borders** 
 
 Tap **Reading Options** in the controls to change how this kind of book reads, without leaving it. It opens as a solid sheet, so a bright page doesn't show through it. On the iPhone Duo on its side it opens to the right of the fold, and a tap on the page to its left closes it.
 
-- **Turn Style**, **Reading Direction** (**Automatic**, **Left to Right** or **Right to Left**), **Two-Page Spreads** and **Trim Borders**.
+- **Profile** picks a [reading profile](Reading-Profiles.html) for this book.
+- **Turn Style**, **Reading Direction** (**Automatic**, **Left to Right** or **Right to Left**), **Two-Page Spreads**, **Cover Alone** and **Trim Borders**.
 - **Page Thumbnails** adds a row of the book's pages, small, by the timeline: scroll along it and tap one to jump there.
 - **Keep Controls When Turning** leaves the controls up as you turn.
-- **Profile** switches your whole reading setup in one tap. See below.
 - **Tap Zones**, **Show Tap Zones**, **Haptic on Page Turn**, **Volume Buttons**, **Auto Turn Every** and **Double-Tap to Zoom**.
 
-Turn on **This Book Only** and what you change here belongs to that one book, so a manga can read right to left while everything else doesn't. Turn it off again to go back to the defaults. Tap **Done** to close the sheet. The same settings live in Settings → **Reading**, which opens as four pages: **Book Types**, **Page Layout**, **Turning Pages** and **Controls & Closing**.
+What you change here is for this book only, so a manga can read right to left while everything else doesn't. The line under each setting says where it comes from: **This book**, a profile's name, the library, the book server or **Settings**. **Update** with the profile's name moves this book's changes into its profile (or **Update Defaults**, into Settings → Reading), and **Reset This Book** undoes them. Tap **Done** to close the sheet. The same settings live in Settings → **Reading**, which opens as four pages: **Book Types**, **Page Layout**, **Turning Pages** and **Controls & Closing**.
 
 ### Reading Profiles
 
-A profile saves a reading setup under a name, such as Manga. In Settings → **Reading**, tap **New Profile…**, give it a name and tap **Save**: it starts from your settings as they are now.
-
-Tap a profile to open its own page. **Book Types**, **Page Layout** and **Turning Pages** there change only that profile: turn styles, reading direction, spreads, tap zones, how EPUBs look and Read Aloud. **Used By** lists where it's used. The **…** button has **Make Default**, which copies the profile into Settings → Reading, plus **Rename**, **Duplicate** and **Delete**. To switch to a profile from a book, choose it in Reading Options under **Profile**.
-
-<div class="shot" markdown="0">
-<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/reading-profile-page.png" alt="A reading profile's own page on an iPhone 18 Pro Max: Book Types, Page Layout and Turning Pages, then Used By, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
-</div>
+A profile saves a reading setup under a name, such as Manga, to give to a book server, a library or one book. See [Reading profiles](Reading-Profiles.html).
 
 ## Tap zones
 
@@ -151,7 +145,7 @@ An EPUB's text reflows to fit your screen. Its controls are a little different:
   - **Turn Style**: **Slide**, **Curl**, **Instant** or **Vertical Scroll**.
 - **Read Aloud** (the speaker) reads the book to you from the page you're on. Its speed and whether it turns pages for you are in Settings → Reading → **Turning Pages**.
 
-The scrubber moves through the book by position. With **Shade Behind Controls** on, the dark shade sits behind the buttons, the Read Aloud bar and the scrubber here too, and they turn light so they stand out on a white page. Tap zones, keys and page turners work as they do for comics. As with comics, **This Book Only** gives one book its own look.
+The scrubber moves through the book by position. With **Shade Behind Controls** on, the dark shade sits behind the buttons, the Read Aloud bar and the scrubber here too, and they turn light so they stand out on a white page. Tap zones, keys and page turners work as they do for comics. As with comics, what you change in **Aa** is for this book only; **Aa** also has this book's Read Aloud speed and highlight.
 
 As in a printed book, the chapter's name and the time left in it sit above the text, and a page number sits under each page, counted from the start of the chapter. They show while the controls are hidden. Turn each off in Settings → Reading → **Book Types** → **Around the Text**.
 
@@ -202,11 +196,12 @@ Every book opens at the page you were last on. For books on a book server, your 
 | A tap turns the page when you wanted the controls | Change **Tap Zones** to **Sides**, or to **Off** and swipe. |
 | A swipe closes the book by accident | Turn off **Swipe Down to Close** in Settings → Reading → **Controls & Closing**. |
 | Pages show two at a time and you don't want that | Set **Two-Page Spreads** to **Always Single** in Reading Options. |
-| A manga reads the wrong way | Set **Reading Direction** to **Right to Left** in Reading Options, with **This Book Only** on to keep it to that book. |
+| A manga reads the wrong way | Set **Reading Direction** to **Right to Left** in Reading Options: it's for that book only. |
 | A button you want isn't in the controls | Add it in Settings → **Reader Controls**. |
 
 ## Related pages
 
+- [Reading profiles](Reading-Profiles.html): one setup for a book server, a library or a book
 - [Book servers](OPDS-Catalogs.html): reading from Kavita or Komga and keeping your place
 - [Media](Settings-Media.html): every Reading setting
 - [Settings](Settings.html): where Reader Controls lives
@@ -214,4 +209,4 @@ Every book opens at the page you were last on. For books on a book server, your 
 
 ---
 
-Previous: [← Listening to music](Music.html) · Next: [Book servers →](OPDS-Catalogs.html)
+Previous: [← Listening to music](Music.html) · Next: [Reading profiles →](Reading-Profiles.html)

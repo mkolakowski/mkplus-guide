@@ -20,6 +20,8 @@ _Version 1.372.0 · 14 November 2026_
 - Update your profile from the book to use the change everywhere, or Reset This Book.
 - Pick a profile for one book, set its tap zones, and its Read Aloud speed and highlight.
 
+<img src="images/iphone-18-pro-max/read-options.png" width="300" alt="Reading Options over a comic on an iPhone 18 Pro Max: Profile Same as Settings, then This Book's Turn Style, Reading Direction, Two-Page Spreads and Cover Alone, each with Settings under its name">
+
 <details markdown="1">
 <summary>Everything in 1.372.0</summary>
 
@@ -44,6 +46,8 @@ _Version 1.371.0 · 14 November 2026_
 - Give a catalog or one of its libraries a reading profile, like Manga or Novels, and every book in it reads that way.
 - Change single settings for just that catalog or library, then Save as Profile… to keep them.
 - A catalog can turn Sync Reading Progress on or off on its own.
+
+<img src="images/iphone-18-pro-max/library-reading.png" width="300" alt="A library's Reading editor on an iPhone 18 Pro Max: Profile Same as Catalog, Reading Direction set to Right to Left, and the other settings Same as Settings with their values">
 
 <details markdown="1">
 <summary>Everything in 1.371.0</summary>

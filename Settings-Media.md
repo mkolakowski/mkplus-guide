@@ -87,7 +87,7 @@ Settings → **Catalogs** is for Kavita, Komga and the other book servers: how t
 - **Series Cards**: **Volumes & Chapters**, **Reading Progress**, **Last Added**, **Start Year**, **Continue Button** and **Summary** switch what a series' card shows.
 - **Section Cards**: **Covers on Section Cards** shows what's in **On Deck**, **Recently Added** or a library on its card. **Cover Cycle** is how they move, **Speed** is how long each stays, and **Blurred Background** washes the main cover behind them.
 - **Series Pages**: **Series Pages** puts a series' cover, summary, progress and a button for what to read next above its volumes. **Cover Behind Series Pages** blurs the cover behind the page.
-- **Reading**: **Stream Comic Pages** opens a comic straight away and loads its pages as you read. **Sync Reading Progress** keeps your place in sync with the server. See [Read, and keep your place](OPDS-Catalogs.html#read-and-keep-your-place).
+- **Reading**: **Stream Comic Pages** opens a comic straight away and loads its pages as you read. **Sync Reading Progress** keeps your place in sync with the server; a server can turn it on or off for itself, under its **Reading**. See [Read, and keep your place](OPDS-Catalogs.html#read-and-keep-your-place).
 
 The iPhone Duo adds two switches to **Series Pages**: see [On your device](Devices.html).
 
@@ -99,7 +99,7 @@ The iPhone Duo adds two switches to **Series Pages**: see [On your device](Devic
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/settings-reading.png" alt="Settings → Reading, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
-Settings → **Reading** sets how comics, PDFs and EPUBs read. At the top, **Profiles** lists your saved setups: tap one to open its own page and change it, or tap **New Profile…** to start one from what's set now. See [Reading Profiles](Reader.html#reading-profiles). Under it are four pages. A book can have its own settings with **This Book Only** in Reading Options.
+Settings → **Reading** sets how comics, PDFs and EPUBs read. At the top, **Profiles** lists your saved setups: tap one to open its own page and change it, or tap **New Profile…** to start one from what's set now. See [Reading profiles](Reading-Profiles.html). Under it are four pages: the default for every book. A book server, a library or one book can read differently with its own profile or settings.
 
 ### Book Types
 

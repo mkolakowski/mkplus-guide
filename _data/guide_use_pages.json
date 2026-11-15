@@ -35,6 +35,11 @@
     "about": "Comics, PDFs and EPUBs: turning pages, tap zones, two-page spreads, Reading Options and Profiles, page turners and laying the buttons out your way"
   },
   {
+    "title": "Reading profiles",
+    "file": "Reading-Profiles.html",
+    "about": "Named reading setups for a book server, a library or one book: what they hold, which wins, tweaks, and changing a book while you read"
+  },
+  {
     "title": "Book servers",
     "file": "OPDS-Catalogs.html",
     "about": "Adding Kavita, Komga and other book servers, browsing series, read marks, progress kept in sync and downloading for offline"
