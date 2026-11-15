@@ -12,6 +12,29 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Reading profiles for catalogs and libraries
+
+_Version 1.371.0 · 14 November 2026_
+
+- Give a catalog or one of its libraries a reading profile, like Manga or Novels, and every book in it reads that way.
+- Change single settings for just that catalog or library, then Save as Profile… to keep them.
+- A catalog can turn Sync Reading Progress on or off on its own.
+
+<details markdown="1">
+<summary>Everything in 1.371.0</summary>
+
+**New**
+
+- A catalog's page has a Reading row, and a library's book button opens the same editor: pick a profile, then change any reading setting for just that place. Each one shows what it's the same as.
+- Save as Profile… turns a catalog's or library's settings into a profile; Clear Tweaks puts them back.
+- Sync Reading Progress for one catalog: same as Settings, on or off.
+
+**Changed**
+
+- A catalog's Tap Zones, Turn Style and Play Narration When a Book Opens now live in that Reading editor, with the rest.
+
+</details>
+
 ### Each reading profile has its own page
 
 _Version 1.370.0 · 14 November 2026_
