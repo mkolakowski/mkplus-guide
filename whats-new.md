@@ -12,6 +12,28 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A Spotlight for books
+
+_Version 1.374.0 · 16 November 2026_
+
+- A book in Spotlight shows its cover big, the chapter and how far you are, with Read and Details.
+- The label on the card is easy to read in every theme.
+
+<details markdown="1">
+<summary>Everything in 1.374.0</summary>
+
+**New**
+
+- Spotlight's card for a book: the cover, the series and chapter, how far you are and where it's from, on the cover's own colors.
+- Details on a book opens its series, where the catalog says which.
+- A Reading Spotlight shows your other books as covers under it, on the open Duo and the iPad.
+
+**Fixed**
+
+- The label on the Spotlight card could be hard to read, such as blue on a red cover. It's lighter now, and the buttons stay readable in a light theme.
+
+</details>
+
 ### Spotlight as a widget
 
 _Version 1.373.0 · 16 November 2026_

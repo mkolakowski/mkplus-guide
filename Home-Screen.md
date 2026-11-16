@@ -87,6 +87,8 @@ Tap it while editing to choose what it shows, under **Gathers**:
 
 Below that, switch servers and catalogs on or off, as for any smart widget.
 
+For a book, the card shows its cover big, with the series, the chapter, how far you are and which catalog it's from, then **Read** and **Details**. **Details** opens the book's series where the catalog says which one it belongs to (Kavita does), or else the list it came from.
+
 - With nothing in progress, it shows the newest thing on that Home's first shelf.
 - With nothing at all to show, it keeps out of the way until you edit Home.
 
@@ -152,9 +154,9 @@ Keep different things apart with separate Homes, such as one for video and one f
 - **Order**: in Settings → Home Screen, drag Homes into the order you like. The top one opens first, unless **Open on Last Viewed Home** is on.
 
 <div class="shot" markdown="0">
-<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home-reading.png" alt="The Reading Home in the Paper theme, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
-<div class="shot-variant shot-duo-front"><img src="images/duo-front/home-reading.png" alt="The Reading Home in the Paper theme, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
-<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/home-reading.png" alt="The Reading Home in the Paper theme, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home-reading.png" alt="The Reading Home in the Paper theme on an iPhone 18 Pro Max: a Spotlight with the comic Tide Pages, Chapter 2, from Comics Shelf, with Read and Details, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/home-reading.png" alt="The Reading Home in the Paper theme on an iPhone 18 Pro Max: a Spotlight with the comic Tide Pages, Chapter 2, from Comics Shelf, with Read and Details, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/home-reading.png" alt="The Reading Home in the Paper theme on an iPhone 18 Pro Max: a Spotlight with the comic Tide Pages, Chapter 2, from Comics Shelf, with Read and Details, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 ## Themes and backdrops
