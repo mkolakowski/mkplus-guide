@@ -39,6 +39,7 @@ The smart widgets are:
 - **Next Up**: the next episode of each show you're partway through on Jellyfin.
 - **Favorites**: what you've marked as a favorite on Jellyfin.
 - **Continue Reading**: where you left off in your Kavita and Komga catalogs (their "On Deck" or "Keep Reading" shelf).
+- **Spotlight**: one big card with the one thing to carry on with. See [Spotlight](#spotlight) below.
 
 A smart widget only shows if you have a server of that kind. In Add Widgets they sit at the top, under **Smart Widgets**.
 
@@ -70,6 +71,25 @@ To take it off again, press and hold it and choose **Remove from Home**.
 
 Private servers are left out unless the Home shows them. See [Privacy and Face ID](Privacy-and-Face-ID.html).
 
+## Spotlight
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home-spotlight.png" alt="A Spotlight widget at the top of Home on an iPhone 18 Pro Max: Harbor Lights big, with how far you are, Resume and Details, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
+
+The **Spotlight** widget is one big card with the thing you're most likely to carry on with: its picture, how far you are (a bar and the time left), and **Resume** and **Details**. Put it anywhere on any Home.
+
+Tap it while editing to choose what it shows, under **Gathers**:
+
+- **Watching**: what you've started on your Jellyfin servers.
+- **Reading**: where you left off in your Kavita and Komga catalogs.
+- **Both**: whichever you had last. A book counts once you've read it in the app on this device.
+
+Below that, switch servers and catalogs on or off, as for any smart widget.
+
+- With nothing in progress, it shows the newest thing on that Home's first shelf.
+- With nothing at all to show, it keeps out of the way until you edit Home.
+
 ## Widget styles
 
 Tap a widget while editing (see below) and choose **Style**. Each style is a different size:
@@ -82,7 +102,7 @@ Tap a widget while editing (see below) and choose **Style**. Each style is a dif
 - **Large Carousel**: big covers that turn sideways, one in the middle.
 - **Small Carousel**: the same, smaller, with blurred covers on each side.
 
-Smart widgets are always shelves, so they don't offer **Tile** or **Cover**.
+Smart widgets are always shelves, so they don't offer **Tile** or **Cover**. Spotlight is always its card, so it has no **Style**.
 
 A shelf also has two more choices:
 
@@ -168,7 +188,8 @@ Home can also list your saved servers (**Shares**, **Jellyfin** and **Catalogs**
 
 Open on its side, Home starts in **Spotlight**. Left of the fold is the one thing you're most likely to carry on with, big, drawn on the item's own backdrop, with how far you are (a bar and the time left) and **Resume** and **Details** on it, and **Continue Watching** under it, two to a row. Right of the fold are the rest of your shelves. Nothing sits across the fold.
 
-- With no Continue Watching on that Home, the spotlight shows the newest thing on its first shelf.
+- With a [Spotlight](#spotlight) widget on that Home, that's the card left of the fold, with what it gathers under it.
+- With no Spotlight or Continue Watching on that Home, the spotlight shows the newest thing on its first shelf.
 - While you edit Home, it's two columns, so you can drag a widget anywhere.
 - To go back to another layout, choose it in Settings → Home Screen → **Unfolded, on Its Side**.
 

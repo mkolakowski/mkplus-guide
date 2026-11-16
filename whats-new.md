@@ -12,6 +12,30 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Spotlight as a widget
+
+_Version 1.373.0 · 16 November 2026_
+
+- Spotlight is now a widget: one big card with what you're partway through, Resume and Details.
+- Put it on any Home, on any iPhone or iPad, and pick whether it shows watching, reading or both.
+
+<img src="images/iphone-18-pro-max/home-spotlight.png" width="300" alt="A Spotlight widget at the top of Home on an iPhone 18 Pro Max: Continue Watching, Harbor Lights big with Drama, 2019, PG-13, a bar and 1 hr 22 min left, then Resume and Details">
+
+<details markdown="1">
+<summary>Everything in 1.373.0</summary>
+
+**New**
+
+- Spotlight in Add Widgets: the one thing to carry on with, big, with how far you are, Resume and Details.
+- In its options, pick Watching, Reading or Both (whichever you had last), and which servers and catalogs it takes from.
+- With nothing in progress, it shows the newest thing on that Home's first shelf.
+
+**Changed**
+
+- On the open Duo on its side and the iPad, Home's Spotlight layout puts your Spotlight widget left of the fold.
+
+</details>
+
 ### A Spotlight that fills its half
 
 _Version 1.372.3 · 15 November 2026_
