@@ -47,7 +47,7 @@ This section decides where Home's buttons sit and how the tab bar behaves.
 - **Servers Tab** adds a **Servers** tab that lists every saved server. It's off to start with. **Hold Servers to Add a Server** makes a hold on that tab open **Add Server**.
 - **Browser Buttons in the Tab Bar** gives a folder's buttons to the tab bar, so **Search** in the bar searches the folder you're in. Off, the tab bar steps aside while a folder shows.
 
-Most of the tab bar's switches are greyed out while **Floating Tab Bar** is off. The iPhone Duo and iPad have a few more here: see [On your device](Devices.html).
+Most of the tab bar's switches are greyed out while **Floating Tab Bar** is off. The iPhone Duo and iPad have a few more here, and big iPhones have **Big iPhones** (Spotlight or One Column on their side): see [On your device](Devices.html).
 
 ### Home's look
 
