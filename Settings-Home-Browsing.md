@@ -83,6 +83,7 @@ Settings → **Server List** lists every server you've saved, and holds the sett
 - **Saved Servers**: tap a server for its page. Its address and sign-in show there, and **Edit** (top right) lets you change them. Swipe a server to delete it. The **+** at the top adds one: see [Getting Started](Getting-Started.html#add-your-first-server).
 - **Private**, on a server's page, hides it until you show it with Face ID. **While Hidden, on Home** is **Hide**, or **Titles Only** to keep its Home widgets as bare titles. See [Privacy and Face ID](Privacy-and-Face-ID.html).
 - **Credentials** are usernames and passwords you keep once and pick for several SMB servers, so they all sign in the same way. Tap **+** (**Add Credential**), fill in **Name**, **Username**, an optional **Domain** and **Password**, and tap **Save**. Changing one changes every server that uses it.
+- **Send Servers to Apple TV** puts the servers you pick on an Apple TV running MK Plus (the Apple TV app is still in testing). On the TV, open **Servers**, then **Get Servers from iPhone**; here, pick the servers, tap the TV's name and type the code it shows. Each arrives with its sign-in. Private servers are never sent.
 - **Show Private Servers** only appears while some are hidden. Tap it to show them with Face ID.
 - **Swap Swipe Directions** flips which way edits and which way deletes.
 - **Server Status** marks each server with the emoji of the address that answered, or a crossed-out symbol if none did.
