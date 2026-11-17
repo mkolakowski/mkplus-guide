@@ -129,6 +129,7 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 
   <img src="images/ipad-air-11/settings-ipad-side.png" width="520" alt="Settings on an iPad Air on its side: the list of pages on the left, Appearance's settings on the right">
 
+- On its side, the image viewer shows **two pictures** at once, one each side of the middle (**Two Pictures on Its Side**, Settings → Image Viewer), and an EPUB keeps its buttons in a column down the right edge (**Controls in the Margins**, Settings → Reading → Book Types). See [Image Viewer](Image-Viewer.html) and [Reader](Reader.html#epubs).
 - **Large Settings** (Settings → Appearance) makes Settings fill most of the screen. Off, it's a smaller card.
 - A video fills the width, and everything else works the same as on an iPhone.
 

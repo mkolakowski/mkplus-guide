@@ -12,6 +12,28 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Two pictures and EPUB margins on iPad
+
+_Version 1.378.0 · 16 November 2026_
+
+- On an iPad held on its side, the image viewer shows two whole pictures at once, one each side of the middle.
+- An EPUB on an iPad on its side keeps its buttons in a column down the right edge, off the words.
+
+<img src="images/ipad-air-11/picture-viewer-ipad-side.png" width="300" alt="The image viewer on an iPad Air on its side: two whole pictures either side of the middle, the strip under the left one and the buttons under the right">
+
+<img src="images/ipad-air-11/read-epub-ipad-side.png" width="300" alt="An EPUB on an iPad Air on its side: two columns of text, a column of buttons down the right edge, Close top left and the slider under the text">
+
+<details markdown="1">
+<summary>Everything in 1.378.0</summary>
+
+**Changed**
+
+- The image viewer on an iPad on its side shows two pictures at once and moves two at a time, with the filmstrip under the left one and the buttons under the right. Upright, it's one picture, as before.
+- An EPUB on an iPad on its side keeps Close, the buttons and the slider off the text: the buttons sit in a column down the right edge, and the text stops short of it.
+- Two Pictures When Open is now Two Pictures on Its Side and shows on an iPad too; Controls in the Margins shows on an iPad as well. Both can be turned off.
+
+</details>
+
 ### Settings in two columns on iPad
 
 _Version 1.377.0 · 16 November 2026_

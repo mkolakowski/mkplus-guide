@@ -44,7 +44,9 @@ MK Plus opens JPEG, PNG, GIF, HEIC, HEIF, BMP, TIFF and WebP files, from any ser
 - **Tap** the middle to show or hide the controls. With **Tap Sides to Move** on (it is to start with), a tap near the left or right edge moves to the previous or next picture instead.
 - **Swipe down** to close the viewer. The picture shrinks back onto its thumbnail in the folder. It doesn't close while you're zoomed in.
 
-On the iPhone Duo open flat on its side, the viewer shows two whole pictures at once, one each side of the fold, and moves two at a time. The count says which two, such as **3 and 4 of 24**, and both are marked in the filmstrip. The filmstrip sits under the left picture and the buttons under the right one, so neither crosses the fold. Turn it off with Settings → **Image Viewer** → **Two Pictures When Open**. **Two Side by Side When Folded** does the same while the Duo is partly folded like a book (it's off to start with).
+On the iPhone Duo open flat on its side, and on an iPad on its side, the viewer shows two whole pictures at once, one each side of the fold (or of the middle, on an iPad), and moves two at a time. The count says which two, such as **3 and 4 of 24**, and both are marked in the filmstrip. The filmstrip sits under the left picture and the buttons under the right one, so neither crosses the fold. Turn it off with Settings → **Image Viewer** → **Two Pictures on Its Side**. **Two Side by Side When Folded** does the same while the Duo is partly folded like a book (it's off to start with).
+
+<img src="images/ipad-air-11/picture-viewer-ipad-side.png" width="520" alt="The image viewer on an iPad Air on its side: two whole pictures either side of the middle, the strip under the left one and the buttons under the right">
 
 ## The controls
 

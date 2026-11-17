@@ -154,6 +154,10 @@ As in a printed book, the chapter's name and the time left in it sit above the t
 
 On the iPhone Duo open on its side, the two columns sit either side of the fold, flat or bent. With **Controls in the Margins** on, the controls stay off the words: **Close** in the top corner, the other buttons down the edge under the clock, and a small scrubber under the text between the page numbers.
 
+On an iPad on its side, **Controls in the Margins** keeps a column down the right edge for the buttons, **Close** in the top left corner and the scrubber under the text, so none covers a word:
+
+<img src="images/ipad-air-11/read-epub-ipad-side.png" width="520" alt="An EPUB on an iPad Air on its side: two columns of text, a column of buttons down the right edge, Close top left and the slider under the text">
+
 ### Readaloud books
 
 Some EPUBs carry their own recording, with each sentence marked as it's spoken. [Storyteller](OPDS-Catalogs.html#storyteller) makes them. In one of these, **Read Aloud** plays the recording instead of the iPhone's voice:
