@@ -121,6 +121,10 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 - Home has its own **iPad** section in Settings → Home Screen. **Upright** and **On Its Side** can each be **One Column**, **Two Columns**, **Two Homes Side by Side**, **Spotlight** (split down the middle) or, on its side, **In a Card**. **Search Bar** puts **Search All Servers** across the top. In a narrow Split View or Slide Over window, Home is one column.
 - **Home Buttons in the Tab Bar** moves **+** and **Edit** into the tab bar.
 - A book shows two pages side by side upright as well as on its side, because **Two Pages When Upright** is on to start with on an iPad.
+- On a book server's series page, with the iPad on its side, **Series Details Beside the List** (Settings → Catalogs) puts the series' details in a column beside its books, as on the Duo. Upright, they stay above the list.
+
+  <img src="images/ipad-air-11/books-series-side.png" width="520" alt="A series on an iPad Air on its side: the cover, title, progress and Continue button in a column on the left, the chapters beside it">
+
 - **Large Settings** (Settings → Appearance) makes Settings fill most of the screen. Off, it's a smaller card.
 - A video fills the width, and everything else works the same as on an iPhone.
 

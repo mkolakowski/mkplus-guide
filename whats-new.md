@@ -12,6 +12,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A series beside its chapters on iPad
+
+_Version 1.376.0 · 16 November 2026_
+
+- On an iPad held on its side, a series' cover, progress and Continue button now sit in a column beside its chapters.
+- Series Details Beside the List is in Settings → Catalogs on iPad too, if you'd rather have them above the list.
+
+<img src="images/ipad-air-11/books-series-side.png" width="300" alt="A series on an iPad Air on its side: the cover, title, progress and Continue button in a column on the left, the chapters beside it">
+
+<details markdown="1">
+<summary>Everything in 1.376.0</summary>
+
+**Changed**
+
+- A series page on an iPad on its side shows its details in a column beside the chapters, as on the iPhone Duo. Upright, they stay above the list.
+- Series Details Beside the List now shows in Settings → Catalogs on an iPad.
+
+</details>
+
 ### Spotlight on big iPhones on their side
 
 _Version 1.375.0 · 16 November 2026_
