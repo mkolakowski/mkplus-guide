@@ -69,7 +69,7 @@ The last group changes Settings itself.
 - **Show Advanced Settings** shows the settings most people never change: the finer points of layout, gestures and animation. It's off to start with. Hidden or not, an advanced setting keeps working as it's set. The pages that follow say which of their settings are advanced.
 - **Show Full Help** writes each section's help out in full. Off to start with, most sections show one short line with **More…** after it. Tap **More…** for the full help, and **Less** to fold it back.
 - **Search Field at the Top** puts a search field, **Search Settings**, above the list. With it off, the tab bar's **Search** button does the searching while you're in Settings. When Settings opens as a sheet, the field is always there.
-- **Two Columns on the Unfolded Duo** shows on an iPhone Duo only. With the Duo unfolded and on its side, it keeps the list of pages on the left and shows the page you pick on the right, like the iPad's Settings app. Partly folded like a book, Settings moves into one half and is one column again. Off, each page fills the screen. It's on to start with.
+- **Two Columns on Its Side** shows on an iPhone Duo and an iPad (it was called Two Columns on the Unfolded Duo). With the Duo unfolded and on its side, or an iPad on its side, it keeps the list of pages on the left and shows the page you pick on the right, like the iPad's Settings app. Partly folded like a book, the Duo's Settings moves into one half and is one column again, and an iPad is one column upright, in a narrow Split View window, or with **Large Settings** off. Off, each page fills the screen. It's on to start with.
 
 ## Controls
 

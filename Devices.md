@@ -90,7 +90,7 @@ The Duo folds, and the app notices how it's held: closed, open, and partly folde
 
 - Home can be **One Column**, **Two Columns**, **Two Homes Side by Side** or **Spotlight**: the one thing to carry on with, big, left of the fold, and your shelves right of it. Upright, it's **Two Columns** to start with; on its side, **Spotlight**. On its side it can also be **In a Card**, a card down the middle. See [Home on the open iPhone Duo](Home-Screen.html#home-on-the-open-iphone-duo). Pick them in Settings → Home Screen → **Unfolded, Upright** and **Unfolded, on Its Side**. **Header in the Top Area** and **Content Under the Bottom Bar** change how upright Home meets the screen's edges.
 - **Home Buttons in the Tab Bar** (Home Screen) moves **+** and **Edit** into the tab bar, so they're within reach.
-- Settings keeps its list of pages on the left and the page you pick on the right, with the Duo on its side. Switch it with **Two Columns on the Unfolded Duo**. See [Settings](Settings.html#settings-display).
+- Settings keeps its list of pages on the left and the page you pick on the right, with the Duo on its side. Switch it with **Two Columns on Its Side**. See [Settings](Settings.html#settings-display).
 - A book shows two pages side by side on its side. Upright it shows one, unless **Two Pages When Upright** is on in Settings → Reading → **Page Layout**.
 - An EPUB on its side keeps a column each side of the fold, with its buttons down the edge under the clock and a small scrubber under the text, off the words (**Controls in the Margins**, Settings → Reading → **Book Types**). See [EPUBs](Reader.html#epubs).
 - A video has its own layout, and the **Media Controls** editor adds two buttons at the top, **Loadout 1** and **Loadout 2**. Tap an empty one to save your layout, tap a saved one to use it, and hold one to save over it or clear it. See [Lay the controls out your way](Video-Player.html#lay-the-controls-out-your-way).
@@ -125,6 +125,10 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 
   <img src="images/ipad-air-11/books-series-side.png" width="520" alt="A series on an iPad Air on its side: the cover, title, progress and Continue button in a column on the left, the chapters beside it">
 
+- On its side, Settings keeps its list of pages on the left and the page you pick on the right, as on the Duo. Switch it with **Two Columns on Its Side** (Settings → Settings Display). Upright, in a narrow Split View window, or with **Large Settings** off, Settings is one column.
+
+  <img src="images/ipad-air-11/settings-ipad-side.png" width="520" alt="Settings on an iPad Air on its side: the list of pages on the left, Appearance's settings on the right">
+
 - **Large Settings** (Settings → Appearance) makes Settings fill most of the screen. Off, it's a smaller card.
 - A video fills the width, and everything else works the same as on an iPhone.
 
@@ -134,7 +138,7 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 |---|---|
 | A setting from this page isn't there | It's for another device, or it's advanced. Turn on **Show Advanced Settings**. |
 | The book shows one page, upright | Turn on **Two Pages When Upright** in Settings → Reading → **Page Layout**. |
-| Settings is one column on an unfolded Duo | It's partly folded like a book, or **Two Columns on the Unfolded Duo** is off. |
+| Settings is one column on an unfolded Duo | It's partly folded like a book, or **Two Columns on Its Side** is off. |
 | Home won't use two columns | Check Settings → Home Screen → **Unfolded, Upright** or **On Its Side**. |
 
 ## Related pages

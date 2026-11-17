@@ -12,6 +12,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Settings in two columns on iPad
+
+_Version 1.377.0 · 16 November 2026_
+
+- On an iPad held on its side, Settings keeps its list of pages on the left and shows the page you pick on the right.
+- The switch is now called Two Columns on Its Side, in Settings Display, and it's on the iPad too.
+
+<img src="images/ipad-air-11/settings-ipad-side.png" width="300" alt="Settings on an iPad Air on its side: the list of pages on the left, Appearance's themes on the right">
+
+<details markdown="1">
+<summary>Everything in 1.377.0</summary>
+
+**Changed**
+
+- Settings on an iPad on its side shows the list of pages on the left and the page you pick on the right, as on the iPhone Duo. Upright, in a narrow Split View window, or with Large Settings off, it stays one column.
+- Two Columns on the Unfolded Duo is now Two Columns on Its Side and shows on an iPad too. Turn it off to have each page fill the screen.
+
+</details>
+
 ### A series beside its chapters on iPad
 
 _Version 1.376.0 · 16 November 2026_
