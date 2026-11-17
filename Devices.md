@@ -112,6 +112,8 @@ With the Duo on its side and bent so the fold runs top to bottom, the two halves
 
 Upright, and bent so the fold runs across, the Duo can stand on a table. **Tabletop Layout** (Video Playback → **Gestures & Buttons**) puts the video on the half that stands up, with the controls on the half resting on the table. A split browser puts one folder above the other.
 
+- Open on its side, the **Servers** tab keeps its list on the left and opens the server you pick on the right: a Jellyfin server's libraries and **Continue Watching**, a catalog's libraries and **Continue Reading**, and a share's top folder with **Recent** over it (the videos and books you opened from it lately). Turn it off with Settings → Home Screen → **Servers Tab Across the Fold**.
+
 ## Big iPhones
 
 - On an iPhone 18 Pro Max or a Plus held on its side, Home starts in **Spotlight**: the one thing to carry on with on the left, your shelves on the right. **Big iPhones** → **On Its Side** in Settings → Home Screen can keep **One Column** instead. A smaller iPhone stays one column.

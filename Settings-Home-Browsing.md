@@ -44,7 +44,7 @@ This section decides where Home's buttons sit and how the tab bar behaves.
 - **Tab Names** shows each tab's name under its symbol. Off, the bar shows symbols only and is smaller.
 - **Magnify on Hold** makes the bar grow when you touch it and slide along it. See [Getting Started](Getting-Started.html#magnify-on-hold).
 - **Tab Badges** puts a count on **Downloads** while things download, and a red ! when one has failed.
-- **Servers Tab** adds a **Servers** tab that lists every saved server. It's off to start with. **Hold Servers to Add a Server** makes a hold on that tab open **Add Server**.
+- **Servers Tab** adds a **Servers** tab that lists every saved server. It's off to start with. On the iPhone Duo open on its side, **Servers Tab Across the Fold** keeps that list on the left and opens the server you pick on the right. **Hold Servers to Add a Server** makes a hold on that tab open **Add Server**.
 - **Browser Buttons in the Tab Bar** gives a folder's buttons to the tab bar, so **Search** in the bar searches the folder you're in. Off, the tab bar steps aside while a folder shows.
 
 Most of the tab bar's switches are greyed out while **Floating Tab Bar** is off. The iPhone Duo and iPad have a few more here, and big iPhones have **Big iPhones** (Spotlight or One Column on their side): see [On your device](Devices.html).

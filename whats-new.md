@@ -12,6 +12,24 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### The Servers tab across the fold
+
+_Version 1.380.0 · 17 November 2026_
+
+- On the iPhone Duo open on its side, the Servers tab keeps its list on the left and opens the server you pick on the right.
+- A share shows the videos and books you opened from it lately, over its top folder.
+
+<details markdown="1">
+<summary>Everything in 1.380.0</summary>
+
+**New**
+
+- The Servers tab across the fold: pick a server on the left and its page opens on the right, the list staying put, so you can go from one to the next.
+- A share's page there starts with Recent: the videos and books you opened from it, newest first.
+- Servers Tab Across the Fold, in Settings → Home Screen on the iPhone Duo, turns it off.
+
+</details>
+
 ### Two pictures and EPUB margins on iPad
 
 _Version 1.378.0 · 16 November 2026_
