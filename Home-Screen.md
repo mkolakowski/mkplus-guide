@@ -182,7 +182,17 @@ Home can also list your saved servers (**Shares**, **Jellyfin** and **Catalogs**
 
 - A Home can be locked with Face ID, Touch ID or your passcode: press and hold its name and choose **Lock with…**. Private servers and locked Homes are covered in [Privacy and Face ID](Privacy-and-Face-ID.html).
 - A new server adds its own widgets to your first Home, unless you turn off Settings → Home Screen → **Add Widgets for New Servers**.
-- On the unfolded iPhone Duo and on iPad, Settings → Home Screen can show Home as **One Column**, **Two Columns**, **Two Homes Side by Side**, **Spotlight**, or **In a Card** down the middle.
+- On a big iPhone on its side, Home is [Spotlight or one column](#home-on-a-big-iphone-on-its-side). On the unfolded iPhone Duo and on iPad, Settings → Home Screen can show Home as **One Column**, **Two Columns**, **Two Homes Side by Side**, **Spotlight**, or **In a Card** down the middle.
+
+## Home on a big iPhone on its side
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/home-big-phone.png" alt="Home on an iPhone 18 Pro Max held on its side: Harbor Lights big on the left with how far you are and Resume and Details, the shelves on the right, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
+
+Hold an iPhone 18 Pro Max (or a Plus) on its side and Home starts in **Spotlight**: the one thing you're most likely to carry on with, big, on the left, with **Resume** and **Details**, and your shelves on the right. A screen at least 900 points wide counts as big, so a smaller iPhone such as the 17e keeps one column. While you edit Home, it's one column.
+
+- To keep one column on its side, choose **One Column** in Settings → Home Screen → **Big iPhones**.
 
 ## Home on the open iPhone Duo
 

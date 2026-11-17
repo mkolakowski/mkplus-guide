@@ -12,6 +12,28 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Spotlight on big iPhones on their side
+
+_Version 1.375.0 · 16 November 2026_
+
+- Hold an iPhone Pro Max or Plus on its side and Home shows Spotlight: what you're partway through, big, on the left and your shelves on the right.
+- Prefer one column? Choose it in Settings → Home Screen → Big iPhones.
+
+<img src="images/iphone-18-pro-max/home-big-phone.png" width="300" alt="Home on an iPhone 18 Pro Max held on its side: Harbor Lights big on the left with a bar and 1 hr 22 min left, Resume and Details, the shelves on the right">
+
+<details markdown="1">
+<summary>Everything in 1.375.0</summary>
+
+**New**
+
+- Big iPhones, in Settings → Home Screen: pick Spotlight or One Column for Home held on its side.
+
+**Changed**
+
+- Home on an iPhone Pro Max or Plus held on its side now starts in Spotlight instead of one column. Smaller iPhones stay one column.
+
+</details>
+
 ### A Spotlight for books
 
 _Version 1.374.0 · 16 November 2026_
