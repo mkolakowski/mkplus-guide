@@ -12,6 +12,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Folders as big as libraries on the Duo
+
+_Version 1.382.0 · 17 November 2026_
+
+- On the iPhone Duo, a folder starts with its name, big, and what's inside: how many videos or pictures, their size and the share.
+- Open, a folder of videos or pictures starts as a grid, and Select sits in the side bar beside Layout and Sort.
+
+<details markdown="1">
+<summary>Everything in 1.382.0</summary>
+
+**New**
+
+- Videos and Pictures as a Grid, in Settings → File Browsing on the iPhone Duo: with it open, a folder of only videos or pictures starts as the large grid. A layout you pick in a folder is kept for that folder.
+
+**Changed**
+
+- A share's folder on the iPhone Duo starts with its name and what's inside, as a library does, instead of the name in the bar.
+- Select is now in the Duo's side bar with Layout and Sort, instead of the top left.
+
+</details>
+
 ### The Servers tab across the fold
 
 _Version 1.380.0 · 17 November 2026_
