@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Add Widgets shows what each widget looks like
+
+_Version 1.387.0 · 17 November 2026_
+
+- Each smart widget in Add Widgets has a small picture of how it looks on Home.
+- On the open iPhone Duo on its side, Add Widgets opens beside the fold, with Home still in view.
+
+<details markdown="1">
+<summary>Everything in 1.387.0</summary>
+
+**New**
+
+- A small picture and a line for each smart widget in Add Widgets: Spotlight, Continue Watching, Next Up, Continue Reading and Favorites.
+
+**Changed**
+
+- On the open iPhone Duo on its side, Add Widgets is a panel right of the fold, so a widget you add shows on Home straight away.
+
+</details>
+
 ### Folders as big as libraries on the Duo
 
 _Version 1.382.0 · 17 November 2026_
