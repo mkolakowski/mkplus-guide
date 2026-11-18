@@ -60,6 +60,8 @@ Turn your iPhone on its side and the book shows two pages side by side, as below
 
 **Two-Page Spreads** can be **Automatic**, **Always Single** or **Always Two Pages**. On **Automatic**, a book shows two pages side by side when your iPhone is on its side. An iPad or an unfolded iPhone Duo does it upright too, when **Two Pages When Upright** is on. A picture that is already a double page shows by itself, and **Cover Alone** keeps the first page on its own so the rest pair up as they would in print. The Duo's front screen, and any phone held upright, shows one page.
 
+With spreads showing, a page shown alone sits on its own half, as in a printed book: the cover on the right, with the left plain, and the last page on the left. A book read right to left mirrors that. **Lone Pages Like a Book** (Settings → Reading → **Page Layout**, with Show Advanced Settings on) turns it off, and a lone page then sits in the middle.
+
 Change them in Settings → Reading → **Page Layout**, or for the book in front of you in Reading Options.
 
 ## Trim the blank paper
