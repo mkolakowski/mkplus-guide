@@ -135,7 +135,7 @@ Tap **Select**, then tap files to tick them. **Select All** ticks everything in 
 
 **Downloads** keeps things on your iPhone so you can use them without a connection. Press and hold a Jellyfin movie or episode and choose **Download**. For a book on a book server, choose **Download to Read Offline**.
 
-The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to Watch** and **Ready to Read**. A series set to download automatically appears under **Auto-Downloading**. Where you got to is sent back to the server the next time it can be reached. To get rid of one, press and hold it and choose **Remove Download**.
+The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to Watch** and **Ready to Read**. A series set to download automatically appears under **Auto-Downloading**. Where you got to is sent back to the server as soon as it can be reached, unless you've got further on another device in the meantime. To get rid of one, press and hold it and choose **Remove Download**.
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/downloads.png" alt="The Downloads tab, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>

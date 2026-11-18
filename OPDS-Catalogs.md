@@ -120,7 +120,7 @@ Each setting starts as **Same as Settings** (or **Same as Catalog** for a librar
 
 ## Download for offline
 
-Press and hold a book and choose **Download to Read Offline**. It's saved on your iPhone under **Downloads**, in **Ready to Read**, and the catalog opens that copy from then on. Your place is kept either way and sent back to the server when it can be reached.
+Press and hold a book and choose **Download to Read Offline**. It's saved on your iPhone under **Downloads**, in **Ready to Read**, and the catalog opens that copy from then on. Your place is kept either way and sent back to the server as soon as it can be reached, unless you've read further on another device in the meantime.
 
 On a series page, **Auto-Download New Chapters** downloads new volumes and chapters by itself as they appear, when MK Plus opens. Press and hold a download in **Downloads** and choose **Remove Download** to get rid of it. See [Browsing your files](Browsing.html#downloads-for-offline).
 

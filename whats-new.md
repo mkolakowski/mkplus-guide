@@ -12,6 +12,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Offline watching and reading catch up by themselves
+
+_Version 1.393.0 · 18 November 2026_
+
+- Where you got to in a download, watched offline, reaches Jellyfin as soon as you're back online, with no need to open Downloads.
+- Pages of a downloaded book read offline reach Kavita, Komga or Storyteller once you're back online too.
+- A place only moves forward: if you got further on another device meanwhile, it's kept.
+
+<details markdown="1">
+<summary>Everything in 1.393.0</summary>
+
+**Changed**
+
+- A downloaded video's place from watching offline is sent to Jellyfin when the app comes back online, not only when you open Downloads, and only if it's further along than Jellyfin's own.
+
+**New**
+
+- Pages of a downloaded book read offline are sent to its catalog once it can be reached, when the catalog keeps your place and it's further along than the catalog's.
+
+</details>
+
 ### Add Widgets shows what each widget looks like
 
 _Version 1.387.0 · 17 November 2026_
