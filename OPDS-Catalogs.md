@@ -52,7 +52,7 @@ Storyteller lines up an ebook with its audiobook and makes a **readaloud** book:
 </div>
 
 - A readaloud book downloads with its recording and opens in the [reader](Reader.html#readaloud-books), where **Read Aloud** plays the narration with the sentence highlighted.
-- To have readaloud books start playing as soon as they open, turn on **Play Narration When a Book Opens** on the catalog's page (Settings → **Server List**, then the catalog). It's off to start with, and it's set for each catalog on its own.
+- To have readaloud books start playing as soon as they open, turn on **Play Narration When a Book Opens** under **Read Aloud** in the catalog's **Reading** page (Settings → **Server List**, then the catalog, then **Reading**). It's set for each catalog on its own and follows Settings until you change it (off to start with).
 - A Storyteller book opens with taps that only show and hide the controls (swipe to turn the page) and the **Slide** turn style. To change that, see [How a catalog's books read](#how-a-catalogs-books-read).
 - A book that's only text opens like any other EPUB.
 - A book that's only an audiobook shows greyed out: MK Plus can't play audiobooks on their own yet.

@@ -45,7 +45,7 @@ Tap a library to open it.
 
 A movie or show library opens as **Posters**: each film's poster with its name and year under it. A tick marks what you've watched, a heart your favorites, and a bar along a poster's foot shows how far in you are. Above the posters are the library's name, how many there are and their order, and three buttons: **All**, **Unwatched** and **Favorites**.
 
-The layout button changes a library to a list or one of the other layouts, and sort and the press-and-hold menu work as described in [Browsing your files](Browsing.html). Settings → **Jellyfin** → **Movie and Show Libraries** picks the layout these libraries open in. A Jellyfin library can also be sorted by **Episode**.
+The layout button changes a library to a list or one of the other layouts, and sort and the press-and-hold menu work as described in [Browsing your files](Browsing.html). Settings → **Jellyfin** → **Movie and Show Libraries** picks the layout these libraries open in. Inside a show or a season, you can also sort by **Episode**.
 
 ## A movie's page
 
