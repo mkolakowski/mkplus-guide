@@ -71,6 +71,8 @@ Tap **Playback Options**. By default it opens a short menu with **Subtitles**, *
 
 Tap **Done** to close it. If you'd rather a tap on the button opened the sheet or the full menu, change Settings → Video Playback → Gestures & Buttons → **Playback Options Button Opens** to **Full Menu** or **Sheet**.
 
+With a soundbar or receiver connected over HDMI, Settings → Video Playback → Up Next & Playback → **2.1 Sound** sends a surround track's bass to the subwoofer on its own, for videos the New Video Player plays. Over Bluetooth, AirPlay, headphones or the speaker the bass is mixed into left and right instead, as it is with the switch off.
+
 The rest of the subtitle settings live in Settings → Video Playback → **Subtitles**, including **Subtitle Files Beside Videos** (it offers subtitle files that sit next to a video on a share) and **Generate Subtitles** (the app makes subtitles from the sound, on your iPhone, for videos Apple's player doesn't play).
 
 ## The player's settings

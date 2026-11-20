@@ -12,6 +12,32 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### 2.1 sound, and surround tracks keep their bass
+
+_Version 1.396.0 · 20 November 2026_
+
+- 2.1 Sound, a new switch in Settings → Video Playback → Up Next & Playback, sends a surround track's bass to your soundbar's subwoofer on its own.
+- Surround tracks keep their bass when played in stereo: it used to be left out.
+
+<details markdown="1">
+<summary>Everything in 1.396.0</summary>
+
+**New**
+
+- 2.1 Sound (off to start with): with a soundbar or receiver connected over HDMI, videos the New Video Player plays send left, right and bass. Over Bluetooth, AirPlay, headphones or the speaker the bass is mixed into left and right.
+
+**Changed**
+
+- A 5.1 or 7.1 track played in stereo keeps its bass channel, mixed into left and right, instead of leaving it out.
+
+**Apple TV**
+
+- 2.1 Sound in Settings → Playback sends left, right and bass to a soundbar or receiver over HDMI, or eARC through the TV. Over ARC, optical or Bluetooth the bass is mixed into left and right.
+- Surround tracks keep their bass in stereo too.
+- When the sound's output changes mid-video (a soundbar turned on or off), the sound picks up again, mixed for the new output.
+
+</details>
+
 ### Offline watching and reading catch up by themselves
 
 _Version 1.393.0 · 18 November 2026_
