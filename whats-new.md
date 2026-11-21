@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Build a Home from your libraries
+
+_Version 1.400.0 · 20 November 2026_
+
+- Press and hold a Home's name and choose Build a Home: the app looks at your servers' libraries and makes a Home with a shelf for your movies, shows, music and books.
+- A new install's first server starts the same way.
+
+<details markdown="1">
+<summary>Everything in 1.400.0</summary>
+
+**New**
+
+- Build a Home, in a Home name's menu, the Home tab's menu and Settings → Home Screen, makes a new Home from your servers' libraries. Private servers stay off it.
+
+**Changed**
+
+- A server you add now also gets a shelf for its music and book libraries, not only movies and shows.
+
+</details>
+
 ### Large controls on the iPhone Duo bent open
 
 _Version 1.397.0 · 20 November 2026_

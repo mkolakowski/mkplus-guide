@@ -31,6 +31,7 @@ The top section lists your Homes, each with how many widgets it holds. The one a
 
 - Drag a Home by its handle to put your Homes in order. Tap one to open its own page (below).
 - **New Home** makes another one.
+- **Build a Home** makes a new one from your servers' libraries.
 - **Open on Last Viewed Home** opens the app on the Home you last looked at, instead of the top one.
 - **Add Widgets for New Servers** puts a server you add on your top Home as soon as you save it: its tile, plus **Continue Watching**, **Next Up** and its newest movies and shows for Jellyfin, or **Continue Reading** for a book server. A private server's widgets only go on a Home that shows private servers.
 

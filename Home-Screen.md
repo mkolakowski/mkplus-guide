@@ -149,6 +149,7 @@ You can also manage a Home's widgets from its settings: press and hold the Home'
 Keep different things apart with separate Homes, such as one for video and one for books. Each Home has its own widgets, theme and backdrop.
 
 - **Make one**: press and hold a Home's name and choose **New Home**, then give it a name.
+- **Build one from your libraries**: press and hold a Home's name and choose **Build a Home**. It makes a new Home with each server's tile, Continue Watching, Next Up and Continue Reading where they apply, and a Recently Added shelf for each movie, show, music and book library. A server that isn't there, or a kind of library you don't have, is left out. Private servers stay off it until you turn on Show Private Servers for that Home. The first server you add on a new install gets its Home the same way.
 - **Switch**: tap a Home in the switch beside the big title. With Settings → Home Screen → **Single Home Name** on, only the Home you're on shows its name: swipe sideways to go to the next one, or press and hold the name for the list.
 - **Change or remove one**: press and hold its name for **Home Screen Settings**, **Theme**, **Lock with…** and **Delete**. Deleting a Home removes only its widgets. Your servers and folders stay as they are.
 - **Order**: in Settings → Home Screen, drag Homes into the order you like. The top one opens first, unless **Open on Last Viewed Home** is on.
