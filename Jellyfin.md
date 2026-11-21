@@ -148,6 +148,7 @@ The code is also copied, in case signing in lands you somewhere else in Jellyfin
 - [Get started](Getting-Started.html): adding a server
 - [Watching video](Video-Player.html): Playback Options and the controls
 - [Browsing your files](Browsing.html): sort, layout and downloads
+- [Listening to music](Music.html): downloading albums and playlists for offline
 - [Your Home](Home-Screen.html): Search All Servers and the house button
 - [Media](Settings-Media.html): the Jellyfin settings
 
