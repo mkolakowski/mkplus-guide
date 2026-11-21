@@ -104,14 +104,14 @@ With the Duo on its side and bent so the fold runs top to bottom, the two halves
 
 - Home: **Clear of the Fold** puts **Two Columns** and **Two Homes Side by Side** either side of the fold, and shows **In a Card** as **Two Columns**. **Spotlight** always keeps to either side of the fold.
 - Settings moves into one half, as one column.
-- A video: **Book Layout** (Video Playback → **Gestures & Buttons**) puts the picture in one half and the controls in the other.
+- A video: **Book Layout** (Video Playback → **Gestures & Buttons**) puts the picture in one half and the controls in the other. With **Large Controls** on, that half shows big skip and Play/Pause buttons and a wide timeline, which stay up while the rest of the controls hide (**Always Show Large Controls**).
 - A book: **Pages Either Side of the Fold** (Reading → **Page Layout**) leaves a gap as wide as the fold between two pages. An EPUB's two columns keep to either side of the fold when the Duo lies flat too.
 - Pictures: **Two Side by Side When Folded** (Image Viewer) shows two pictures at once, one each side of the fold, and moves on two at a time.
 - Browsing: **Split When Folded** puts a folder in one half and your saved servers in the other when you fold the Duo from flat. **From Home Too** does it from Home as well.
 
 ### Partly folded, like a laptop
 
-Upright, and bent so the fold runs across, the Duo can stand on a table. **Tabletop Layout** (Video Playback → **Gestures & Buttons**) puts the video on the half that stands up, with the controls on the half resting on the table. A split browser puts one folder above the other.
+Upright, and bent so the fold runs across, the Duo can stand on a table. **Tabletop Layout** (Video Playback → **Gestures & Buttons**) puts the video on the half that stands up, with the controls on the half resting on the table: big skip and Play/Pause buttons and a wide timeline, with **Large Controls** on. A split browser puts one folder above the other.
 
 - Open on its side, the **Servers** tab keeps its list on the left and opens the server you pick on the right: a Jellyfin server's libraries and **Continue Watching**, a catalog's libraries and **Continue Reading**, and a share's top folder with **Recent** over it (the videos and books you opened from it lately). Turn it off with Settings → Home Screen → **Servers Tab Across the Fold**.
 

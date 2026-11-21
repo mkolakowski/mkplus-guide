@@ -141,6 +141,7 @@ MK Plus has two players behind the same controls. Apple's player handles what iO
 
 - On the Duo's front screen, the status bar sits in a strip down one side and the controls keep clear of it.
 - Partly folded, an unfolded Duo can stand the video on one half and keep the controls on the other. Settings → Video Playback → Gestures & Buttons has **Tabletop Layout** and **Book Layout** for that.
+- In either layout, **Large Controls** fills the half without the video with big buttons to skip back, play or pause, and skip forward, and a wide timeline. They're easy to reach from across a table. **Always Show Large Controls** keeps them up while the rest of the controls hide.
 - The unfolded Duo has two **Loadout** buttons at the top of the Media Controls editor. Tap an empty one to save the layout you have, and tap a saved one to use it.
 - On iPad the video fills the width, and everything else works the same.
 

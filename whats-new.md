@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Large controls on the iPhone Duo bent open
+
+_Version 1.397.0 · 20 November 2026_
+
+- With the Duo bent open like a laptop or a book, the half without the video now has big buttons to skip and play or pause, and a wide timeline.
+- They stay up while the rest of the controls hide. Turn that off with Always Show Large Controls.
+
+<details markdown="1">
+<summary>Everything in 1.397.0</summary>
+
+**New**
+
+- Large Controls (iPhone Duo, Tabletop and Book Layouts): big skip back, Play/Pause and skip forward buttons and a wide timeline fill the half without the video, in place of the usual timeline and buttons there.
+- Always Show Large Controls keeps them on screen while the rest of the controls hide; off, they come and go with the rest.
+
+</details>
+
 ### 2.1 sound, and surround tracks keep their bass
 
 _Version 1.396.0 · 20 November 2026_
