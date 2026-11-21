@@ -65,6 +65,8 @@ The full screen has everything about the song and the controls for it:
 
 Tap **Queue** at the top right to see what's playing and what's next, in the order it will play. The song playing now has a speaker beside it. Tap any song to jump to it, and tap **Done** to go back.
 
+An audiobook from a Storyteller catalog plays in Now Playing too, with a book's buttons in place of some of these: skips of 15 and 30 seconds, its speed, a sleep timer and its chapters. See [Storyteller](OPDS-Catalogs.html#storyteller).
+
 ## In the background and on the Lock Screen
 
 Music carries on when you switch to another app or lock your iPhone. Its title, cover and play, pause, next and previous buttons show on the Lock Screen and in Control Center. Settings → Video Playback → **Up Next & Playback** → **Lock Screen Controls** is the switch for them.
