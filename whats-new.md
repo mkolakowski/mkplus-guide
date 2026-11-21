@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Storyteller audiobooks play
+
+_Version 1.402.0 · 21 November 2026_
+
+- A Storyteller book that's only an audiobook now plays in the music player instead of showing greyed out.
+- The chapter you're in shows under the title, with buttons to skip back 15 seconds and on 30, a speed, a sleep timer and the book's chapters.
+- It opens where you stopped, and keeps your place on Storyteller too.
+
+<img src="images/iphone-18-pro-max/audiobook-player.png" width="300" alt="An audiobook-only Storyteller book playing on an iPhone 18 Pro Max: the chapter under the title, the bar across the chapter, skip back 15 and on 30 seconds, and the speed, Stop and sleep timer below">
+
+<details markdown="1">
+<summary>Everything in 1.402.0</summary>
+
+**New**
+
+- Audiobook-only books from a Storyteller catalog play straight from the server in the music player: the chapter under the title, the bar across the chapter, skip back 15 seconds and on 30, speed, a sleep timer (minutes, or the end of the chapter) and the chapters behind the list button.
+- Where you stopped is kept, and sent to Storyteller when Sync Reading Progress is on.
+
+</details>
+
 ### Build a Home on an empty Home
 
 _Version 1.400.1 · 20 November 2026_

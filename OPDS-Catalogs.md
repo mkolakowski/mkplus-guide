@@ -55,7 +55,12 @@ Storyteller lines up an ebook with its audiobook and makes a **readaloud** book:
 - To have readaloud books start playing as soon as they open, turn on **Play Narration When a Book Opens** under **Read Aloud** in the catalog's **Reading** page (Settings → **Server List**, then the catalog, then **Reading**). It's set for each catalog on its own and follows Settings until you change it (off to start with).
 - A Storyteller book opens with taps that only show and hide the controls (swipe to turn the page) and the **Slide** turn style. To change that, see [How a catalog's books read](#how-a-catalogs-books-read).
 - A book that's only text opens like any other EPUB.
-- A book that's only an audiobook shows greyed out: MK Plus can't play audiobooks on their own yet.
+- A book that's only an audiobook plays in the music player. Under the title is the chapter you're in, and the bar along the bottom runs across that chapter. The buttons either side of Play skip back 15 seconds and on 30. Where the music player has shuffle and repeat, a book has its speed and a sleep timer (after a number of minutes, or at the end of the chapter). The list button shows the book's chapters: tap one to play from its start. It plays straight from Storyteller, and opens where you stopped.
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/audiobook-player.png" alt="An audiobook-only book playing on an iPhone 18 Pro Max: the cover, the title, author and Chapter 2 · The Second Tone under it, the bar across the chapter, skip back 15 and skip on 30 either side of Pause, and the speed (1.0×), Stop and the sleep timer below, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
+
 - With **Sync Reading Progress** on, your place goes back to Storyteller, so its own apps open where you left off, and the other way round.
 
 #### Sign in on Storyteller's own page
