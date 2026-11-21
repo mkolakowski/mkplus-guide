@@ -75,7 +75,7 @@ The last group changes Settings itself.
 
 Three rows lay out the buttons of the player, the reader and the picture viewer. Each opens full screen, on a sample, so you see every change as you make it.
 
-- **Media Controls** lays out the video player's buttons, title and timeline. See [Lay the controls out your way](Video-Player.html#lay-the-controls-out-your-way).
+- **Media Controls** lays out the video player's buttons, title and timeline. With an iPhone Duo bent open, it lays out the large controls instead. See [Lay the controls out your way](Video-Player.html#lay-the-controls-out-your-way).
 - **Reader Controls** lays out a book's buttons, title, scrubber and page number, on a sample comic. See [Lay the controls out your way](Reader.html#lay-the-controls-out-your-way).
 - **Tap Zones** sets which parts of a page turn it when you tap: a preset (**Sides**, **Kindle**, **Edges Only**, **One-Handed (Right)**, **One-Handed (Left)**, **Forward Anywhere**, **Off** or **Custom**), or nine zones of your own in **Custom Zones**. **Follow Reading Direction** swaps the sides in a right-to-left book. With Show Advanced Settings on, it also has **Show Zones After a Change** and **Hold to Flip**. See [Tap zones](Reader.html#tap-zones).
 - **Image Viewer Controls** lays out the picture viewer's buttons, title and filmstrip or timeline. See [Lay the controls out your way](Image-Viewer.html#lay-the-controls-out-your-way).
