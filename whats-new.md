@@ -12,6 +12,22 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Edit the large controls by bending the iPhone Duo
+
+_Version 1.406.0 · 21 November 2026_
+
+- Open Media Controls and bend the Duo like a laptop or a book: the editor turns into the bent player, so you can pick every big button and the row under them.
+- Lay it flat again to edit the usual controls.
+
+<details markdown="1">
+<summary>Everything in 1.406.0</summary>
+
+**New**
+
+- Media Controls follows the Duo's bend: bent open, it shows the large controls with every button ready to change or drag, plus the Large Controls and Always Show switches.
+
+</details>
+
 ### A rounder, roomier tab bar on the Duo
 
 _Version 1.405.0 · 21 November 2026_
