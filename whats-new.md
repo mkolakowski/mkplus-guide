@@ -12,6 +12,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Readaloud books keep each sentence on one page
+
+_Version 1.404.0 · 21 November 2026_
+
+- In a readaloud book, a sentence that would run past the bottom of a page now starts on the next one, so the highlighted sentence is never cut in two by a page turn.
+- Turn it off with Keep Sentences on One Page in Settings → Reading → Turning Pages.
+
+<details markdown="1">
+<summary>Everything in 1.404.0</summary>
+
+**New**
+
+- Keep Sentences on One Page, in Settings → Reading → Turning Pages, on to start with.
+
+**Fixed**
+
+- At large text sizes, a readaloud book's highlighted sentence could start with one word at the bottom of a page and the rest on the next page.
+- A sentence longer than a whole page now turns to its next page as the narration reaches it.
+
+</details>
+
 ### More buttons on the iPhone Duo's large controls
 
 _Version 1.403.0 · 21 November 2026_

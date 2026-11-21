@@ -165,6 +165,7 @@ On an iPad on its side, **Controls in the Margins** keeps a column down the righ
 Some EPUBs carry their own recording, with each sentence marked as it's spoken. [Storyteller](OPDS-Catalogs.html#storyteller) makes them. In one of these, **Read Aloud** plays the recording instead of the iPhone's voice:
 
 - The sentence being spoken is highlighted (in teal, or the color you pick in Settings → Reading → Turning Pages → **Highlight Color**), and the page turns to follow it.
+- A sentence that would run past the bottom of a page starts on the next page instead, so the highlighted sentence is never cut in two by a page turn. Pages sometimes end a line or two early because of it. A sentence longer than a whole page still splits, and the page turns partway through it. To lay the pages out as other books are, turn off Settings → Reading → **Turning Pages** → **Keep Sentences on One Page**.
 - The Read Aloud bar is laid out like the video player's controls: the sleep timer, **Previous Sentence**, a large **Pause** in the middle, **Next Sentence**, then **Stop**.
 - It keeps playing when you lock your iPhone or switch apps, and the Lock Screen shows the book with play, pause and skip.
 - The speed and the sleep timer (the moon) work as they do for the iPhone's voice.
