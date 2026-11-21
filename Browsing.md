@@ -81,7 +81,7 @@ Press and hold a file or folder to see what you can do with it. What's in the me
 - **Pin to Top** (folders) keeps a folder at the top of its list. **Unpin** puts it back.
 - **Add to Home** (servers, libraries and folders) puts a widget on your Home.
 - **Mark as Watched** and **Mark as Unwatched**, and **Add to Favorites** and **Remove from Favorites**, on Jellyfin.
-- **Download** (Jellyfin movies and episodes) and **Download to Read Offline** (books on a book server). See Downloads below.
+- **Download** (Jellyfin movies, episodes and songs), **Download Album** and **Download Playlist** (Jellyfin music), and **Download to Read Offline** or **Download to Listen Offline** (books on a book server). See Downloads below.
 - **Select**, **Copy**, **Cut**, **Move**, **Rename**, **Show Info** and **Delete**, for files and folders on a share or in your cloud storage.
 
 <div class="shot" markdown="0">
@@ -133,9 +133,9 @@ Tap **Select**, then tap files to tick them. **Select All** ticks everything in 
 
 ## Downloads for offline
 
-**Downloads** keeps things on your iPhone so you can use them without a connection. Press and hold a Jellyfin movie or episode and choose **Download**. For a book on a book server, choose **Download to Read Offline**.
+**Downloads** keeps things on your iPhone so you can use them without a connection. Press and hold a Jellyfin movie, episode or song and choose **Download**; press and hold an album or a playlist and choose **Download Album** or **Download Playlist** to save all its songs. For a book on a book server, choose **Download to Read Offline**, or **Download to Listen Offline** for one that is only an audiobook.
 
-The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to Watch** and **Ready to Read**. A series set to download automatically appears under **Auto-Downloading**. Where you got to is sent back to the server as soon as it can be reached, unless you've got further on another device in the meantime. To get rid of one, press and hold it and choose **Remove Download**.
+The **Downloads** tab lists what's saved, in groups: **Downloading**, **Ready to Watch**, **Ready to Listen** (songs and audiobooks, which play in the music player) and **Ready to Read**. A series set to download automatically appears under **Auto-Downloading**. Where you got to is sent back to the server as soon as it can be reached, unless you've got further on another device in the meantime. To get rid of one, press and hold it and choose **Remove Download**.
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/downloads.png" alt="The Downloads tab, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>

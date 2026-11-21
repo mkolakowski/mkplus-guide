@@ -12,6 +12,24 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Download albums, playlists and audiobooks
+
+_Version 1.407.0 · 21 November 2026_
+
+- Press and hold a Jellyfin album, playlist or song to download it, and listen with no connection.
+- Audiobooks from Storyteller can be downloaded too.
+- Downloads has a new Ready to Listen section for songs and audiobooks.
+
+<details markdown="1">
+<summary>Everything in 1.407.0</summary>
+
+**New**
+
+- Download Album, Download Playlist and Download for Jellyfin music; Download to Listen Offline for audiobook-only books.
+- Ready to Listen in Downloads plays your downloaded songs and audiobooks.
+
+</details>
+
 ### Edit the large controls by bending the iPhone Duo
 
 _Version 1.406.0 · 21 November 2026_

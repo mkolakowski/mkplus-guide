@@ -67,6 +67,10 @@ Tap **Queue** at the top right to see what's playing and what's next, in the ord
 
 An audiobook from a Storyteller catalog plays in Now Playing too, with a book's buttons in place of some of these: skips of 15 and 30 seconds, its speed, a sleep timer and its chapters. See [Storyteller](OPDS-Catalogs.html#storyteller).
 
+## Listen without a connection
+
+Press and hold a Jellyfin album, playlist or song and choose **Download Album**, **Download Playlist** or **Download**. The songs are saved on your iPhone under **Downloads**, in **Ready to Listen**, and play with no connection. A song that isn't in a format your iPhone plays is saved as a high-quality MP3. See [Browsing your files](Browsing.html#downloads-for-offline).
+
 ## In the background and on the Lock Screen
 
 Music carries on when you switch to another app or lock your iPhone. Its title, cover and play, pause, next and previous buttons show on the Lock Screen and in Control Center. Settings → Video Playback → **Up Next & Playback** → **Lock Screen Controls** is the switch for them.
