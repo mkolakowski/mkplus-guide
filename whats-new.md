@@ -12,6 +12,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Build a Home on an empty Home
+
+_Version 1.400.1 · 20 November 2026_
+
+- A Home with nothing on it now has a Build a Home button that fills it with shelves from your libraries.
+
+<details markdown="1">
+<summary>Everything in 1.400.1</summary>
+
+**New**
+
+- An empty Home offers Build a Home, which fills it from your servers' libraries.
+
+</details>
+
 ### Build a Home from your libraries
 
 _Version 1.400.0 · 20 November 2026_
