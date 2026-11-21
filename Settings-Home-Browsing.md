@@ -42,7 +42,7 @@ This section decides where Home's buttons sit and how the tab bar behaves.
 - **Settings on the Right** puts Settings on the right of Home's bottom bar and **+** on the left. Off, they swap.
 - **Edit Below the Name** puts **Edit** under the Home's name. Off, it's to the right of the name.
 - **Floating Tab Bar** puts **Home**, **Servers**, **Downloads** and **Settings** in a floating bar with **Search** beside it, in place of Home's bottom bar. Press and hold its **Home** tab for your Homes.
-- **Tab Names** shows each tab's name under its symbol. Off, the bar shows symbols only and is smaller.
+- **Tab Names** shows each tab's name under its symbol. Off, the bar shows symbols only and is smaller. On the iPhone Duo it starts off.
 - **Magnify on Hold** makes the bar grow when you touch it and slide along it. See [Getting Started](Getting-Started.html#magnify-on-hold).
 - **Tab Badges** puts a count on **Downloads** while things download, and a red ! when one has failed.
 - **Servers Tab** adds a **Servers** tab that lists every saved server. It's off to start with. On the iPhone Duo open on its side, **Servers Tab Across the Fold** keeps that list on the left and opens the server you pick on the right. **Hold Servers to Add a Server** makes a hold on that tab open **Add Server**.

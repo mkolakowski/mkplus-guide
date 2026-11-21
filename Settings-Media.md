@@ -124,7 +124,7 @@ Tap zones have their own page, under Controls below **Reader Controls**: see [Se
 
 - **Swiping**: **Invert Swipe Direction** swaps which way a swipe turns the page.
 - **Hands-Free**: **Page Turners**, **Volume Buttons** (**Off**, **Down Turns Forward** or **Up Turns Forward**) and **Auto Turn Every**. See [Keyboards, page turners and volume buttons](Reader.html#keyboards-page-turners-and-volume-buttons).
-- **Read Aloud**: **Speed**, **Turn Pages to Follow**, **Highlight the Sentence** and its **Highlight Color** (teal unless you pick another), for an EPUB read to you. **Keep Sentences on One Page** starts a readaloud book's sentence on the next page rather than split it across a turn.
+- **Read Aloud**: **Speed**, **Turn Pages to Follow**, **Highlight the Sentence** and its **Highlight Color** (teal unless you pick another), for an EPUB read to you.
 
 With Show Advanced Settings on, this page also has **Swipe Sensitivity** and **Swipe Beside the Page**.
 

@@ -12,44 +12,20 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
-### Readaloud books keep each sentence on one page
+### A rounder tab bar on the Duo
 
-_Version 1.404.0 · 21 November 2026_
+_Version 1.402.1 · 21 November 2026_
 
-- In a readaloud book, a sentence that would run past the bottom of a page now starts on the next one, so the highlighted sentence is never cut in two by a page turn.
-- Turn it off with Keep Sentences on One Page in Settings → Reading → Turning Pages.
-
-<details markdown="1">
-<summary>Everything in 1.404.0</summary>
-
-**New**
-
-- Keep Sentences on One Page, in Settings → Reading → Turning Pages, on to start with.
-
-**Fixed**
-
-- At large text sizes, a readaloud book's highlighted sentence could start with one word at the bottom of a page and the rest on the next page.
-- A sentence longer than a whole page now turns to its next page as the narration reaches it.
-
-</details>
-
-### More buttons on the iPhone Duo's large controls
-
-_Version 1.403.0 · 21 November 2026_
-
-- With the Duo bent open, a row of buttons now sits under the big ones: Previous, Playback Options, Playback Speed and Next.
-- The large controls now look like the rest of the player's buttons, menus and all.
+- On the iPhone Duo the tab bar starts with symbols only; turn Tab Names on in Settings → Home Screen if you want the names back.
+- Standing up the Duo's side, the bar is a fully rounded pill with a little more room between the icons.
 
 <details markdown="1">
-<summary>Everything in 1.403.0</summary>
-
-**New**
-
-- A second row under the large controls on the bent-open iPhone Duo, starting with Previous, Playback Options, Playback Speed and Next.
+<summary>Everything in 1.402.1</summary>
 
 **Changed**
 
-- The large controls use the player's own buttons and timeline, just bigger.
+- On the iPhone Duo, Tab Names starts off. If you've already set it either way, your choice stays; other devices still start with names.
+- The tab bar standing up the Duo's side is a fully rounded pill, with more room between its icons.
 
 </details>
 
