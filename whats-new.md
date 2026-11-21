@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### More buttons on the iPhone Duo's large controls
+
+_Version 1.403.0 · 21 November 2026_
+
+- With the Duo bent open, a row of buttons now sits under the big ones: Previous, Playback Options, Playback Speed and Next.
+- The large controls now look like the rest of the player's buttons, menus and all.
+
+<details markdown="1">
+<summary>Everything in 1.403.0</summary>
+
+**New**
+
+- A second row under the large controls on the bent-open iPhone Duo, starting with Previous, Playback Options, Playback Speed and Next.
+
+**Changed**
+
+- The large controls use the player's own buttons and timeline, just bigger.
+
+</details>
+
 ### Storyteller audiobooks play
 
 _Version 1.402.0 · 21 November 2026_
