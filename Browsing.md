@@ -51,7 +51,7 @@ The layout button changes how a folder looks. The choices are **List**, **Small 
 
 ### Sort
 
-The sort button orders a folder by **Name**, **Date** or **Size**. Choose the one that's already picked again to reverse it. Jellyfin adds **Episode**, and book catalogs add **Catalog**. In Settings → File Browsing, **Sort Button Reverses** makes a tap reverse the order and a hold open the menu.
+The sort button orders a folder by **Name**, **Date** or **Size**. Choose the one that's already picked again to reverse it. Jellyfin adds **Episode**, and book catalogs add **Catalog**. In a series of books, **Number** goes by volume and chapter number, and **Read Status** puts what you're reading first. In Settings → File Browsing, **Sort Button Reverses** makes a tap reverse the order and a hold open the menu.
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/folder-options.png" alt="A folder's Sort menu, with Name, Date and Size, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>

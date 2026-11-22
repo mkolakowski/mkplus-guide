@@ -108,6 +108,8 @@ Each book in the list says how far you've got: **Read** with a check mark in a c
 
 Swipe right on a book to mark it read, or unread if it's read. To mark several, tap **Select**, tap the books, then **Mark Read or Unread** at the bottom. Pressing and holding a book offers **Mark as Read** and **Mark as Unread** too. Kavita and Komga keep the change, so it shows in their own apps. If you'd rather not have the swipe, turn off Settings → **Catalogs** → **Swipe to Mark Read**.
 
+The filter button shows only the **Unread**, **Reading** or **Read** books, or **All** of them again; each series remembers its own choice. The sort button adds **Number**, which goes by volume and chapter number, and **Read Status**, which puts the book you're reading first, then the unread ones.
+
 The check-mark button next to the next-up button marks every book in the series as read in one go (or unread, once it's all read): it asks first, and **Mark as Read** (or **Mark as Unread**) confirms.
 
 If you'd rather not have series pages, turn off Settings → **Catalogs** → **Series Pages**.

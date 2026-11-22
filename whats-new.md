@@ -12,6 +12,28 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Filter and sort a series by what you've read
+
+_Version 1.410.0 · 22 November 2026_
+
+- Filter a series to show only its unread, in-progress or read books. Each series remembers its filter.
+- Sort by volume and chapter number, or with what you're reading first.
+- On the iPhone Duo, a series' side bar now matches the page instead of looking darker.
+
+<details markdown="1">
+<summary>Everything in 1.410.0</summary>
+
+**New**
+
+- Read Status in a series' filter: All, Unread, Reading or Read.
+- Number and Read Status in a series' sort.
+
+**Changed**
+
+- The strip beside a series on the unfolded iPhone Duo shows the series' cover, like the page.
+
+</details>
+
 ### See and set what you've read in a series
 
 _Version 1.409.0 · 22 November 2026_
