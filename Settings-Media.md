@@ -52,7 +52,7 @@ The engine and kept-subtitle sections are greyed out while **Generate Subtitles*
 What happens when a video ends, and how playback starts. See [When a video ends](Video-Player.html#when-a-video-ends).
 
 - **Up Next**: **Auto-Play Next**, then **Ask Before Playing Next** and its **Countdown**, and **Skip Intros Automatically**.
-- **Playback**: **Playback Speed** is where every video starts. **Picture in Picture on Leaving**, **Keep Playing When Locked**, **Lock Screen Controls** and **Lock Screen Buttons** (**Skip 10 Seconds** or **Previous & Next Video**). **2.1 Sound** sends a surround track's bass to its own channel, for a soundbar or receiver with a subwoofer (off to start with). See [Picture in Picture and playing while locked](Video-Player.html#picture-in-picture-and-playing-while-locked).
+- **Playback**: **Playback Speed** is where every video starts. **Picture in Picture on Leaving**, **Keep Playing When Locked**, **Lock Screen Controls** and **Lock Screen Buttons** (**Skip 10 Seconds** or **Previous & Next Video**). **2.1 Sound** sends a surround track's bass to its own channel, for a soundbar or receiver with a subwoofer (off to start with). **Convert Sound on Jellyfin** has a Jellyfin server convert a video's sound when every soundtrack is DTS or Dolby TrueHD (on to start with). See [Picture in Picture and playing while locked](Video-Player.html#picture-in-picture-and-playing-while-locked).
 
 ### Page Turners
 
