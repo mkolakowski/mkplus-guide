@@ -12,6 +12,33 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Jellyfin audiobooks pick up where you left off
+
+_Version 1.408.0 · 21 November 2026_
+
+- Audiobooks in a Jellyfin library now play as books: skip 15 or 30 seconds, change the speed, set a sleep timer and jump between chapters.
+- They pick up where you left off, here or in another Jellyfin app.
+- A book split into several files plays as one, and M4B audiobooks play now.
+
+<details markdown="1">
+<summary>Everything in 1.408.0</summary>
+
+**New**
+
+- Jellyfin audiobooks open in the music player as a book, with their chapters, and continue from where you stopped.
+- A book in several files plays as one book, a chapter per file.
+
+**Fixed**
+
+- M4B audiobooks were greyed out and didn't play.
+- Jellyfin audiobooks no longer start from the beginning every time.
+- 1.407.2
+- 2026-11-21
+- Tab bar a bit tighter on the Duo
+- The tab bar standing up the Duo's side is a little more compact.
+
+</details>
+
 ### Download albums, playlists and audiobooks
 
 _Version 1.407.0 · 21 November 2026_

@@ -67,6 +67,8 @@ Tap **Queue** at the top right to see what's playing and what's next, in the ord
 
 An audiobook from a Storyteller catalog plays in Now Playing too, with a book's buttons in place of some of these: skips of 15 and 30 seconds, its speed, a sleep timer and its chapters. See [Storyteller](OPDS-Catalogs.html#storyteller).
 
+An audiobook in a Jellyfin library plays the same way: tap it, or any part of a book that's split into several files, and it picks up where you left off, in MK Plus or in another Jellyfin app. A book in several files plays as one, each file a chapter. The chapters of a single file (an M4B's) are listed by name.
+
 ## Listen without a connection
 
 Press and hold a Jellyfin album, playlist or song and choose **Download Album**, **Download Playlist** or **Download**. The songs are saved on your iPhone under **Downloads**, in **Ready to Listen**, and play with no connection. A song that isn't in a format your iPhone plays is saved as a high-quality MP3. See [Browsing your files](Browsing.html#downloads-for-offline).
