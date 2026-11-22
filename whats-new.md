@@ -32,10 +32,6 @@ _Version 1.408.0 · 21 November 2026_
 
 - M4B audiobooks were greyed out and didn't play.
 - Jellyfin audiobooks no longer start from the beginning every time.
-- 1.407.2
-- 2026-11-21
-- Tab bar a bit tighter on the Duo
-- The tab bar standing up the Duo's side is a little more compact.
 
 </details>
 
