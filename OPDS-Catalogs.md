@@ -104,7 +104,11 @@ A library's series show as covers, three across or more. The library's name is a
 
 A series page shows its cover, summary and progress, and a button for what to read next. The button says **Start Reading**, **Continue**, **Read Next** or **Read Again**, whichever fits where you are. **Volumes** and **Chapters** switch between the two when a series has both.
 
-A book you've finished carries a check mark in a circle. A book you've started carries a half-filled circle. The check-mark button next to the next-up button marks every book in the series as read in one go (or unread, once it's all read): it asks first, and **Mark as Read** (or **Mark as Unread**) confirms.
+Each book in the list says how far you've got: **Read** with a check mark in a circle, the page you're on (**Page 12 of 40**) with a half-filled circle, or **Unread** with a dot. The same goes for a folder of comics on a share.
+
+Swipe right on a book to mark it read, or unread if it's read. To mark several, tap **Select**, tap the books, then **Mark Read or Unread** at the bottom. Pressing and holding a book offers **Mark as Read** and **Mark as Unread** too. Kavita and Komga keep the change, so it shows in their own apps. If you'd rather not have the swipe, turn off Settings → **Catalogs** → **Swipe to Mark Read**.
+
+The check-mark button next to the next-up button marks every book in the series as read in one go (or unread, once it's all read): it asks first, and **Mark as Read** (or **Mark as Unread**) confirms.
 
 If you'd rather not have series pages, turn off Settings → **Catalogs** → **Series Pages**.
 

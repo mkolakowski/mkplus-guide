@@ -12,6 +12,29 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### See and set what you've read in a series
+
+_Version 1.409.0 · 22 November 2026_
+
+- Each volume or chapter in a series now says whether it's read, where you are in it, or unread.
+- Swipe right on one to mark it read or unread.
+- Tap Select to mark several at once.
+
+<details markdown="1">
+<summary>Everything in 1.409.0</summary>
+
+**New**
+
+- Read status on every book in Kavita, Komga and comics folders: Read, Page 12 of 40, or Unread.
+- Swipe to Mark Read, and Mark Read or Unread for everything selected.
+- Mark as Read and Mark as Unread when you press and hold a book.
+
+**Changed**
+
+- The arrow at the end of each row sits a little further from the edge.
+
+</details>
+
 ### Jellyfin audiobooks pick up where you left off
 
 _Version 1.408.0 · 21 November 2026_
