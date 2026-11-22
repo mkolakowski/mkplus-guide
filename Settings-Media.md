@@ -86,7 +86,7 @@ Settings → **Catalogs** is for Kavita, Komga and the other book servers: how t
 - **Layout**: **Exploring** is for a catalog's sections and libraries, **A Library's Series** for a library's series (**Posters**, covers three across, to start with), and **Inside a Series** for its volumes and chapters. Each is a layout, such as **List** or **Cards**.
 - **Series Cards**: **Volumes & Chapters**, **Reading Progress**, **Last Added**, **Start Year**, **Continue Button** and **Summary** switch what a series' card shows.
 - **Section Cards**: **Covers on Section Cards** shows what's in **On Deck**, **Recently Added** or a library on its card. **Cover Cycle** is how they move, **Speed** is how long each stays, and **Blurred Background** washes the main cover behind them.
-- **Series Pages**: **Series Pages** puts a series' cover, summary, progress and a button for what to read next above its volumes. **Cover Behind Series Pages** blurs the cover behind the page.
+- **Series Pages**: **Series Pages** puts a series' cover, summary, progress and a button for what to read next above its volumes. **Cover Behind Series Pages** blurs the cover behind the page. **Swipe to Mark Read** lets a swipe right on a volume or chapter mark it read, or unread if it's read.
 - **Reading**: **Stream Comic Pages** opens a comic straight away and loads its pages as you read. **Sync Reading Progress** keeps your place in sync with the server; a server can turn it on or off for itself, under its **Reading**. See [Read, and keep your place](OPDS-Catalogs.html#read-and-keep-your-place).
 
 The iPhone Duo adds two switches to **Series Pages**: see [On your device](Devices.html).

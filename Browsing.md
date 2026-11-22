@@ -81,6 +81,7 @@ Press and hold a file or folder to see what you can do with it. What's in the me
 - **Pin to Top** (folders) keeps a folder at the top of its list. **Unpin** puts it back.
 - **Add to Home** (servers, libraries and folders) puts a widget on your Home.
 - **Mark as Watched** and **Mark as Unwatched**, and **Add to Favorites** and **Remove from Favorites**, on Jellyfin.
+- **Mark as Read** and **Mark as Unread**, for books on a book server and comics in a series folder on a share. A swipe right does it too.
 - **Download** (Jellyfin movies, episodes and songs), **Download Album** and **Download Playlist** (Jellyfin music), and **Download to Read Offline** or **Download to Listen Offline** (books on a book server). See Downloads below.
 - **Select**, **Copy**, **Cut**, **Move**, **Rename**, **Show Info** and **Delete**, for files and folders on a share or in your cloud storage.
 
@@ -129,7 +130,7 @@ These work on SMB shares, cloud storage, S3 buckets and folders from the Files a
 
 ### Select several at once
 
-Tap **Select**, then tap files to tick them. **Select All** ticks everything in the folder, and **Deselect All** clears it. The buttons at the bottom do the rest: **Copy**, **Paste**, **Move**, **Rename**, **Pin to Top** and **Delete**. Tap **Done** when you're finished.
+Tap **Select**, then tap files to tick them. **Select All** ticks everything in the folder, and **Deselect All** clears it. The buttons at the bottom do the rest: **Copy**, **Paste**, **Move**, **Rename**, **Pin to Top** and **Delete**. On a book server, tick books and tap **Mark Read or Unread** instead. Tap **Done** when you're finished.
 
 ## Downloads for offline
 
