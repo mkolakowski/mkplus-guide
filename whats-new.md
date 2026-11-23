@@ -12,6 +12,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### The screen stays on while a video plays
+
+_Version 1.415.1 · 23 November 2026_
+
+- Your iPhone no longer locks its screen in the middle of a video.
+
+<details markdown="1">
+<summary>Everything in 1.415.1</summary>
+
+**Fixed**
+
+- The screen stays awake while a video is playing, and can lock again once it's paused or closed.
+
+</details>
+
 ### Choose a row's libraries on Apple TV
 
 _Version 1.415.0 · 22 November 2026_
