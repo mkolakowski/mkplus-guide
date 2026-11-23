@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Choose DTS and TrueHD from Jellyfin
+
+_Version 1.413.0 · 22 November 2026_
+
+- A Jellyfin video's DTS or Dolby TrueHD soundtrack can be chosen in the audio menu: the server converts the sound, and the picture stays as it is.
+- A video that would start in another language because its own soundtrack is DTS now plays its own, converted.
+
+<details markdown="1">
+<summary>Everything in 1.413.0</summary>
+
+**New**
+
+- DTS and TrueHD tracks from Jellyfin are no longer "not supported" in the audio menu: choose one and the video carries on where it was, with the server's version of that sound. Choose another track to go back.
+
+**Changed**
+
+- A Jellyfin video whose own soundtrack is DTS or TrueHD, with no other track in its language, plays that soundtrack converted instead of another language. Settings → Video Playback → Up Next & Playback → Convert Sound on Jellyfin turns it off.
+
+</details>
+
 ### Subtitle files on Apple TV
 
 _Version 1.412.0 · 22 November 2026_
