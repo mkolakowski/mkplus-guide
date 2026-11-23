@@ -12,6 +12,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Every Kavita library shows
+
+_Version 1.415.2 · 23 November 2026_
+
+- A Kavita server now lists all your libraries, including ones Kavita left out of its side menu.
+
+<details markdown="1">
+<summary>Everything in 1.415.2</summary>
+
+**Fixed**
+
+- Some Kavita libraries, often Book or Light Novel ones, didn't show in the server's Libraries list, so they couldn't be opened or added to a Home. Every library your Kavita account can open now shows.
+
+</details>
+
 ### The screen stays on while a video plays
 
 _Version 1.415.1 · 23 November 2026_
