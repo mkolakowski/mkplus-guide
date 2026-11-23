@@ -12,6 +12,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Choose a row's libraries on Apple TV
+
+_Version 1.415.0 · 22 November 2026_
+
+- On Apple TV, a Continue Watching, Next Up or Favorites row can gather from just the libraries you pick.
+
+<details markdown="1">
+<summary>Everything in 1.415.0</summary>
+
+**Apple TV**
+
+- Edit Home → a row's Options → Libraries on each server: switch some on to gather from just those. With none on, the row takes from all of them, as before.
+
+</details>
+
 ### Locked Homes on Apple TV
 
 _Version 1.414.0 · 22 November 2026_
