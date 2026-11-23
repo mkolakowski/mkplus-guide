@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Subtitle files on Apple TV
+
+_Version 1.412.0 · 22 November 2026_
+
+- On Apple TV, a video on a share now offers the subtitle files next to it, like Film.en.srt or a Subs folder.
+
+<details markdown="1">
+<summary>Everything in 1.412.0</summary>
+
+**Apple TV**
+
+- Subtitle files next to a video on a share show in the Subtitles menu, and Turn On by Themselves can pick them.
+- Settings → Subtitles → Subtitle Files Beside Videos turns this off.
+- Fixed: on a Home behind its PIN, the remote couldn't reach Enter PIN.
+
+</details>
+
 ### DTS and TrueHD from Jellyfin play on Apple TV
 
 _Version 1.411.0 · 22 November 2026_
