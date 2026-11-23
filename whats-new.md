@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Locked Homes on Apple TV
+
+_Version 1.414.0 · 22 November 2026_
+
+- On Apple TV, a Home can be locked: it shows only its name until your PIN is entered, each time you come to it.
+
+<details markdown="1">
+<summary>Everything in 1.414.0</summary>
+
+**Apple TV**
+
+- Edit Home → Lock This Home locks a Home behind your PIN (or has you choose one first). Once it's open, it shows private servers too.
+- A locked Home keeps its name in the Homes bar, with a lock. Edit Home isn't offered until it's open.
+- Forgot PIN deletes locked Homes along with the private servers, and says so first.
+
+</details>
+
 ### Choose DTS and TrueHD from Jellyfin
 
 _Version 1.413.0 · 22 November 2026_
