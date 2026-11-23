@@ -109,6 +109,7 @@ The **Sleep Timer** button (the moon) pauses playback later, so you can fall asl
 
 - **Picture in Picture** shrinks the video into a small floating window you can keep while you use another app. Tap the **Picture in Picture** button, or turn on Settings → Video Playback → **Up Next & Playback** → **Picture in Picture on Leaving** to have it start whenever you leave the app.
 - **Keep Playing When Locked** carries the sound on after you lock the screen.
+- While a video is playing on screen, the screen stays on by itself. It can lock again once you pause or close the video.
 - **Lock Screen Controls** puts the video on the Lock Screen and in Control Center. **Lock Screen Buttons** chooses whether the buttons beside play and pause skip 10 seconds or change video.
 
 ## Lay the controls out your way
