@@ -12,6 +12,22 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Arrange Read Aloud's buttons
+
+_Version 1.419.0 · 24 November 2026_
+
+- Settings → Controls → Reader Controls → Read Aloud Controls lets you choose every button in Read Aloud's row and at the ends of its timeline.
+- Tap a slot to pick a button, or None. Reset brings back the usual row.
+
+<details markdown="1">
+<summary>Everything in 1.419.0</summary>
+
+**New**
+
+- Read Aloud Controls: a page being read aloud, with the controls where the reader puts them. Tap any of the five buttons in the row, or either end of the timeline, to choose from Play/Pause, a sentence or a chapter back and on, 10 seconds back and on, the sleep timer, speed and Stop, or to leave it empty. Reset puts the usual row back, and Done or a pull down on the page closes it. You'll find it in Reader Controls, and Settings' search finds it too.
+
+</details>
+
 ### Read Aloud controls like the video player's
 
 _Version 1.418.0 · 24 November 2026_
