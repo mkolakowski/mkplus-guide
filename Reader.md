@@ -145,7 +145,7 @@ An EPUB's text reflows to fit your screen. Its controls are a little different:
   - **Text Size**, **Font** (the book's own, or one of several, including OpenDyslexic), **Margins**, **Columns** (**Automatic**, **One Column** or **Two Columns**), **Line Spacing**, **Paragraph Spacing**, **Justify** and **Hyphenation**.
   - **Book's Layout** keeps the layout the book was made with.
   - **Turn Style**: **Slide**, **Curl**, **Instant** or **Vertical Scroll**.
-- **Read Aloud** (the speaker) reads the book to you from the page you're on, and tap it again to stop. While it reads, a row of buttons like the video player's sits at the bottom: **Previous Chapter**, **Previous Sentence**, a large **Pause** in the middle, **Next Sentence** and **Next Chapter**. The sleep timer (the moon) and the speed sit either side of the scrubber. **Previous Chapter** goes back to the start of the chapter, or to the one before if you're right at its start. Whether it turns pages for you is in Settings → Reading → **Turning Pages**.
+- **Read Aloud** (the speaker) reads the book to you from the page you're on, and tap it again to stop. While it reads, a row of buttons like the video player's sits at the bottom: **Previous Chapter**, **Previous Sentence**, a large **Pause** in the middle, **Next Sentence** and **Next Chapter**. The sleep timer (the moon) and the speed sit either side of the scrubber. **Previous Chapter** goes back to the start of the chapter, or to the one before if you're right at its start. Whether it turns pages for you is in Settings → Reading → **Turning Pages**. You can [choose which buttons these are](#choose-the-read-aloud-buttons).
 
 The scrubber moves through the book by position. With **Shade Behind Controls** on, the dark shade sits behind the buttons, the Read Aloud controls and the scrubber here too, and they turn light so they stand out on a white page. Tap zones, keys and page turners work as they do for comics. As with comics, what you change in **Aa** is for this book only; **Aa** also has this book's Read Aloud speed and highlight.
 
@@ -188,9 +188,24 @@ Settings → **Reader Controls** opens the real reader, with a sample comic, so 
 1. Tap a slot at the top right and choose a button for it: **Reading Options**, **Show Tap Zones**, **Next Book**, **Previous Page**, **Next Page**, **Auto Turn**, **Zoom** or **Read Aloud**. **None** leaves it empty.
 2. Tap the title to show or hide it. **Close** always stays at the top left.
 3. In the card in the middle, turn **Page Scrubber** on or off, pick the **Scrubber Style** (**Timeline** or **Classic**) and choose where **Page Number on Page** goes: **Off**, **Top**, **Bottom**, **Top Corner** or **Bottom Corner**.
-4. Tap **Try It** to put the card away and read the sample with your controls, tap zones and swipes. **Edit Controls** brings it back. **Reset** goes back to the original layout.
+4. Tap **Read Aloud Controls** in the card to [choose the buttons for reading aloud](#choose-the-read-aloud-buttons).
+5. Tap **Try It** to put the card away and read the sample with your controls, tap zones and swipes. **Edit Controls** brings it back. **Reset** goes back to the original layout.
 
 Your layout is saved in your Reading Profiles.
+
+### Choose the Read Aloud buttons
+
+**Read Aloud Controls** shows a page being read aloud, with the controls where the reader puts them: a row of five buttons, over a timeline with a button at each end. You can also find it by searching Settings for "read aloud controls".
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/read-aloud-controls-editor.png" alt="The Read Aloud Controls editor on an iPhone 18 Pro Max: a page of text with one sentence highlighted, the five buttons of the row under it and the timeline below with a button at each end, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
+
+1. Tap any of the five slots in the row, or either end of the timeline. Choose **Play/Pause**, **Previous Sentence**, **Next Sentence**, **Back 10 Seconds**, **Forward 10 Seconds**, **Previous Chapter**, **Next Chapter**, **Sleep Timer**, **Speed** or **Stop Reading Aloud**. **None** leaves the slot empty, shown as a dashed circle.
+2. A button sits in one slot. Choose one that's already somewhere else and it moves.
+3. Tap **Reset** to go back to the usual row: a chapter back, a sentence back, Play/Pause, a sentence on and a chapter on, with the sleep timer and speed at the timeline's ends. Tap **Done**, or pull the page down, to close.
+
+Reading aloud, the reader follows what you chose. Empty slots close up. **Back 10 Seconds**, **Forward 10 Seconds** and the timeline are for books with their own narration, so they're left out when the iPhone's voice reads. If you leave **Play/Pause** out, the reader adds one in the middle, as there'd be no other way to pause. **Stop Reading Aloud** is the speaker at the top; put it in a slot as well if you want it in the row.
 
 ## Where you left off
 
