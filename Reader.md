@@ -145,9 +145,9 @@ An EPUB's text reflows to fit your screen. Its controls are a little different:
   - **Text Size**, **Font** (the book's own, or one of several, including OpenDyslexic), **Margins**, **Columns** (**Automatic**, **One Column** or **Two Columns**), **Line Spacing**, **Paragraph Spacing**, **Justify** and **Hyphenation**.
   - **Book's Layout** keeps the layout the book was made with.
   - **Turn Style**: **Slide**, **Curl**, **Instant** or **Vertical Scroll**.
-- **Read Aloud** (the speaker) reads the book to you from the page you're on. Its speed and whether it turns pages for you are in Settings → Reading → **Turning Pages**.
+- **Read Aloud** (the speaker) reads the book to you from the page you're on, and tap it again to stop. While it reads, a row of buttons like the video player's sits at the bottom: **Previous Chapter**, **Previous Sentence**, a large **Pause** in the middle, **Next Sentence** and **Next Chapter**. The sleep timer (the moon) and the speed sit either side of the scrubber. **Previous Chapter** goes back to the start of the chapter, or to the one before if you're right at its start. Whether it turns pages for you is in Settings → Reading → **Turning Pages**.
 
-The scrubber moves through the book by position. With **Shade Behind Controls** on, the dark shade sits behind the buttons, the Read Aloud bar and the scrubber here too, and they turn light so they stand out on a white page. Tap zones, keys and page turners work as they do for comics. As with comics, what you change in **Aa** is for this book only; **Aa** also has this book's Read Aloud speed and highlight.
+The scrubber moves through the book by position. With **Shade Behind Controls** on, the dark shade sits behind the buttons, the Read Aloud controls and the scrubber here too, and they turn light so they stand out on a white page. Tap zones, keys and page turners work as they do for comics. As with comics, what you change in **Aa** is for this book only; **Aa** also has this book's Read Aloud speed and highlight.
 
 As in a printed book, the chapter's name and the time left in it sit above the text, and a page number sits under each page, counted from the start of the chapter. They show while the controls are hidden. Turn each off in Settings → Reading → **Book Types** → **Around the Text**.
 
@@ -166,12 +166,12 @@ Some EPUBs carry their own recording, with each sentence marked as it's spoken. 
 
 - The sentence being spoken is highlighted (in teal, or the color you pick in Settings → Reading → Turning Pages → **Highlight Color**), and the page turns to follow it.
 - A sentence that would run past the bottom of a page starts on the next page instead, so the highlighted sentence isn't cut in two by a page turn. Pages sometimes end early because of it, but never with more than a third of the page left blank: where moving a sentence would leave more, it stays split. A split sentence, or one longer than a whole page, turns to its next page as the narration reaches it. To lay the pages out as other books are, turn off Settings → Reading → **Turning Pages** → **Keep Sentences on One Page**.
-- The Read Aloud bar is laid out like the video player's controls: the sleep timer, **Previous Sentence**, a large **Pause** in the middle, **Next Sentence**, then **Stop**.
+- Under the row of buttons, a timeline shows the chapter: the time played and the time left. Drag it to move through the chapter. The sleep timer and the speed sit at its ends.
 - It keeps playing when you lock your iPhone or switch apps, and the Lock Screen shows the book with play, pause and skip.
 - The speed and the sleep timer (the moon) work as they do for the iPhone's voice.
 
 <div class="shot" markdown="0">
-<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/readaloud-narration.png" alt="The Gift of the Magi playing its own narration in the reader on an iPhone 18 Pro Max, with the spoken sentence highlighted and the Read Aloud bar along the bottom: sleep timer, Previous Sentence, Pause, Next Sentence and Stop, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/readaloud-narration.png" alt="The Gift of the Magi playing its own narration in the reader on an iPhone 18 Pro Max, with the spoken sentence highlighted and the Read Aloud controls along the bottom: Previous Chapter, Previous Sentence, Pause, Next Sentence and Next Chapter over the chapter's timeline, with the sleep timer and speed at its ends, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 </div>
 
 To have a catalog's readaloud books start playing as they open, turn on **Play Narration When a Book Opens** on its page: see [Storyteller](OPDS-Catalogs.html#storyteller). To have these books read in the iPhone's voice instead, turn off Settings → Reading → **Turning Pages** → **Use the Book's Narration**.

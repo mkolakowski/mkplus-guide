@@ -12,6 +12,29 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Read Aloud controls like the video player's
+
+_Version 1.418.0 · 24 November 2026_
+
+- Read Aloud's buttons are now a row like the video player's, with a big Play/Pause, a sentence back and on, and a chapter back and on, dark so you can see them on a white page.
+- A book with its own narration shows a timeline of the chapter: time played and left, and drag it to move through the chapter.
+- The sleep timer and the speed sit at the timeline's ends. The speaker at the top stops reading.
+
+<img src="images/iphone-18-pro-max/readaloud-narration.png" width="300" alt="A Storyteller book reading aloud its own narration on an iPhone 18 Pro Max: the spoken sentence highlighted, and at the bottom the dark row of Previous Chapter, Previous Sentence, a large Pause, Next Sentence and Next Chapter over the chapter's timeline, 2:39 played and 10:42 left, with the sleep timer and 1× at its ends">
+
+<details markdown="1">
+<summary>Everything in 1.418.0</summary>
+
+**Changed**
+
+- While a book reads aloud, its controls are a row like the video player's: a chapter back, a sentence back, a big Play/Pause, a sentence on and a chapter on, in dark circles you can see on any page.
+- A book with its own narration shows the chapter's timeline under them, with time played and left. Drag it to move through the chapter. The sleep timer and the speed are at its ends.
+- With the system voice there's no timeline, so the sleep timer and speed sit either side of the book's slider, and you can now go a sentence or a chapter back and on with it too.
+- Previous Chapter goes back to the start of the chapter, or to the one before if you're right at its start.
+- To stop reading, tap the speaker at the top. There's no Stop button in the row any more, unless the speaker has no room at the top.
+
+</details>
+
 ### Sign in to Storyteller with Google
 
 _Version 1.417.0 · 24 November 2026_
