@@ -12,6 +12,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Sign in to Storyteller with Google
+
+_Version 1.417.0 · 24 November 2026_
+
+- If your Storyteller signs in with Google, adding it shows a Sign In with Google button that goes straight there.
+
+<details markdown="1">
+<summary>Everything in 1.417.0</summary>
+
+**New**
+
+- Adding a Storyteller that's set up to sign in with Google, or another account service, shows a Sign In button for it after Sign In with Web Page. It opens in Safari's sign-in sheet and saves the catalog once you're in.
+
+</details>
+
 ### Every Kavita library shows
 
 _Version 1.415.2 · 23 November 2026_

@@ -69,6 +69,8 @@ Tap **Save** with only the address filled in, and the form offers **Sign In with
 
 **Use a Page in the App Instead** opens the same page inside MK Plus. Passkeys can't work there. Settings → Server List → **Sign In with Safari First** swaps which of the two comes first.
 
+If your Storyteller is set up to sign in with Google, or another account service, the form also shows **Sign In with Google** (or that service's name) under these. It skips Storyteller's page and goes straight to Google in Safari's sign-in sheet; once you're in, the catalog saves.
+
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/storyteller-web-sign-in.png" alt="Adding a Storyteller catalog on an iPhone 18 Pro Max: Sign In with Web Page and Use a Page in the App Instead, then the username and password fields under Or with a Username and Password, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 </div>
