@@ -13,7 +13,7 @@ A reading profile is a named set of reading settings, such as Manga or Novels. M
 A profile holds everything one book can do differently from another:
 
 - **Turn Style** for comics, PDFs and EPUBs, **Reading Direction**, **Two-Page Spreads**, **Cover Alone** and **Trim Borders**.
-- **Tap Zones**.
+- **Tap Zones**, and the tap zones for **Right-to-Left Books** such as manga.
 - How EPUBs look: theme, text size, font, margins, columns, **Book's Layout**, line and paragraph spacing, **Justify** and **Hyphenation**.
 - Read Aloud: speed, **Highlight the Sentence** and its color, **Use the Book's Narration** and **Play Narration When a Book Opens**.
 
