@@ -104,14 +104,14 @@ Where you tap decides what happens. Pick a layout under **Tap Zones** in Reading
 |---|---|
 | **Sides** | The left third goes back, the right third forward, and the middle shows the controls. |
 | **Kindle** | A narrow strip down the left goes back, the top shows the controls, and everywhere else goes forward. |
-| **Edges Only** | Only narrow strips down each edge turn the page, right to the screen's edge, and the rest shows the controls. It's the one you start with. In a right-to-left book, such as a manga, the left edge goes forward. |
+| **Edges Only** | Only narrow strips down each edge turn the page, right to the screen's edge, and the rest shows the controls. It's the one you start with. |
 | **One-Handed (Right)** | Most of the screen goes forward, and a strip down the left goes back. |
 | **One-Handed (Left)** | The same, the other way round. |
 | **Forward Anywhere** | Every tap goes forward except the middle. Swipe to go back. |
 | **Off** | Taps only show and hide the controls. Swipe to turn. |
 | **Custom** | Your own grid of nine zones. |
 
-**Show Tap Zones** dims the page for a moment and outlines each zone, with what it does written in the middle, so you can see where each one is. **Custom Zones** opens a grid where you choose what each of the nine zones does. **Follow Reading Direction** swaps left and right for right-to-left books.
+**Show Tap Zones** dims the page for a moment and outlines each zone, with what it does written in the middle, so you can see where each one is. **Custom Zones** opens a grid where you choose what each of the nine zones does. **Right-to-Left Books** is a layout of its own for books read right to left, such as a manga. It starts on Edges Only too; **Tap Zones** is for every other book. **Follow Reading Direction** swaps left and right for right-to-left books, so with Edges Only the left edge goes forward in a manga.
 
 ## Keyboards, page turners and volume buttons
 

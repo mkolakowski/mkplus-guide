@@ -12,6 +12,22 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Tap zones of their own for manga
+
+_Version 1.421.0 · 25 November 2026_
+
+- Books read right to left, such as manga, now have their own tap zones: Settings → Tap Zones → Right-to-Left Books.
+- It starts on Edges Only, with the left edge going forward.
+
+<details markdown="1">
+<summary>Everything in 1.421.0</summary>
+
+**New**
+
+- Settings → Tap Zones has a Right-to-Left Books layout of its own, so a manga can tap differently from your other books. It starts on Edges Only. Reading profiles hold it too, and a manga's Reading Options shows and changes it.
+
+</details>
+
 ### Edges Only tap zones to start with
 
 _Version 1.420.0 · 25 November 2026_
