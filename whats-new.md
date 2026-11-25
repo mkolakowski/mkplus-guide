@@ -12,6 +12,21 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Add Catalog only offers Cloudflare sign-in when it's there
+
+_Version 1.419.2 · 24 November 2026_
+
+- Adding an OPDS catalog on a plain server no longer shows Cloudflare and OpenID Connect sign-in buttons.
+
+<details markdown="1">
+<summary>Everything in 1.419.2</summary>
+
+**Changed**
+
+- Add Catalog shows the Cloudflare Access and OpenID Connect sign-in buttons only when the address is behind Cloudflare or a sign-in gateway. A plain server, like Storyteller or Komga on your network, shows none.
+
+</details>
+
 ### Arrange Read Aloud's buttons
 
 _Version 1.419.0 · 24 November 2026_
