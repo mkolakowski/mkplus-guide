@@ -12,6 +12,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Edges Only tap zones to start with
+
+_Version 1.420.0 · 25 November 2026_
+
+- Books now start with Edges Only tap zones: a tap at either edge turns the page, and the rest of the page shows the controls.
+- In a manga, the left edge goes forward.
+- On the closed iPhone Duo, a tap at the right edge of an EPUB now turns forward.
+
+<details markdown="1">
+<summary>Everything in 1.420.0</summary>
+
+**Changed**
+
+- Tap Zones now start on Edges Only instead of Sides, for every kind of book. If you picked a layout yourself, you keep it. Follow Reading Direction swaps the edges in a right-to-left book, such as a manga.
+
+**Fixed**
+
+- In an EPUB on the closed iPhone Duo, tapping the right edge of the screen did nothing with Edges Only. The edge zones now reach the edges of the screen, where Show Tap Zones draws them.
+
+</details>
+
 ### A tidier side bar on iPhone Duo
 
 _Version 1.419.3 · 24 November 2026_

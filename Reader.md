@@ -102,9 +102,9 @@ Where you tap decides what happens. Pick a layout under **Tap Zones** in Reading
 
 | Layout | What it does |
 |---|---|
-| **Sides** | The left third goes back, the right third forward, and the middle shows the controls. It's the one you start with. |
+| **Sides** | The left third goes back, the right third forward, and the middle shows the controls. |
 | **Kindle** | A narrow strip down the left goes back, the top shows the controls, and everywhere else goes forward. |
-| **Edges Only** | Only narrow strips down each edge turn the page. |
+| **Edges Only** | Only narrow strips down each edge turn the page, right to the screen's edge, and the rest shows the controls. It's the one you start with. In a right-to-left book, such as a manga, the left edge goes forward. |
 | **One-Handed (Right)** | Most of the screen goes forward, and a strip down the left goes back. |
 | **One-Handed (Left)** | The same, the other way round. |
 | **Forward Anywhere** | Every tap goes forward except the middle. Swipe to go back. |
@@ -215,7 +215,8 @@ Every book opens at the page you were last on. For books on a book server, your 
 
 | What you see | Try this |
 |---|---|
-| A tap turns the page when you wanted the controls | Change **Tap Zones** to **Sides**, or to **Off** and swipe. |
+| A tap turns the page when you wanted the controls | Change **Tap Zones** to **Off** and swipe. |
+| A tap shows the controls when you wanted to turn | Change **Tap Zones** to **Sides**, for wider zones. |
 | A swipe closes the book by accident | Turn off **Swipe Down to Close** in Settings → Reading → **Controls & Closing**. |
 | Pages show two at a time and you don't want that | Set **Two-Page Spreads** to **Always Single** in Reading Options. |
 | A manga reads the wrong way | Set **Reading Direction** to **Right to Left** in Reading Options: it's for that book only. |
