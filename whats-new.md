@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A tidier side bar on iPhone Duo
+
+_Version 1.419.3 · 24 November 2026_
+
+- The side bar's buttons are bigger, in a narrower bar.
+- In a catalog's library, Reading in This Library is now a button in the side bar, so it no longer overlaps Back.
+
+<details markdown="1">
+<summary>Everything in 1.419.3</summary>
+
+**Changed**
+
+- On iPhone Duo, the side bar's symbols are bigger and the bar is narrower, with less room between the symbols, like the App Store's bar.
+
+**Fixed**
+
+- In a catalog's library on the closed iPhone Duo, Back no longer overlaps the Reading in This Library button. It's now a Reading button in the side bar, next to Layout and Sort.
+
+</details>
+
 ### Add Catalog only offers Cloudflare sign-in when it's there
 
 _Version 1.419.2 · 24 November 2026_
