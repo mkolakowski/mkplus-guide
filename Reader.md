@@ -171,7 +171,7 @@ Some EPUBs carry their own recording, with each sentence marked as it's spoken. 
 - The speed and the sleep timer (the moon) work as they do for the iPhone's voice.
 
 <div class="shot" markdown="0">
-<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/readaloud-narration.png" alt="The Gift of the Magi playing its own narration in the reader on an iPhone 18 Pro Max, with the spoken sentence highlighted and the Read Aloud controls along the bottom: Previous Chapter, Previous Sentence, Pause, Next Sentence and Next Chapter over the chapter's timeline, with the sleep timer and speed at its ends, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/readaloud-narration.png" alt="The Gift of the Magi playing its own narration in the reader on an iPhone 18 Pro Max, with the spoken sentence highlighted and the Read Aloud controls along the bottom: the chapter's timeline above a row of five buttons of one size, Previous Chapter, Previous Sentence, Pause, Next Sentence and Next Chapter, with the sleep timer and speed at the timeline's ends, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 </div>
 
 To have a catalog's readaloud books start playing as they open, turn on **Play Narration When a Book Opens** on its page: see [Storyteller](OPDS-Catalogs.html#storyteller). To have these books read in the iPhone's voice instead, turn off Settings → Reading → **Turning Pages** → **Use the Book's Narration**.
@@ -198,7 +198,7 @@ Your layout is saved in your Reading Profiles.
 **Read Aloud Controls** shows a page being read aloud, with the controls where the reader puts them: a timeline with a button at each end, over a row of five buttons. You can also find it by searching Settings for "read aloud controls".
 
 <div class="shot" markdown="0">
-<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/read-aloud-controls-editor.png" alt="The Read Aloud Controls editor on an iPhone 18 Pro Max: a page of text with one sentence highlighted, the five buttons of the row under it and the timeline below with a button at each end, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/read-aloud-controls-editor.png" alt="The Read Aloud Controls editor on an iPhone 18 Pro Max: a page of text with one sentence highlighted, the timeline above it with a button at each end and the row of five buttons under the timeline, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 </div>
 
 1. Tap any of the five slots in the row, or either end of the timeline. Choose **Play/Pause**, **Previous Sentence**, **Next Sentence**, **Back 10 Seconds**, **Forward 10 Seconds**, **Previous Chapter**, **Next Chapter**, **Sleep Timer**, **Speed** or **Stop Reading Aloud**. **None** leaves the slot empty, shown as a dashed circle.

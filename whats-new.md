@@ -58,6 +58,8 @@ _Version 1.422.0 · 25 November 2026_
 - Lists of books start sorted by series, then by each book's place in it.
 - An EPUB's text no longer moves when its controls show or hide.
 
+<img src="images/iphone-18-pro-max/book-page.png" width="300" alt="A book's page on an iPhone 18 Pro Max: the cover of The Gift of the Magi beside its title, author, format and Unread mark, with a wide Read button and the check-mark button under them">
+
 <details markdown="1">
 <summary>Everything in 1.422.0</summary>
 
@@ -173,7 +175,7 @@ _Version 1.418.0 · 24 November 2026_
 - A book with its own narration shows a timeline of the chapter: time played and left, and drag it to move through the chapter.
 - The sleep timer and the speed sit at the timeline's ends. The speaker at the top stops reading.
 
-<img src="images/iphone-18-pro-max/readaloud-narration.png" width="300" alt="A Storyteller book reading aloud its own narration on an iPhone 18 Pro Max: the spoken sentence highlighted, and at the bottom the dark row of Previous Chapter, Previous Sentence, a large Pause, Next Sentence and Next Chapter over the chapter's timeline, 2:39 played and 10:42 left, with the sleep timer and 1× at its ends">
+<img src="images/iphone-18-pro-max/readaloud-narration.png" width="300" alt="A Storyteller book reading aloud its own narration on an iPhone 18 Pro Max: the spoken sentence highlighted, and at the bottom the chapter's timeline, with the time played and left, above a row of Previous Chapter, Previous Sentence, Pause, Next Sentence and Next Chapter, with the sleep timer and 1× at the timeline's ends">
 
 <details markdown="1">
 <summary>Everything in 1.418.0</summary>

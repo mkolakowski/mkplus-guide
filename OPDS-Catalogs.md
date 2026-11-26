@@ -99,9 +99,9 @@ A library's series show as covers, three across or more. The library's name is a
 ### A series
 
 <div class="shot" markdown="0">
-<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/books-series.png" alt="A series with its volumes and read marks, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
-<div class="shot-variant shot-duo-front"><img src="images/duo-front/books-series.png" alt="A series with its volumes and read marks, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
-<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/books-series.png" alt="A series with its volumes and read marks, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/books-series.png" alt="A series with its volumes and read marks, each chapter in the list with a round Read button, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-duo-front"><img src="images/duo-front/books-series.png" alt="A series with its volumes and read marks, each chapter in the list with a round Read button, on the iPhone Duo, closed" loading="lazy"><div class="shot-label">iPhone Duo — closed</div></div>
+<div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/books-series.png" alt="A series with its volumes and read marks, each chapter in the list with a round Read button, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
 A series page shows its cover, summary and progress, and a button for what to read next. The button says **Start Reading**, **Continue**, **Read Next** or **Read Again**, whichever fits where you are. **Volumes** and **Chapters** switch between the two when a series has both.
@@ -121,6 +121,10 @@ If you'd rather not have series pages, turn off Settings → **Catalogs** → **
 ### A book's page
 
 Tapping a book opens its page, the way a movie opens its own: the cover, title and author, the series it's in and where, its pages and size, how far you've read and its summary. **Read** opens the book (**Continue** once you've started, **Read Again** once you've finished), and closing the book brings you back to its page. The check-mark button beside it marks the book read or unread.
+
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/book-page.png" alt="A book's page on an iPhone 18 Pro Max: the cover of The Gift of the Magi beside its title, author, format and Unread mark, with a wide Read button and the check-mark button under them, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
 
 Each book's cover in the list has a **Read** button too, which opens the book straight away without its page: a labelled button on big covers, a round one on small covers and in a list.
 
