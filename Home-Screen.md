@@ -38,7 +38,7 @@ The smart widgets are:
 - **Continue Watching**: what you've started on your Jellyfin servers, ready to resume.
 - **Next Up**: the next episode of each show you're partway through on Jellyfin.
 - **Favorites**: what you've marked as a favorite on Jellyfin.
-- **Continue Reading**: where you left off in your Kavita and Komga catalogs (their "On Deck" or "Keep Reading" shelf).
+- **Continue Reading**: where you left off in your book catalogs: their "On Deck" or "Keep Reading" shelf, and the books you've started in MK Plus and not finished, such as EPUBs and Storyteller readalong books. What you read most recently comes first.
 - **Spotlight**: one big card with the one thing to carry on with. See [Spotlight](#spotlight) below.
 
 A smart widget only shows if you have a server of that kind. In Add Widgets they sit at the top, under **Smart Widgets**.

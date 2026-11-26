@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Continue Reading lists what you've been reading
+
+_Version 1.423.0 · 26 November 2026_
+
+- Continue Reading on Home now lists EPUBs and readalong books you've left part-way, as well as each catalog's On Deck.
+- What you read most recently comes first.
+
+<details markdown="1">
+<summary>Everything in 1.423.0</summary>
+
+**New**
+
+- Continue Reading also lists the books you've started in MK Plus and not finished, such as EPUBs and Storyteller readalong books, most recently read first. Finished books drop off.
+
+**Changed**
+
+- A catalog's On Deck list keeps the catalog's own order instead of sorting by series.
+
+</details>
+
 ### Book pages, a Read button and series order
 
 _Version 1.422.0 · 25 November 2026_
