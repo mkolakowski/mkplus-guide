@@ -33,7 +33,7 @@ You can open a server from Home, or from the **Servers** tab if you've turned it
 - Swipe a server to **Edit** or **Delete** it. Settings → Server List → **Swap Swipe Directions** flips which way does which.
 - Press and hold a server to put it on Home with **Add to Home**.
 
-Folders open one inside the other, with a back button at the top left. Pull down in a folder to refresh it. Tap a video to play it in the [video player](Video-Player.html). Comics, books and PDFs open in the [reader](Reader.html), and pictures in the image viewer.
+Folders open one inside the other, with a back button at the top left. Pull down in a folder to refresh it. Tap a video to play it in the [video player](Video-Player.html). Tapping a comic, book or PDF opens its page, with a **Read** button that opens it in the [reader](Reader.html) (see [A book's page](OPDS-Catalogs.html#a-books-page)); the **Read** button on its cover opens it straight away. Pictures open in the image viewer.
 
 ## A folder
 
@@ -51,7 +51,7 @@ The layout button changes how a folder looks. The choices are **List**, **Small 
 
 ### Sort
 
-The sort button orders a folder by **Name**, **Date** or **Size**. Choose the one that's already picked again to reverse it. Jellyfin adds **Episode**, and book catalogs add **Catalog**. In a series of books, **Number** goes by volume and chapter number, and **Read Status** puts what you're reading first. In Settings → File Browsing, **Sort Button Reverses** makes a tap reverse the order and a hold open the menu.
+The sort button orders a folder by **Name**, **Date** or **Size**. Choose the one that's already picked again to reverse it. Jellyfin adds **Episode**, and book catalogs add **Catalog**. Where a folder is mostly books, **Series** orders them by series name, then by each book's place in it, and a list of books starts that way (Settings → Catalogs → **Sort Books by Series**). In a series of books, **Number** goes by volume and chapter number, and **Read Status** puts what you're reading first. In Settings → File Browsing, **Sort Button Reverses** makes a tap reverse the order and a hold open the menu.
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/folder-options.png" alt="A folder's Sort menu, with Name, Date and Size, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
