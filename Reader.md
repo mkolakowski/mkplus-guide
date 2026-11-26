@@ -145,7 +145,7 @@ An EPUB's text reflows to fit your screen. Its controls are a little different:
   - **Text Size**, **Font** (the book's own, or one of several, including OpenDyslexic), **Margins**, **Columns** (**Automatic**, **One Column** or **Two Columns**), **Line Spacing**, **Paragraph Spacing**, **Justify** and **Hyphenation**.
   - **Book's Layout** keeps the layout the book was made with.
   - **Turn Style**: **Slide**, **Curl**, **Instant** or **Vertical Scroll**.
-- **Read Aloud** (the speaker) reads the book to you from the page you're on, and tap it again to stop. While it reads, a row of buttons like the video player's sits at the bottom: **Previous Chapter**, **Previous Sentence**, a large **Pause** in the middle, **Next Sentence** and **Next Chapter**. The sleep timer (the moon) and the speed sit either side of the scrubber. **Previous Chapter** goes back to the start of the chapter, or to the one before if you're right at its start. Whether it turns pages for you is in Settings → Reading → **Turning Pages**. You can [choose which buttons these are](#choose-the-read-aloud-buttons).
+- **Read Aloud** (the speaker) reads the book to you from the page you're on, and tap it again to stop. While it reads, the video player's controls sit at the bottom, glass buttons on the shade: **Previous Chapter**, **Previous Sentence**, **Pause** in the middle, **Next Sentence** and **Next Chapter**. The sleep timer (the moon) and the speed sit either side of the scrubber. **Previous Chapter** goes back to the start of the chapter, or to the one before if you're right at its start. Whether it turns pages for you is in Settings → Reading → **Turning Pages**. You can [choose which buttons these are](#choose-the-read-aloud-buttons).
 
 The scrubber moves through the book by position. With **Shade Behind Controls** on, the dark shade sits behind the buttons, the Read Aloud controls and the scrubber here too, and they turn light so they stand out on a white page. Tap zones, keys and page turners work as they do for comics. As with comics, what you change in **Aa** is for this book only; **Aa** also has this book's Read Aloud speed and highlight.
 
@@ -162,11 +162,11 @@ On an iPad on its side, **Controls in the Margins** keeps a column down the righ
 
 ### Readaloud books
 
-Some EPUBs carry their own recording, with each sentence marked as it's spoken. [Storyteller](OPDS-Catalogs.html#storyteller) makes them. In one of these, **Read Aloud** plays the recording instead of the iPhone's voice:
+Some EPUBs carry their own recording, with each sentence marked as it's spoken. [Storyteller](OPDS-Catalogs.html#storyteller) makes them. In one of these, the media controls are at the bottom whenever the controls show, in place of the speaker: **Play** starts the recording from the page you're on, and they stay after it stops. To have the speaker instead, turn off Settings → Reading → **Turning Pages** → **Media Controls in Readaloud Books**. The recording plays instead of the iPhone's voice:
 
 - The sentence being spoken is highlighted (in teal, or the color you pick in Settings → Reading → Turning Pages → **Highlight Color**), and the page turns to follow it.
 - A sentence that would run past the bottom of a page starts on the next page instead, so the highlighted sentence isn't cut in two by a page turn. Pages sometimes end early because of it, but never with more than a third of the page left blank: where moving a sentence would leave more, it stays split. A split sentence, or one longer than a whole page, turns to its next page as the narration reaches it. To lay the pages out as other books are, turn off Settings → Reading → **Turning Pages** → **Keep Sentences on One Page**.
-- Under the row of buttons, a timeline shows the chapter: the time played and the time left. Drag it to move through the chapter. The sleep timer and the speed sit at its ends.
+- Above the row of buttons, as in the video player, a timeline shows the chapter: the time played and the time left. Drag it to move through the chapter. The sleep timer and the speed sit at its ends.
 - It keeps playing when you lock your iPhone or switch apps, and the Lock Screen shows the book with play, pause and skip.
 - The speed and the sleep timer (the moon) work as they do for the iPhone's voice.
 
@@ -195,7 +195,7 @@ Your layout is saved in your Reading Profiles.
 
 ### Choose the Read Aloud buttons
 
-**Read Aloud Controls** shows a page being read aloud, with the controls where the reader puts them: a row of five buttons, over a timeline with a button at each end. You can also find it by searching Settings for "read aloud controls".
+**Read Aloud Controls** shows a page being read aloud, with the controls where the reader puts them: a timeline with a button at each end, over a row of five buttons. You can also find it by searching Settings for "read aloud controls".
 
 <div class="shot" markdown="0">
 <div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/read-aloud-controls-editor.png" alt="The Read Aloud Controls editor on an iPhone 18 Pro Max: a page of text with one sentence highlighted, the five buttons of the row under it and the timeline below with a button at each end, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
@@ -205,7 +205,7 @@ Your layout is saved in your Reading Profiles.
 2. A button sits in one slot. Choose one that's already somewhere else and it moves.
 3. Tap **Reset** to go back to the usual row: a chapter back, a sentence back, Play/Pause, a sentence on and a chapter on, with the sleep timer and speed at the timeline's ends. Tap **Done**, or pull the page down, to close.
 
-Reading aloud, the reader follows what you chose. Empty slots close up. **Back 10 Seconds**, **Forward 10 Seconds** and the timeline are for books with their own narration, so they're left out when the iPhone's voice reads. If you leave **Play/Pause** out, the reader adds one in the middle, as there'd be no other way to pause. **Stop Reading Aloud** is the speaker at the top; put it in a slot as well if you want it in the row.
+Reading aloud, the reader follows what you chose. Empty slots close up. **Back 10 Seconds**, **Forward 10 Seconds** and the timeline are for books with their own narration, so they're left out when the iPhone's voice reads. If you leave **Play/Pause** out, the reader adds one in the middle, as there'd be no other way to pause. **Stop Reading Aloud** is the speaker at the top; put it in a slot as well if you want it in the row. A readaloud book has no speaker, and **Pause** stops it.
 
 ## Where you left off
 

@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Readalong controls like the video player's
+
+_Version 1.424.0 · 26 November 2026_
+
+- In a readalong book, the media controls now show whenever the reader's controls do, ready to play. The speaker button is gone.
+- Read Aloud's buttons and timeline now look like the video player's.
+
+<details markdown="1">
+<summary>Everything in 1.424.0</summary>
+
+**Changed**
+
+- Media Controls in Readaloud Books: a readalong book's media controls show with the reader's controls, and Play starts its narration from the page you're on. Turn it off in Settings → Reading → Turning Pages to have the speaker back.
+- Read Aloud's controls look like the video player's: the timeline above a row of glass buttons, all the same size, on a dark shade.
+
+</details>
+
 ### Continue Reading lists what you've been reading
 
 _Version 1.423.0 · 26 November 2026_
