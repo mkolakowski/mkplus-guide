@@ -112,9 +112,19 @@ Swipe right on a book to mark it read, or unread if it's read. To mark several, 
 
 The filter button shows only the **Unread**, **Reading** or **Read** books, or **All** of them again; each series remembers its own choice. The sort button adds **Number**, which goes by volume and chapter number, and **Read Status**, which puts the book you're reading first, then the unread ones.
 
+A list of books starts sorted by **Series**: series names A to Z, then each book's place in its series. The place comes from the catalog where it says, otherwise from the book's title, such as "Saga Vol. 3". The sort button changes it, and Settings → **Catalogs** → **Sort Books by Series** turns it off.
+
 The check-mark button next to the next-up button marks every book in the series as read in one go (or unread, once it's all read): it asks first, and **Mark as Read** (or **Mark as Unread**) confirms.
 
 If you'd rather not have series pages, turn off Settings → **Catalogs** → **Series Pages**.
+
+### A book's page
+
+Tapping a book opens its page, the way a movie opens its own: the cover, title and author, the series it's in and where, its pages and size, how far you've read and its summary. **Read** opens the book (**Continue** once you've started, **Read Again** once you've finished), and closing the book brings you back to its page. The check-mark button beside it marks the book read or unread.
+
+Each book's cover in the list has a **Read** button too, which opens the book straight away without its page: a labelled button on big covers, a round one on small covers and in a list.
+
+To have a tap open the book straight away, turn off Settings → **Catalogs** → **Book Pages**. **Read Button on Covers** turns the cover buttons off. Books in a folder on a share work the same way.
 
 ## Read, and keep your place
 

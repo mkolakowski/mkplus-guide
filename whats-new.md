@@ -12,6 +12,34 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Book pages, a Read button and series order
+
+_Version 1.422.0 · 25 November 2026_
+
+- Tapping a book now opens its page, like a movie: its cover, series, summary and a Read button.
+- Book covers have a Read button that opens the book straight away.
+- Lists of books start sorted by series, then by each book's place in it.
+- An EPUB's text no longer moves when its controls show or hide.
+
+<details markdown="1">
+<summary>Everything in 1.422.0</summary>
+
+**New**
+
+- Book Pages: tapping a book opens its page, with its cover, title and author, the series it's in and where, its pages and size, how far you've read and its summary. Read opens the book, and closing it brings you back. Turn it off in Settings → Catalogs → Book Pages.
+- Read Button on Covers: each book's cover in a list has a Read button (Continue once started) that opens the book without its page.
+- A Series sort: series A to Z, then each book's place in it.
+
+**Changed**
+
+- Lists of books start in Series order. Sort changes it in any list, and Settings → Catalogs → Sort Books by Series turns it off.
+
+**Fixed**
+
+- In an EPUB, showing or hiding the controls moved the text, and on the open iPhone Duo on its side reloaded the page. The text now stays where it is.
+
+</details>
+
 ### Tap zones of their own for manga
 
 _Version 1.421.0 · 25 November 2026_
