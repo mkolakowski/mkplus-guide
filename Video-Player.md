@@ -142,6 +142,10 @@ A copy button copies the video you're watching to a folder you picked when you m
    - **Skip** leaves the old one and tells you.
 4. In Media Controls, tap a slot and pick the button under **Copy Buttons**.
 
+<div class="shot" markdown="0">
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/copy-button-new.png" alt="Settings → Copy Buttons → New Copy Button on an iPhone 18 Pro Max: the name To Archive, Copies To with Choose a folder, and If It's Already There with Ask, Keep Both, Replace and Skip, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+</div>
+
 While a video plays, tap the button to start copying. Press and hold it to see its name and where it copies to. Copy buttons work on videos from SMB servers. On other videos the button is dimmed, and tapping it tells you why.
 
 Copies run one at a time, in the order you tapped. They keep going after you close the video. A pill at the top of the screen shows the copy that's running. Tap it to see every copy, cancel one or try a failed one again. The same list is on the **Downloads** tab.

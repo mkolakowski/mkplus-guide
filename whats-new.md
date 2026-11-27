@@ -36,6 +36,8 @@ _Version 1.425.0 · 27 November 2026_
 - Each button can ask, keep both, replace or skip when the file is already there.
 - Copies keep going after you close the video. A pill at the top shows the one that's running, and the list is on Downloads.
 
+<img src="images/iphone-18-pro-max/copy-button-new.png" width="300" alt="Settings → Copy Buttons → New Copy Button on an iPhone 18 Pro Max: the name To Archive, Copies To with Choose a folder, and If It's Already There with Ask, Keep Both, Replace and Skip">
+
 <details markdown="1">
 <summary>Everything in 1.425.0</summary>
 
