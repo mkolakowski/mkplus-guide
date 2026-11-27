@@ -104,7 +104,7 @@ A library's series show as covers, three across or more. The library's name is a
 <div class="shot-variant shot-duo-open-side"><img src="images/duo-open-side/books-series.png" alt="The Tide Pages series on an iPhone 18 Pro Max: its cover and details, a Continue Chapter 2 button with Mark as Read, Download and Add to Home beside it, the summary, and All Chapters listing each chapter with its read mark and a round Read button, on the iPhone Duo, open on its side" loading="lazy"><div class="shot-label">iPhone Duo — open, on its side</div></div>
 </div>
 
-A series page shows its cover, summary and progress, and a button for what to read next. The button says **Start Reading**, **Continue**, **Read Next** or **Read Again**, whichever fits where you are. When a series has both volumes and chapters, a row of covers above the list shows one kind at a time, and **Volumes** and **Chapters** switch between them.
+A series page shows its cover, summary and progress, and a button for what to read next. The button says **Start Reading**, **Continue**, **Read Next** or **Read Again**, whichever fits where you are. When a series has both volumes and chapters, a row of covers above the list shows one kind at a time, and **Volumes** and **Chapters** switch between them. A swipe along the row stops on a cover, and the cover to read next has a round read button that opens it. If you'd rather the row scrolled freely, turn off Settings → **Catalogs** → **Series Shelf Snaps to Covers**.
 
 Each book in the list says how far you've got: **Read** with a check mark in a circle, the page you're on (**Page 12 of 40**) with a half-filled circle, or **Unread** with a dot. The same goes for a folder of comics on a share.
 

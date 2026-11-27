@@ -47,7 +47,7 @@ Folders open one inside the other, with a back button at the top left. Pull down
 
 ### Layout
 
-The layout button changes how a folder looks. The choices are **List**, **Small Grid**, **Large Grid**, **Cards** and **Carousel**. A Jellyfin movie or show library, and a book library's list of series, also offer **Posters** and open in it to start with. Tap the button to go to the next layout, or, with Settings → File Browsing → **Layout Button Cycles** off, tap it to choose from a menu. On a share, the layout you pick in a folder stays for that folder.
+The layout button changes how a folder looks. The choices are **List**, **Small Grid**, **Large Grid**, **Cards** and **Carousel**. A Jellyfin movie or show library, and a book library's list of series, also offer **Posters** and open in it to start with. Tap the button to go to the next layout, or, with Settings → File Browsing → **Layout Button Cycles** off, tap it to choose from a menu. On a share, the layout you pick in a folder stays for that folder. In a book library's **Carousel**, the series in the middle shows its counts and progress and a button to read next (**Start Reading**, **Continue** or **Read Again**); a swipe always stops with one in the middle.
 
 ### Sort
 

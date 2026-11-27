@@ -12,6 +12,27 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Carousels that stop on a cover, with a read button
+
+_Version 1.431.0 · 27 November 2026_
+
+- A library in the Carousel layout stops on a series after each swipe, and the one in the middle shows how far you are and a button to read next.
+- A series page's row of covers stops on a cover too, and the one to read next has a round read button.
+
+<details markdown="1">
+<summary>Everything in 1.431.0</summary>
+
+**New**
+
+- In a library's Carousel layout, the series in the middle shows its counts and progress and a Start Reading, Continue or Read Again button, as on the series page. A light tap marks each cover it settles on.
+- On a series page with volumes and chapters, the cover to read next has a round read button that opens the book. Turn the button and the stopping off in Settings → Catalogs → Series Pages → Series Shelf Snaps to Covers.
+
+**Changed**
+
+- A series page's row of covers stops on a cover after each swipe instead of scrolling freely.
+
+</details>
+
 ### Series cards fill the row and say what they'll do
 
 _Version 1.430.0 · 27 November 2026_
