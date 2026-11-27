@@ -12,6 +12,33 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A tidier series page, and fixes for the iPhone Duo
+
+_Version 1.429.0 · 27 November 2026_
+
+- A series page no longer shows its chapters or their count twice.
+- Mark as Read and Add to Home have their own symbols, a book with a tick and a house with a plus.
+- A video that can't play shows only its message and one Close.
+
+<img src="images/iphone-18-pro-max/books-series.png" width="300" alt="The Tide Pages series on an iPhone 18 Pro Max: its cover and details, a Continue Chapter 2 button with Mark as Read (a book with a tick), Download and Add to Home (a house with a plus) beside it, the summary, and All Chapters listing each chapter once">
+
+<details markdown="1">
+<summary>Everything in 1.429.0</summary>
+
+**Changed**
+
+- A series page shows its shelf of covers only when it holds something the list under it doesn't, such as volumes and chapters. The chapter count isn't repeated over the progress bar.
+- Mark as Read is now a book with a tick, and Add to Home a house with a plus, so they don't look like the tab bar's Select and Home.
+- When a video can't play, the player shows its title, the message and one Close button, without controls that can't do anything.
+
+**Fixed**
+
+- On the open iPhone Duo held upright, Home's Downloads row has margins like the widgets above it.
+- In Search on the folded iPhone Duo, the tab bar stops above the keyboard and scrolls to Settings and Search.
+- Home's carousel keeps its cover small enough to show the title and details on a short screen.
+
+</details>
+
 ### Copies between servers no longer need room on your iPhone
 
 _Version 1.428.0 · 27 November 2026_
@@ -129,7 +156,7 @@ _Version 1.422.0 · 25 November 2026_
 - Lists of books start sorted by series, then by each book's place in it.
 - An EPUB's text no longer moves when its controls show or hide.
 
-<img src="images/iphone-18-pro-max/book-page.png" width="300" alt="A book's page on an iPhone 18 Pro Max: the cover of The Gift of the Magi beside its title, author, format and Unread mark, with a wide Read button and the check-mark button under them">
+<img src="images/iphone-18-pro-max/book-page.png" width="300" alt="A book's page on an iPhone 18 Pro Max: the cover of The Gift of the Magi beside its title, author, format and Unread mark, with a wide Read button and the Mark as Read button beside it">
 
 <details markdown="1">
 <summary>Everything in 1.422.0</summary>
