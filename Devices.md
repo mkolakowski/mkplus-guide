@@ -126,7 +126,7 @@ Upright, and bent so the fold runs across, the Duo can stand on a table. **Table
 - A book shows two pages side by side upright as well as on its side, because **Two Pages When Upright** is on to start with on an iPad.
 - On a book server's series page, with the iPad on its side, **Series Details Beside the List** (Settings → Catalogs) puts the series' details in a column beside its books, as on the Duo. Upright, they stay above the list.
 
-  <img src="images/ipad-air-11/books-series-side.png" width="520" alt="A series on an iPad Air on its side: the cover, title, progress and Continue button in a column on the left, the chapters beside it">
+  <img src="images/ipad-air-11/books-series-side.png" width="520" alt="A series on an iPad Air on its side: the cover, title, details, Continue button and Mark Read, New Ones and Home in a column on the left, the chapters beside it">
 
 - On its side, Settings keeps its list of pages on the left and the page you pick on the right, as on the Duo. Switch it with **Two Columns on Its Side** (Settings → Settings Display). Upright, in a narrow Split View window, or with **Large Settings** off, Settings is one column.
 

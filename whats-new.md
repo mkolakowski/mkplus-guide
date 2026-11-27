@@ -12,6 +12,34 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### A tidier series page
+
+_Version 1.432.0 · 27 November 2026_
+
+- A series page says its name once, with its counts, progress and dates in two short lines.
+- Mark Read, New Ones and Home sit under the read button, each with its name.
+- On the iPhone Duo and iPad, the strip beside a series' card keeps your Home's colors. Turn on Series Color Around the Card to fill it with the series' instead.
+
+<img src="images/iphone-18-pro-max/books-series.png" width="300" alt="The Tide Pages series on an iPhone 18 Pro Max: its cover, name and two lines of details, a Continue Chapter 2 button across the page with Mark Read, New Ones and Home under it, the summary, and All Chapters listing each chapter with its read mark and a round Read button">
+
+<details markdown="1">
+<summary>Everything in 1.432.0</summary>
+
+**New**
+
+- Series Color Around the Card (Settings → Catalogs → Series Pages, iPhone Duo and iPad): the series' colors fill the strip and the band above its card, so the card floats on them.
+
+**Changed**
+
+- The strip beside a series page's card keeps your Home's colors, so it no longer ends in a square corner beside the card.
+- A series page shows its name once, on the page, not in the bar above it too.
+- Kavita's counts and how much you've read share one line, and the format sits beside the dates.
+- The read button runs across the page, with Mark Read, New Ones and Home under it, named and the same size.
+- The summary leaves out Kavita's "Format: … Summary:" start and shows three lines, with More.
+- Volumes and Chapters above the row of covers are headings now, not buttons.
+
+</details>
+
 ### Carousels that stop on a cover, with a read button
 
 _Version 1.431.0 · 27 November 2026_
@@ -59,8 +87,6 @@ _Version 1.429.0 · 27 November 2026_
 - A series page no longer shows its chapters or their count twice.
 - Mark as Read and Add to Home have their own symbols, a book with a tick and a house with a plus.
 - A video that can't play shows only its message and one Close.
-
-<img src="images/iphone-18-pro-max/books-series.png" width="300" alt="The Tide Pages series on an iPhone 18 Pro Max: its cover and details, a Continue Chapter 2 button with Mark as Read (a book with a tick), Download and Add to Home (a house with a plus) beside it, the summary, and All Chapters listing each chapter once">
 
 <details markdown="1">
 <summary>Everything in 1.429.0</summary>
