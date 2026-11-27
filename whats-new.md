@@ -12,6 +12,26 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Copy buttons for the player
+
+_Version 1.425.0 · 27 November 2026_
+
+- Make buttons for the player that copy the video you're watching to a folder you choose, on the same SMB server or another one.
+- Each button can ask, keep both, replace or skip when the file is already there.
+- Copies keep going after you close the video. A pill at the top shows the one that's running, and the list is on Downloads.
+
+<details markdown="1">
+<summary>Everything in 1.425.0</summary>
+
+**New**
+
+- Settings → Copy Buttons: make as many as you like, each with a name, a folder on an SMB server, and what to do when the file is already there (Ask, Keep Both, Replace or Skip). Put them in the player in Media Controls, under Copy Buttons. You can also make one from a slot there.
+- Tap a copy button while a video from an SMB server plays to copy it. Press and hold it to see where it copies to. On other videos it's dimmed.
+- Copies run one at a time and keep going after the player closes. A pill at the top of the screen shows the copy that's running. Tap it, or open Downloads, to cancel a copy or try one again.
+- Slow Copies While Playing (on to start with): copies between servers go slower while a video plays, so the video doesn't stutter.
+
+</details>
+
 ### Readalong controls like the video player's
 
 _Version 1.424.0 · 26 November 2026_

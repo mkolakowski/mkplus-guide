@@ -129,6 +129,27 @@ Settings → **Media Controls** opens an editor that looks like the player itsel
 
 The Media Controls page is also the way to add buttons that aren't there to start with, such as **Playback Speed** or **Sleep Timer**.
 
+## Copy buttons
+
+A copy button copies the video you're watching to a folder you picked when you made the button, on the same SMB server or another one. Make as many as you like, such as one for an archive and one for the kids' shows.
+
+1. Go to Settings → **Copy Buttons** and tap **New Copy Button**. You can also tap a slot in Media Controls and choose **New Copy Button…** there.
+2. Give it a name, then tap **Copies To** and pick a server and a folder.
+3. Under **If It's Already There**, choose what happens when that folder already has a file with the same name:
+   - **Ask** asks each time. **Copy Anyway** saves a second copy with a number added to its name.
+   - **Keep Both** saves a second copy without asking.
+   - **Replace** copies over the one that's there.
+   - **Skip** leaves the old one and tells you.
+4. In Media Controls, tap a slot and pick the button under **Copy Buttons**.
+
+While a video plays, tap the button to start copying. Press and hold it to see its name and where it copies to. Copy buttons work on videos from SMB servers. On other videos the button is dimmed, and tapping it tells you why.
+
+Copies run one at a time, in the order you tapped. They keep going after you close the video. A pill at the top of the screen shows the copy that's running. Tap it to see every copy, cancel one or try a failed one again. The same list is on the **Downloads** tab.
+
+Copying to a folder on the same share is done by the server itself. Copying to another server or share goes through your iPhone, so it needs that much free space for a while. While a video plays, those copies go slower so the video doesn't stutter. To let them go at full speed, turn off **Slow Copies While Playing** in Settings → **Copy Buttons**.
+
+If you leave the app, a copy has a short while to finish. If it's stopped, it's listed with **Try Again**.
+
 ## Files that open in a different player
 
 MK Plus has two players behind the same controls. Apple's player handles what iOS plays itself. The app's own player takes the rest, such as MKV files with unusual subtitles, and jumps around a video on a share quickly. You don't have to choose.
