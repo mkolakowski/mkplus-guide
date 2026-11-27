@@ -12,6 +12,25 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Series cards fill the row and say what they'll do
+
+_Version 1.430.0 · 27 November 2026_
+
+- A series' card in a Kavita or other catalog now runs across the row instead of stopping half way, with room for its title.
+- The card's button reads Start Reading, Continue or Read Again, as on the series page.
+- Cards show a two-line summary.
+
+<details markdown="1">
+<summary>Everything in 1.430.0</summary>
+
+**Changed**
+
+- A series' card takes the whole row on the open iPhone Duo and the iPad, until there's room for two.
+- The card's button says Start Reading, Continue or Read Again, and a series you've finished now has one too.
+- A series' card shows two lines of its summary. Turn it off in Settings → Catalogs → Series Cards → Summary.
+
+</details>
+
 ### A tidier series page, and fixes for the iPhone Duo
 
 _Version 1.429.0 · 27 November 2026_
