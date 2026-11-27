@@ -152,7 +152,7 @@ A copy button that copies to a private server only shows up while you're watchin
 
 Copies run one at a time, in the order you tapped. They keep going after you close the video. A pill at the top of the screen shows the copy that's running. Tap it to see every copy, cancel one or try a failed one again. The same list is on the **Downloads** tab.
 
-Copying to a folder on the same share is done by the server itself. Copying to another server or share goes through your iPhone, so it needs that much free space for a while. While a video plays, those copies go slower so the video doesn't stutter. To let them go at full speed, turn off **Slow Copies While Playing** in Settings → **Copy Buttons**.
+Copying to a folder on the same share is done by the server itself. Copying to another server or share passes through your iPhone a piece at a time, so it doesn't need free space on your iPhone, even for a big film. While a video plays, those copies go slower so the video doesn't stutter. To let them go at full speed, turn off **Slow Copies While Playing** in Settings → **Copy Buttons**.
 
 Copies keep going after you leave the app. Their progress shows on the Lock Screen and in the Dynamic Island, with a button to stop them. Copies from or to a private server don't show the video's name there. If you stop the copies there, or iOS needs to stop them, each one is listed with **Try Again**. If you close MK Plus in the app switcher, the copies stop too.
 

@@ -12,6 +12,22 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Copies between servers no longer need room on your iPhone
+
+_Version 1.428.0 · 27 November 2026_
+
+- Copying a video to another server no longer saves it on your iPhone first, so even a big film copies on a nearly full iPhone.
+
+<details markdown="1">
+<summary>Everything in 1.428.0</summary>
+
+**Changed**
+
+- A copy button that copies to another server or share now passes the video through a piece at a time, so it doesn't need free space on your iPhone. Its progress counts from the start to the end, rather than downloading and then uploading.
+- Dual Screen's copies between two servers work the same way.
+
+</details>
+
 ### Copy buttons get icons of their own
 
 _Version 1.427.0 · 27 November 2026_
