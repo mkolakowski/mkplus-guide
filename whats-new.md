@@ -12,6 +12,22 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Copies keep going out of the app
+
+_Version 1.426.0 · 27 November 2026_
+
+- Copies made with copy buttons keep going after you leave the app. Their progress shows on the Lock Screen and in the Dynamic Island.
+
+<details markdown="1">
+<summary>Everything in 1.426.0</summary>
+
+**New**
+
+- Copies keep going after you leave the app. Their progress shows on the Lock Screen and in the Dynamic Island, with a button to stop them. A private server's video isn't named there.
+- If you stop the copies there, or iOS needs to stop them, each one is listed with Try Again.
+
+</details>
+
 ### Copy buttons for the player
 
 _Version 1.425.0 · 27 November 2026_

@@ -148,7 +148,7 @@ Copies run one at a time, in the order you tapped. They keep going after you clo
 
 Copying to a folder on the same share is done by the server itself. Copying to another server or share goes through your iPhone, so it needs that much free space for a while. While a video plays, those copies go slower so the video doesn't stutter. To let them go at full speed, turn off **Slow Copies While Playing** in Settings → **Copy Buttons**.
 
-If you leave the app, a copy has a short while to finish. If it's stopped, it's listed with **Try Again**.
+Copies keep going after you leave the app. Their progress shows on the Lock Screen and in the Dynamic Island, with a button to stop them. Copies from or to a private server don't show the video's name there. If you stop the copies there, or iOS needs to stop them, each one is listed with **Try Again**. If you close MK Plus in the app switcher, the copies stop too.
 
 ## Files that open in a different player
 
