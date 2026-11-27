@@ -148,6 +148,8 @@ A copy button copies the video you're watching to a folder you picked when you m
 
 While a video plays, tap the button to start copying. Press and hold it to see its name and where it copies to. Copy buttons work on videos from SMB servers. On other videos the button is dimmed, and tapping it tells you why.
 
+A copy button that copies to a private server only shows up while you're watching a video from a private server. On any other video it's left out.
+
 Copies run one at a time, in the order you tapped. They keep going after you close the video. A pill at the top of the screen shows the copy that's running. Tap it to see every copy, cancel one or try a failed one again. The same list is on the **Downloads** tab.
 
 Copying to a folder on the same share is done by the server itself. Copying to another server or share goes through your iPhone, so it needs that much free space for a while. While a video plays, those copies go slower so the video doesn't stutter. To let them go at full speed, turn off **Slow Copies While Playing** in Settings → **Copy Buttons**.

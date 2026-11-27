@@ -48,7 +48,7 @@ This section decides where Home's buttons sit and how the tab bar behaves.
 - **Servers Tab** adds a **Servers** tab that lists every saved server. It's off to start with. On the iPhone Duo open on its side, **Servers Tab Across the Fold** keeps that list on the left and opens the server you pick on the right. **Hold Servers to Add a Server** makes a hold on that tab open **Add Server**.
 - **Browser Buttons in the Tab Bar** gives a folder's buttons to the tab bar, so **Search** in the bar searches the folder you're in. Off, the tab bar steps aside while a folder shows.
 
-Most of the tab bar's switches are greyed out while **Floating Tab Bar** is off. The iPhone Duo and iPad have a few more here, and big iPhones have **Big iPhones** (Spotlight or One Column on their side): see [On your device](Devices.html).
+Most of the tab bar's switches are greyed out while **Floating Tab Bar** is off. The switches for Home's bottom bar are greyed out while it's on, since the tab bar replaces that bar: **Settings on the Right**, **Edit Between + and Settings** and **Buttons on the Right on Its Side**, and also **Edit Below the Name** and **Tap + for a Menu** where **Home Buttons in the Tab Bar** puts **+** and **Edit** in the bar. The iPhone Duo and iPad have a few more here, and big iPhones have **Big iPhones** (Spotlight or One Column on their side): see [On your device](Devices.html).
 
 ### Home's look
 
