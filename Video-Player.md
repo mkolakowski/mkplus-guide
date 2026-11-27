@@ -134,7 +134,7 @@ The Media Controls page is also the way to add buttons that aren't there to star
 A copy button copies the video you're watching to a folder you picked when you made the button, on the same SMB server or another one. Make as many as you like, such as one for an archive and one for the kids' shows.
 
 1. Go to Settings → **Copy Buttons** and tap **New Copy Button**. You can also tap a slot in Media Controls and choose **New Copy Button…** there.
-2. Give it a name, then tap **Copies To** and pick a server and a folder.
+2. Give it a name and pick an **Icon** for it, so two copy buttons are easy to tell apart in the player. Then tap **Copies To** and pick a server and a folder.
 3. Under **If It's Already There**, choose what happens when that folder already has a file with the same name:
    - **Ask** asks each time. **Copy Anyway** saves a second copy with a number added to its name.
    - **Keep Both** saves a second copy without asking.
@@ -143,7 +143,7 @@ A copy button copies the video you're watching to a folder you picked when you m
 4. In Media Controls, tap a slot and pick the button under **Copy Buttons**.
 
 <div class="shot" markdown="0">
-<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/copy-button-new.png" alt="Settings → Copy Buttons → New Copy Button on an iPhone 18 Pro Max: the name To Archive, Copies To with Choose a folder, and If It's Already There with Ask, Keep Both, Replace and Skip, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
+<div class="shot-variant shot-iphone-18-pro-max"><img src="images/iphone-18-pro-max/copy-button-new.png" alt="Settings → Copy Buttons → New Copy Button on an iPhone 18 Pro Max: the name To Archive, a grid of 16 icons with the copy icon chosen, Copies To with Choose a folder, and If It's Already There with Ask, Keep Both, Replace and Skip, on an iPhone 18 Pro Max" loading="lazy"><div class="shot-label">iPhone 18 Pro Max</div></div>
 </div>
 
 While a video plays, tap the button to start copying. Press and hold it to see its name and where it copies to. Copy buttons work on videos from SMB servers. On other videos the button is dimmed, and tapping it tells you why.

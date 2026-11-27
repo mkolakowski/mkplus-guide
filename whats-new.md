@@ -12,6 +12,23 @@ The highlights of each MK Plus update since public TestFlight testing began (ver
 
 ## November 2026
 
+### Copy buttons get icons of their own
+
+_Version 1.427.0 · 27 November 2026_
+
+- Each copy button can have an icon: pick one of 16 when you make or change it.
+- Two copy buttons in the player are now easy to tell apart.
+
+<details markdown="1">
+<summary>Everything in 1.427.0</summary>
+
+**New**
+
+- Each copy button can have an icon of its own: a folder, a star, a film and more. Pick it in Settings → Copy Buttons → a button, under Icon. It shows in the player and in Media Controls.
+- Copy buttons you already have keep the copy icon until you pick another.
+
+</details>
+
 ### Copies keep going out of the app
 
 _Version 1.426.0 · 27 November 2026_
@@ -36,7 +53,7 @@ _Version 1.425.0 · 27 November 2026_
 - Each button can ask, keep both, replace or skip when the file is already there.
 - Copies keep going after you close the video. A pill at the top shows the one that's running, and the list is on Downloads.
 
-<img src="images/iphone-18-pro-max/copy-button-new.png" width="300" alt="Settings → Copy Buttons → New Copy Button on an iPhone 18 Pro Max: the name To Archive, Copies To with Choose a folder, and If It's Already There with Ask, Keep Both, Replace and Skip">
+<img src="images/iphone-18-pro-max/copy-button-new.png" width="300" alt="Settings → Copy Buttons → New Copy Button on an iPhone 18 Pro Max: the name To Archive, a grid of 16 icons with the copy icon chosen, Copies To with Choose a folder, and If It's Already There with Ask, Keep Both, Replace and Skip">
 
 <details markdown="1">
 <summary>Everything in 1.425.0</summary>
