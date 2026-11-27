@@ -73,9 +73,10 @@ The last group changes Settings itself.
 
 ## Controls
 
-Three rows lay out the buttons of the player, the reader and the picture viewer. Each opens full screen, on a sample, so you see every change as you make it.
+Rows here lay out the buttons of the player, the reader and the picture viewer. Each opens full screen, on a sample, so you see every change as you make it.
 
 - **Media Controls** lays out the video player's buttons, title and timeline. With an iPhone Duo bent open, it lays out the large controls instead. See [Lay the controls out your way](Video-Player.html#lay-the-controls-out-your-way).
+- **Copy Buttons** makes buttons for the player that copy the video playing to a folder you choose, on an SMB server. **Slow Copies While Playing** keeps copies slower while a video plays. See [Copy buttons](Video-Player.html#copy-buttons).
 - **Reader Controls** lays out a book's buttons, title, scrubber and page number, on a sample comic. Its card also opens **Read Aloud Controls**, which arranges the buttons shown while a book is read aloud. See [Lay the controls out your way](Reader.html#lay-the-controls-out-your-way).
 - **Tap Zones** sets which parts of a page turn it when you tap: a preset (**Sides**, **Kindle**, **Edges Only**, **One-Handed (Right)**, **One-Handed (Left)**, **Forward Anywhere**, **Off** or **Custom**), or nine zones of your own in **Custom Zones**. **Right-to-Left Books** is the layout for a book read right to left, such as a manga. **Follow Reading Direction** swaps the sides in a right-to-left book. With Show Advanced Settings on, it also has **Show Zones After a Change** and **Hold to Flip**. See [Tap zones](Reader.html#tap-zones).
 - **Image Viewer Controls** lays out the picture viewer's buttons, title and filmstrip or timeline. See [Lay the controls out your way](Image-Viewer.html#lay-the-controls-out-your-way).
